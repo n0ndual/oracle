@@ -71,7 +71,7 @@ from slowaes import AESModeOfOperation
 sys.path.append( path.dirname( path.dirname( path.abspath(__file__) ) ) )
 import shared
 shared.load_program_config()
-shared.import_reliable_sites(join(install_dir,'src','shared'))
+shared.import_reliable_sites(join(install_dir,'oracle','shared'))
 
 
     #override default config values
@@ -491,7 +491,7 @@ if __name__ == "__main__":
     from slowaes import AESModeOfOperation
     import shared
     shared.load_program_config()
-    shared.import_reliable_sites(join(install_dir,'src','shared'))
+    shared.import_reliable_sites(join(install_dir,'oracle','shared'))
     #override default config values
     if int(shared.config.get("General","tls_11")) == 0: 		
         global_tlsver = bytearray('\x03\x01')

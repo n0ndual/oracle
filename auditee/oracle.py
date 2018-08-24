@@ -5,10 +5,8 @@ import reviewer
 import sys
 reload(sys)
 sys.setdefaultencoding("utf-8")
-from flaskext.markdown import Markdown
 
 app = Flask(__name__)
-md = Markdown(app)
 
 PROOF_DIR = "proofs"
 data_dir = os.path.dirname(os.path.realpath(__file__))
