@@ -1,5 +1,0 @@
-Server name: Research School of Physics and Engineering
-
-Server pubkey:
-
-eb 9c c3 0a 4c 4a 44 3f b6 b9 1d dc b3 66 67 86 e8 b4 d3 74 4a 4e 51 49 60 d5 31 82 22 b5 6e b8 26 f5 65 80 07 2a 67 a5 d8 dd 4e c0 50 89 f8 2a 8c 90 0b d4 a2 75 2a a6 c5 3b e4 ee d7 a6 76 d1 c6 88 51 3d ec 2c e1 c8 4b fc a1 8b f9 72 4b 12 7a 75 2c d5 9a 32 37 6e c4 41 e7 7c 85 88 7c f0 02 40 e4 1c c2 19 68 b1 ee da 35 c6 ce da 47 3f ff 80 dc 36 38 ce 94 4e 99 d1 9e c6 ad 39 81 95 7f aa 22 0b 7c f1 da f0 f9 2f 72 dd ee 29 9a a9 f1 e4 c5 9a 1d 53 8d d4 fc c0 60 db 42 6a c6 5b 7a 1d 21 cf 46 62 89 21 ee bd ea a2 6a 4b 9d b5 c5 fb ee a0 cc ea cc 19 4e ba e5 e0 c6 a6 b7 d2 d2 05 de f1 d4 83 cd a2 65 3d e0 8f d4 41 d5 a6 97 23 36 f6 de b8 51 13 22 f9 97 fa 38 4e 70 e5 2b bb 8f 23 00 dd f6 a3 9c c5 ad 7a c0 a1 5c b7 01 12 7f 5b 3f 58 d9 b3 d2 fb 01 45 2d 89 cd 8b
