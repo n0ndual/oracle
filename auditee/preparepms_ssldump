@@ -1,0 +1,87 @@
+Session state dump: 
+client_enc_key
+None
+server_mac_key
+None
+p_auditor
+None
+master_secret_half_auditor
+None
+master_secret_half_auditee
+None
+n_auditee_entropy
+12
+server_mod_length
+None
+unexpected_server_app_data_count
+0
+server_modulus
+None
+tlsver
+bytearray: len:2
+0302
+auditee_secret
+None
+unexpected_server_app_data_raw
+string: len:0
+
+server_name
+string: len:7
+mail.ru
+server_exponent
+65537
+serverIV
+None
+p_auditee
+None
+ssl_port
+443
+auditor_padding_secret
+None
+client_hello
+<shared.tlsn_ssl.TLSClientHello object at 0x1021c6790>
+pms1
+None
+pms2
+None
+initial_tlsver
+bytearray: len:2
+0302
+auditee_padding_secret
+None
+handshake_messages
+[bytearray(b'\x01\x00\x00)\x03\x02[u\xa1z\x18\x89}\xd8\x04\x8d\xf1\xe9\xed\xd7geA\xf5\xda,\x07\xadx\xd0\xf4\xa7\x16\xfc\xc7\x9c\x9c\xd6\x00\x00\x02\x005\x01\x00'), None, None, None, None, None, None]
+p_master_secret_auditor
+None
+handshake_hash_md5
+None
+client_mac_key
+None
+server_response_app_data
+[]
+chosen_cipher_suite
+53
+server_certificate
+None
+enc_first_half_pms
+None
+offered_cipher_suites
+{53: ['AES256', 20, 20, 32, 32, 16, 16, 136]}
+verify_hmac_for_server_finished
+None
+clientIV
+None
+server_enc_key
+None
+enc_pms
+None
+enc_second_half_pms
+None
+auditor_secret
+None
+handshake_hash_sha
+None
+p_master_secret_auditee
+None
+n_auditor_entropy
+9

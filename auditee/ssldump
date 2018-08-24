@@ -1,0 +1,86 @@
+Session state dump: 
+client_enc_key
+None
+server_mac_key
+None
+p_auditor
+None
+master_secret_half_auditor
+None
+master_secret_half_auditee
+None
+n_auditee_entropy
+12
+server_mod_length
+bytearray: len:2
+0100
+unexpected_server_app_data_count
+0
+server_modulus
+20281191377149663358681498285576763736015385937144849322004937544318810209896870333301506786177056512834098843710131783450593766710361357912769324832700648597580157372953752395809315774386959771777673577277041018750505540558905487208869251229560254556165579223587573495813860461156618902691978420625471810779900798623888790018382822968523518850386612113706993953509333634716355310545775187174794241087941996199010357339749013843700472302815814301834195168978240333890786383963651840997137569762901594268291091099966655793699496645185580979474501056344394789036711278843691343657217156348791056384844217663814539186353
+tlsver
+bytearray: len:2
+0302
+auditee_secret
+None
+unexpected_server_app_data_raw
+string: len:0
+
+server_name
+string: len:9
+zhihu.com
+server_exponent
+65537
+serverIV
+None
+p_auditee
+None
+ssl_port
+443
+auditor_padding_secret
+None
+pms1
+None
+pms2
+None
+initial_tlsver
+bytearray: len:2
+0302
+auditee_padding_secret
+None
+handshake_messages
+[None, None, None, None, None, None, None]
+p_master_secret_auditor
+None
+handshake_hash_md5
+None
+client_mac_key
+None
+server_response_app_data
+[]
+chosen_cipher_suite
+None
+server_certificate
+None
+enc_first_half_pms
+None
+offered_cipher_suites
+{4: ['RC4MD5', 16, 16, 16, 16, 0, 0, 64], 5: ['RC4SHA', 20, 20, 16, 16, 0, 0, 72], 53: ['AES256', 20, 20, 32, 32, 16, 16, 136], 47: ['AES128', 20, 20, 16, 16, 16, 16, 104]}
+verify_hmac_for_server_finished
+None
+clientIV
+None
+server_enc_key
+None
+enc_pms
+None
+enc_second_half_pms
+None
+auditor_secret
+None
+handshake_hash_sha
+None
+p_master_secret_auditee
+None
+n_auditor_entropy
+9
