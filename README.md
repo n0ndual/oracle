@@ -1,5 +1,11 @@
 # oracle
 
+# 启动方式
+
+cd /auditee
+
+python oracle.py
+
 # baas上的oracle tutorial http rest api：
 
 共有五个服务，调用方法和普通rest api使用方式一样，可以参考auditee/test.sh
