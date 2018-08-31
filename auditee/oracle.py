@@ -5,17 +5,18 @@ import reviewer
 import sys
 reload(sys)
 sys.setdefaultencoding("utf-8")
+from flaskext.markdown import Markdown
 
 app = Flask(__name__)
+md = Markdown(app)
 
 PROOF_DIR = "proofs"
 data_dir = os.path.dirname(os.path.realpath(__file__))
 PROOF_DIR = os.path.join(data_dir, PROOF_DIR)
-
-# this is an all in one function,
+# this is a all in one function,
 # generate a proof
 # review the proof
-# send back the html content to users
+# post the proof to a public ipfs gateway
 @app.route('/foo', methods=['POST'])
 def foo():
     if request.method == 'POST':
@@ -46,7 +47,10 @@ def generate():
         print("args:" + json.dumps(args))
         header = args.get("header")
         target = args.get('target')
-        ok, prooffile = notarize.generate(target, header)
+        try:
+            ok, prooffile = notarize.generate(target, header)
+        except e:
+            return "The cipher suites of this server are not supported", 500
         if ok:
             return prooffile, 200
 
@@ -89,10 +93,10 @@ def upload(filename):
 @app.route('/review/<filename>', methods=['GET', 'POST'])
 def review(filename):
     filepath = os.path.join(PROOF_DIR, filename)
-    ok, result = reviewer.review(filepath)
+    ok, result, html = reviewer.review(filepath)
     if ok:
         return result, 200
-    return result, 500
+    return result, 200
 
 
 if __name__ == '__main__':

@@ -18,9 +18,7 @@ import OpenSSL
 
 
 #Globals
-audit_no = 0 #we may be auditing multiple URLs. This var keeps track of how many
-#successful audits there were so far and is used to index html files audited.
-#Default values from the config file. Will be overridden after configfile is parsed
+
 global_tlsver = bytearray('\x03\x02')
 global_use_gzip = True
 global_use_slowaes = False
@@ -29,7 +27,7 @@ global_use_paillier = False
 #file system setup.
 PROOF_DIR = "proofs"
 data_dir = os.path.dirname(os.path.realpath(__file__))
-install_dir = os.path.dirname(os.path.dirname(data_dir))
+install_dir = os.path.dirname(data_dir)
 PROOF_DIR = join(data_dir, PROOF_DIR)
 if not os.path.exists(PROOF_DIR):
     os.makedirs(PROOF_DIR)
@@ -71,7 +69,7 @@ from slowaes import AESModeOfOperation
 sys.path.append( path.dirname( path.dirname( path.abspath(__file__) ) ) )
 import shared
 shared.load_program_config()
-shared.import_reliable_sites(join(install_dir,'oracle','shared'))
+shared.import_reliable_sites(join(install_dir, 'shared'))
 
 
     #override default config values
@@ -84,9 +82,6 @@ if int(shared.config.get("General","gzip_disabled")) == 1:
 if int(shared.config.get("General","use_paillier_scheme")) == 1:
         global_use_paillier = True
 
-    
-
-
 
 
 
@@ -94,7 +89,15 @@ def probe_server_modulus(server):
     probe_session = shared.TLSNClientSession(server, tlsver=global_tlsver)
     print ('ssl port is: ', probe_session.ssl_port)
     tls_sock = shared.create_sock(probe_session.server_name,probe_session.ssl_port)
-    probe_session.start_handshake(tls_sock)
+    try:
+        probe_session.start_handshake(tls_sock)
+    except Exception as e:
+        print("tls 1.1 not support")
+        old_tlsver = bytearray('\x03\x01')
+        probe_session = shared.TLSNClientSession(server, tlsver= old_tlsver)
+        tls_sock = shared.create_sock(probe_session.server_name,probe_session.ssl_port)
+        probe_session.start_handshake(tls_sock)
+
     server_mod, server_exp = probe_session.extract_mod_and_exp()
     tls_sock.close()
     return shared.bi2ba(server_mod)
@@ -110,7 +113,7 @@ def start_generate(server_name, headers, server_modulus):
     tlsn_session = shared.TLSNClientSession(server_name, tlsver=global_tlsver)
     tlsn_session.server_modulus = shared.ba2int(server_modulus)
     tlsn_session.server_mod_length = shared.bi2ba(len(server_modulus))
-    
+
     print ('Preparing encrypted pre-master secret')
     prepare_pms(tlsn_session, session_id)
 
@@ -172,10 +175,27 @@ def start_generate(server_name, headers, server_modulus):
 
     host_line = "host: "+ server_name +"\n"
     readable = host_line
+    b = """"""""
+
+    b = """<meta[ ]+http-equiv=["']?content-type["']?[ ]+content=["']?text/html;[ ]*charset=([0-9-a-zA-Z]+)["']?"""
+    B = re.compile(b, re.IGNORECASE)
+    encodings = B.search(html)
+#    print("encoding:")
+#    print(encodings.group(1),len(encodings.group(1)))
+    if encodings != None:
+        encoding = encodings.group(1)
+        if encoding.lower() == 'gb231' or encoding.lower() == 'gb2312':
+            html = html.decode('gb18030')
+            #        print(html)
+        else:
+            html = html.decode(encoding)
+    else:
+        html.decode('utf-8')
+
     html = "response:\n" + html + '\n----------------------------------\n'
 #    print(html)
-    readable += html.decode().encode('utf-8')
-
+#    readable += html.decode().encode('utf-8')
+    readable += html
 #    print("readable:",readable)
     audit_data = bytearray('notarization binary data\n')
     # version of tlsnotary?
@@ -185,7 +205,7 @@ def start_generate(server_name, headers, server_modulus):
 #    audit_data += shared.bi2ba(len(server_name),fixed=2)
     # url
 #    audit_data += server_name
-    # chosen_cipher_suite 
+    # chosen_cipher_suite
     audit_data += shared.bi2ba(tlsn_session.chosen_cipher_suite,fixed=2) # 2 bytes
     # client_random, server_random
     audit_data += tlsn_session.client_random + tlsn_session.server_random # 64 bytes
@@ -403,6 +423,7 @@ def decrypt_html(pms2, tlsn_session):
         #either using slowAES or a RC4 ciphersuite
     try:
         plaintext,bad_mac = tlsn_session.process_server_app_data_records()
+#        print(plaintext)
     except shared.TLSNSSLError:
         shared.ssl_dump(tlsn_session)
         raise
@@ -491,7 +512,7 @@ if __name__ == "__main__":
     from slowaes import AESModeOfOperation
     import shared
     shared.load_program_config()
-    shared.import_reliable_sites(join(install_dir,'oracle','shared'))
+    shared.import_reliable_sites(join(install_dir,'src','shared'))
     #override default config values
     if int(shared.config.get("General","tls_11")) == 0: 		
         global_tlsver = bytearray('\x03\x01')

@@ -10,6 +10,9 @@ from pyasn1.codec.der import decoder
 from slowaes import AESModeOfOperation
 from slowaes import AES
 import tlsn_common
+from Crypto.Cipher import AES
+import OpenSSL
+import cryptography
 
 #*********** TLS CODE ***************************************
 #This is a *heavily* restricted, and modified
@@ -57,10 +60,15 @@ AES256-CBC-SHA: mac key 20*2, encryption key 32*2, IV 16*2 == 136bytes
 AES128-CBC-SHA: mac key 20*2, encryption key 16*2, IV 16*2 == 104bytes
 RC4128_SHA: mac key 20*2, encryption key 16*2 == 72bytes
 RC4128_MD5: mac key 16*2, encryption key 16*2 == 64 bytes"""
-tlsn_cipher_suites =  {47:['AES128',20,20,16,16,16,16],\
-                    53:['AES256',20,20,32,32,16,16],\
-                    5:['RC4SHA',20,20,16,16,0,0],\
-                    4:['RC4MD5',16,16,16,16,0,0]}
+#tlsn_cipher_suites =  {47:['AES128',20,20,16,16,16,16],\
+#                    53:['AES256',20,20,32,32,16,16],\
+#                    5:['RC4SHA',20,20,16,16,0,0],\
+#                    4:['RC4MD5',16,16,16,16,0,0]}
+tlsn_cipher_suites =  {47:['AES128-SHA',20,20,16,16,16,16],\
+                       53:['AES256-SHA',20,20,32,32,16,16],\
+                       5:['RC4-SHA',20,20,16,16,0,0],\
+                       4:['RC4-MD5',16,16,16,16,0,0]}
+
 #preprocessing: add the total number of bytes in the expanded keys format
 #for each cipher suite, for ease of reference
 for v in tlsn_cipher_suites.values():
@@ -98,6 +106,8 @@ def tls_record_decoder(d):
     records = []
     remaining = None
     if d[0] not in tls_record_types: return False
+    if d[0] == alrt:
+        raise TLSNSSLError("handshake alert")
     while d:    
         rt = d[0]
         if rt not in tls_record_types:
@@ -133,6 +143,9 @@ def tls_record_fragment_decoder(t,d, conn=None, ignore_mac = False):
         plaintext = d
 
     while len(plaintext):
+#        print("type:")
+#        print(ord(t))
+        print(ord(plaintext[0]))
         if t == hs:
             if not plaintext[0] in hs_type_map.keys():
                 raise TLSNSSLError("Invalid handshake type",plaintext[0])
@@ -140,6 +153,7 @@ def tls_record_fragment_decoder(t,d, conn=None, ignore_mac = False):
         elif t == appd:
             constructed_obj = TLSAppData(serialized=plaintext)
         elif t == alrt:
+            print("alert")
             constructed_obj = TLSAlert(serialized=plaintext)
         elif t == chcis:
             constructed_obj   = TLSChangeCipherSpec(serialized=plaintext)
@@ -177,8 +191,12 @@ class TLSRecord(object):
 class TLSHandshake(object):
     def __init__(self,serialized=None,handshake_type=None):
         self.handshake_type = handshake_type
+
         if serialized:
+
             self.serialized = serialized
+            print("handshake type:")
+            print(ord(self.serialized[0]))
             if not self.handshake_type == self.serialized[0]:
                 raise TLSNSSLError("Mismatched handshake type",self.handshake_type+self.serialized[0])
             if not self.handshake_type in [h_ch,h_sh,h_shd,h_cert,h_cke,h_fin]:
@@ -429,7 +447,8 @@ class TLSConnectionState(object):
         #note: for RC4, the 'IV' is None at the start, 
         #which tells the RC4 to initialize state
         ciphertext, self.IV = rc4_crypt(bytearray(cleartext),self.enc_key,self.IV)
-        self.seq_no += 1   
+        self.seq_no += 1
+ #       print("seq_no", seq_no,"rc4_me donw")
         return ciphertext 
     
     def rc4_dm(self,ciphertext, rec_type, return_mac=False):
@@ -465,20 +484,29 @@ class TLSConnectionState(object):
     
     def aes_cbc_dum(self,ciphertext,rec_type, return_mac=False):
         #decrypt
+
         if self.tlsver == tls_ver_1_1:
             self.IV = ciphertext[:aes_block_size]
             ciphertext = ciphertext[aes_block_size:]
         #else self.IV already stores the correct IV    
-        ciphertext_list,enc_list,iv_list = \
-            [map(ord,x) for x in [ciphertext,str(self.enc_key),str(self.IV)]]
-        moo = AESModeOfOperation()
-        key_size = tlsn_cipher_suites[self.cipher_suite][4]
-        decrypted = moo.decrypt(ciphertext_list,len(ciphertext),\
-            moo.modeOfOperation['CBC'],enc_list,key_size,iv_list)
+#        ciphertext_list,enc_list,iv_list = \
+#            [map(ord,x) for x in [ciphertext,str(self.enc_key),str(self.IV)]]
+#        moo = AESModeOfOperation()
+#        key_size = tlsn_cipher_suites[self.cipher_suite][4]
+#        print("aes_cbc_dum decrypt begin")
+#        print("ciphertext length:", len(ciphertext))
+#        time_begin = time.time()
+#        decrypted = moo.decrypt(ciphertext_list,len(ciphertext),\
+#            moo.modeOfOperation['CBC'],enc_list,key_size,iv_list)
+        cipher = AES.new(buffer(self.enc_key), AES.MODE_CBC, buffer(self.IV))
+        decrypted = cipher.decrypt(ciphertext)
+#        time_done = time.time()
+#        print("aes_cbc_dum decrypt done, time used:", str(time_done-time_begin))
         if self.tlsver== tls_ver_1_0:
             self.IV = ciphertext[-aes_block_size:]
         #unpad
-        plaintext = cbc_unpad(decrypted) 
+        plaintext = cbc_unpad(decrypted)
+
         #mac check
         return self.verify_mac(plaintext, rec_type, return_mac)    
 
@@ -537,7 +565,6 @@ class TLSNClientSession(object):
 
         #array of ciphertexts from each SSL record
         self.server_response_app_data=[]
-        
         #unexpected app data is defined as that received after 
         #server finished, but before client request. This will
         #be decrypted, but not included in plaintext result.
@@ -736,33 +763,50 @@ class TLSNClientSession(object):
             
     def extract_mod_and_exp(self, certDER=None, sn=False):
         DER_cert_data = certDER if certDER else self.server_certificate.asn1cert
-        rv  = decoder.decode(DER_cert_data, asn1Spec=univ.Sequence())
-        if sn:
-            self.server_name = str(rv[0].getComponentByPosition(0).getComponentByPosition(5).getComponentByPosition(4).getComponentByPosition(0).getComponentByPosition(1))
-        bit_string = rv[0].getComponentByPosition(0).getComponentByPosition(6).getComponentByPosition(1)
-        #bit_string is a list of ints, like [01110001010101000...]
-        #convert it into into a string   '01110001010101000...'
-        string_of_bits = ''
-        for bit in bit_string:
-            bit_as_str = str(bit)
-            string_of_bits += bit_as_str
-        #treat every 8 chars as an int and pack the ints into a bytearray
-        ba = bytearray()
-        for i in range(0, len(string_of_bits)/8):
-            onebyte = string_of_bits[i*8 : (i+1)*8]
-            oneint = int(onebyte, base=2)
-            ba.append(oneint)
-        #decoding the nested sequence
-        rv  = decoder.decode(str(ba), asn1Spec=univ.Sequence())
-        exponent = rv[0].getComponentByPosition(1)
-        modulus = rv[0].getComponentByPosition(0)
-        self.server_modulus = int(modulus)
-        self.server_exponent = int(exponent)
-        n = bi2ba(self.server_modulus)
-        modulus_len_int = len(n)
-        self.server_mod_length = bi2ba(modulus_len_int,fixed=2)
-
-        return (self.server_modulus,self.server_exponent)  
+        cert = OpenSSL.crypto.load_certificate(OpenSSL.crypto.FILETYPE_ASN1, DER_cert_data)
+#        print("cert pubkey type:", cert.get_pubkey().type())
+        print("is rsapublickey:",isinstance(cert.get_pubkey().to_cryptography_key(), cryptography.hazmat.primitives.asymmetric.rsa.RSAPublicKey))
+        if isinstance(cert.get_pubkey().to_cryptography_key(), cryptography.hazmat.primitives.asymmetric.rsa.RSAPublicKey):
+            self.server_modulus = cert.get_pubkey().to_cryptography_key().public_numbers().n
+            self.server_exponent = cert.get_pubkey().to_cryptography_key().public_numbers().e
+#            print("server_mod:")
+#            print(server_mod)
+            n = bi2ba(self.server_modulus)
+            modulus_len_int = len(n)
+            self.server_mod_length = bi2ba(modulus_len_int,fixed=2)
+            print("old server_mod:")
+            print(self.server_modulus)
+            return (self.server_modulus,self.server_exponent)  
+        else:
+            raise TLSNSSLError("The public key used by this server is not rsa public key")
+        # rv  = decoder.decode(DER_cert_data, asn1Spec=univ.Sequence())
+        # if sn:
+        #     self.server_name = str(rv[0].getComponentByPosition(0).getComponentByPosition(5).getComponentByPosition(4).getComponentByPosition(0).getComponentByPosition(1))
+        # bit_string = rv[0].getComponentByPosition(0).getComponentByPosition(6).getComponentByPosition(1)
+        # #bit_string is a list of ints, like [01110001010101000...]
+        # #convert it into into a string   '01110001010101000...'
+        # string_of_bits = ''
+        # for bit in bit_string:
+        #     bit_as_str = str(bit)
+        #     string_of_bits += bit_as_str
+        # #treat every 8 chars as an int and pack the ints into a bytearray
+        # ba = bytearray()
+        # for i in range(0, len(string_of_bits)/8):
+        #     onebyte = string_of_bits[i*8 : (i+1)*8]
+        #     oneint = int(onebyte, base=2)
+        #     ba.append(oneint)
+        # #decoding the nested sequence
+        # rv  = decoder.decode(str(ba), asn1Spec=univ.Sequence())
+        # exponent = rv[0].getComponentByPosition(1)
+        # modulus = rv[0].getComponentByPosition(0)
+        # self.server_modulus = int(modulus)
+        # self.server_exponent = int(exponent)
+        # n = bi2ba(self.server_modulus)
+        # modulus_len_int = len(n)
+        # self.server_mod_length = bi2ba(modulus_len_int,fixed=2)
+        # print("old server_mod:")
+        # print(self.server_modulus)
+        # return (self.server_modulus,self.server_exponent)  
 
     def extract_server_name(self, certDER=None, sn=False):
         DER_cert_data = certDER if certDER else self.server_certificate.asn1cert

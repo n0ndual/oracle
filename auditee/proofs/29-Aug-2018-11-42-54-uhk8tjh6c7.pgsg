@@ -1,0 +1,1957 @@
+host: wordpress.com
+response:
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 29 Aug 2018 11:42:50 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+Vary: Cookie
+Link: <https://fonts.googleapis.com/css?family=Noto+Serif:400,400i,700,700i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese>; rel=preload; as=style
+Link: <https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i&subset=cyrillic,cyrillic-ext,devanagari,greek,greek-ext,latin-ext,vietnamese>; rel=preload; as=style
+Link: <https://s1.wp.com/home.logged-out/page-domain-only/img/hero-icons.svg>; rel=image; as=style
+X-ac: 1.bur _bur
+Strict-Transport-Security: max-age=15552000; preload
+
+<!DOCTYPE html>
+<html lang="en" class="no-webp" dir="ltr">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="x-ua-compatible" content="IE=Edge">
+	<title>WordPress.com: Create a Free Website or Blog</title>
+	<link rel="dns-prefetch" href="//s1.wp.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="dns-prefetch" href="//stats.wp.com">
+	<link rel="dns-prefetch" href="//pixel.wp.com">
+	<link rel="dns-prefetch" href="//ssl.google-analytics.com">
+	<link rel="preconnect" href="//s1.wp.com" crossorigin="anonymous">
+	<link rel="preconnect" href="//fonts.gstatic.com" crossorigin="anonymous">
+	<link rel="preconnect" href="//stats.wp.com" crossorigin="anonymous">
+	<link rel="preconnect" href="//pixel.wp.com" crossorigin="anonymous">
+	<link rel="preconnect" href="//ssl.google-analytics.com" crossorigin="anonymous">
+	<meta name="viewport" content="initial-scale=1.0,width=device-width,user-scalable=no">
+	<meta name="apple-itunes-app" content="app-id=335703880">
+	<meta name="generator" content="WordPress.com">
+	<meta name="application-name" content="WordPress.com">
+	<meta name="description" content="Create a free website or build a blog with ease on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support.">
+	<meta name="apple-itunes-app" content="app-id=335703880">
+	<link rel="canonical" href="https://wordpress.com">
+	<link rel="shortlink" href="http://wp.me/1">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif:400,400i,700,700i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese" type="text/css" media="all">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i&subset=cyrillic,cyrillic-ext,devanagari,greek,greek-ext,latin-ext,vietnamese" type="text/css" media="all">
+	<link rel="stylesheet" id="noticons-css" href="//s1.wp.com/i/noticons/noticons.css?v=20150727" type="text/css" media="all">
+		<link rel="stylesheet" href="//s1.wp.com/home.logged-out/page-d2018/css/styles.css?v=1535029648" type="text/css" media="all">
+	<link rel="alternate" type="application/rss+xml" title="WordPress.com Blog" href="//en.blog.wordpress.com/feed/">
+	<link rel="alternate" type="application/rss+xml" title="WordPress.com Discover" href="//discover.wordpress.com/feed/">
+	<link rel="alternate" hreflang="x-default" href="//wordpress.com" />
+	<link rel="alternate" hreflang="ar" href="//ar.wordpress.com" />
+	<link rel="alternate" hreflang="de" href="//de.wordpress.com" />
+	<link rel="alternate" hreflang="el" href="//el.wordpress.com" />
+	<link rel="alternate" hreflang="es" href="//es.wordpress.com" />
+	<link rel="alternate" hreflang="fr" href="//fr.wordpress.com" />
+	<link rel="alternate" hreflang="he" href="//he.wordpress.com" />
+	<link rel="alternate" hreflang="id" href="//id.wordpress.com" />
+	<link rel="alternate" hreflang="it" href="//it.wordpress.com" />
+	<link rel="alternate" hreflang="ja" href="//ja.wordpress.com" />
+	<link rel="alternate" hreflang="ko" href="//ko.wordpress.com" />
+	<link rel="alternate" hreflang="nl" href="//nl.wordpress.com" />
+	<link rel="alternate" hreflang="pt-br" href="//br.wordpress.com" />
+	<link rel="alternate" hreflang="ro" href="//ro.wordpress.com" />
+	<link rel="alternate" hreflang="ru" href="//ru.wordpress.com" />
+	<link rel="alternate" hreflang="sv" href="//sv.wordpress.com" />
+	<link rel="alternate" hreflang="tr" href="//tr.wordpress.com" />
+	<link rel="alternate" hreflang="zh-Hans" href="//zh-cn.wordpress.com" />
+	<link rel="alternate" hreflang="zh-Hant" href="//zh-tw.wordpress.com" />
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="//s1.wp.com/xmlrpc.php?rsd">
+	<meta property="fb:app_id" content="249643311490" />
+	<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="WordPress.com: Create a Free Website or Blog" />
+	<meta property="og:description" content="Create a free website or build a blog with ease on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support." />
+	<meta property="og:url" content="https://wordpress.com/" />
+	<meta property="og:site_name" content="WordPress.com" />
+	<meta property="og:image" content="https://s1.wp.com/home.logged-out/images/wpcom-withjetpack.jpg" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@wordpressdotcom" />
+	<meta name="twitter:creator" content="@wordpressdotcom" />
+	<meta name="twitter:app:name:iphone" content="WordPress" />
+	<meta name="twitter:app:id:iphone" content="335703880" />
+	<meta name="twitter:app:name:ipad" content="WordPress" />
+	<meta name="twitter:app:id:ipad" content="335703880" />
+	<meta name="twitter:app:name:googleplay" content="WordPress" />
+	<meta name="twitter:app:id:googleplay" content="org.wordpress.android" />
+	<link rel="search" type="application/opensearchdescription+xml" href="//wordpress.com/osd.xml" title="WordPress.com">
+	<link rel="search" type="application/opensearchdescription+xml" href="//s1.wp.com/opensearch.xml" title="WordPress.com">
+	<link rel="shortcut icon" type="image/x-icon" href="//s1.wp.com/i/favicon.ico?v=1447321881" sizes="16x16 24x24 32x32 48x48">
+	<link rel="apple-touch-icon-precomposed" type="image/png" href="//0.gravatar.com/blavatar/653166773dc88127bd3afe0b6dfe5ea7?s=114&amp;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fwebclip.png" sizes="114x114">
+	<meta name="apple-mobile-web-app-title" content="WP.com">
+	<meta name="google-site-verification" content="Q9OTgmFGvbuu-bnRYsyoA-MXgythlBvu6gZJry9XxMA" />
+	
+		<script>
+(function() {
+	'use strict'
+	window.homepage = {
+		'rtl': false,
+		'test_name': '',
+		'test_mobile_only': '',
+		'variation': '',
+		'platform': 'Other',
+		'locale': 'en',
+		'country': 'US',
+		'currency': 'USD',
+		'is_new_participant': true,
+		'affiliate': "",
+		'locales_available': [{"code":"es","lname":"Espa\u00f1ol","href":"\/\/es.wordpress.com"},{"code":"pt-br","lname":"Portugu\u00eas do Brasil","href":"\/\/br.wordpress.com"},{"code":"de","lname":"Deutsch","href":"\/\/de.wordpress.com"},{"code":"fr","lname":"Fran\u00e7ais","href":"\/\/fr.wordpress.com"},{"code":"he","lname":"\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea","href":"\/\/he.wordpress.com"},{"code":"ja","lname":"\u65e5\u672c\u8a9e","href":"\/\/ja.wordpress.com"},{"code":"it","lname":"Italiano","href":"\/\/it.wordpress.com"},{"code":"nl","lname":"Nederlands","href":"\/\/nl.wordpress.com"},{"code":"ru","lname":"\u0420\u0443\u0441\u0441\u043a\u0438\u0439","href":"\/\/ru.wordpress.com"},{"code":"tr","lname":"T\u00fcrk\u00e7e","href":"\/\/tr.wordpress.com"},{"code":"id","lname":"Bahasa Indonesia","href":"\/\/id.wordpress.com"},{"code":"zh-cn","lname":"\u7b80\u4f53\u4e2d\u6587","href":"\/\/zh-cn.wordpress.com"},{"code":"zh-tw","lname":"\u7e41\u9ad4\u4e2d\u6587","href":"\/\/zh-tw.wordpress.com"},{"code":"ko","lname":"\ud55c\uad6d\uc5b4","href":"\/\/ko.wordpress.com"},{"code":"ar","lname":"\u0627\u0644\u0639\u0631\u0628\u064a\u0629","href":"\/\/ar.wordpress.com"},{"code":"sv","lname":"Svenska","href":"\/\/sv.wordpress.com"},{"code":"el","lname":"\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac","href":"\/\/el.wordpress.com"},{"code":"en","lname":"English","href":"\/\/en.wordpress.com"},{"code":"ro","lname":"Rom\u00e2n\u0103","href":"\/\/ro.wordpress.com"}],
+		'do_not_track': 0,
+
+				'utm_source': "",
+		'utm_campaign': "",
+		'ref': "homepage",
+	};
+})();
+</script>
+<style type="text/css">
+.pride .masterbar {
+	background: linear-gradient(to bottom, #e24c3e 0%, #e24c3e 16.66667%, #f47d3b 16.66667%, #f47d3b 33.33333%, #fdb813 33.33333%, #fdb813 50%, #74bb5d 50%, #74bb5d 66.66667%, #38a6d7 66.66667%, #38a6d7 83.33333%, #8c7ab8 83.33333%, #8c7ab8 100%);
+	border-bottom-width: 0;
+}
+.pride .masterbar__navigation {
+	margin-right: 0;
+}
+.pride .masterbar .wpcom-logo,
+.pride .masterbar nav a:not(:hover) {
+	background-color: rgba(0, 135, 190, 0.85);
+}
+.pride .masterbar .wpcom-logo {
+	margin: 0;
+	padding: 0 16px;
+}
+.pride .masterbar .wpcom-logo a {
+	height: 100%;
+}
+.pride .masterbar__session li:last-child a {
+	padding-right: 23px;
+}
+.pride .masterbar ul {
+	font-size: 0;
+}
+.pride .masterbar nav a {
+	padding: 0 15px 0;
+}
+</style>
+	
+	</head>
+<body id="wpcom-home" class="hp-rey en">
+<header class="masterbar is-transparent">
+	<!-- Nav bar partial starts here -->
+	<nav class="x-nav">
+		<h1 class="x-hidden">
+			Main navigation		</h1>
+		<ul class="x-nav-list">
+			<li class="x-nav-item">
+				<a class="x-nav-link x-nav-link--logo x-link" href="//wordpress.com/">
+					<span class="x-hidden">WordPress.com</span>
+					<svg class="x-icon x-icon--logo" viewBox="0 0 138 36" xmlns="http://www.w3.org/2000/svg">
+						<path d="M15.57 11h2.54l-3.99 14h-2.95L9.04 17.5 6.76 25H3.8L0 11h2.7l2.68 11.08 2.45-8.78-.65-2.3h2.81l2.79 10.72L15.57 11zm28.39 4.06V11h2.46v14H44.1v-.92a5.44 5.44 0 0 1-3.2 1.17c-2.2 0-4.05-1.5-4.05-4.83 0-3.32 1.86-5.6 5.26-5.6a9 9 0 0 1 1.86.24zM32.2 16.7a3.07 3.07 0 0 1 2.94-1.76c.22 0 .45.02.67.04v2.15h-.25c-1.57 0-2.5.48-3.28 1.94V25h-2.46v-9.93h2.3v1.64h.08zm83.14-1.89c3.38 0 5.01 2.2 5.01 5.23 0 3.02-1.6 5.2-5.01 5.2-3.4 0-5.01-2.18-5.01-5.2 0-3.03 1.6-5.23 5.01-5.23zm19.12 0h-.01c2 0 3.15 1.4 3.15 3.32V25h-2.46v-6.27c0-1.4-.5-1.83-1.31-1.83-.71 0-1.7.4-2.61 1V25h-2.46v-6.27c0-1.4-.5-1.84-1.32-1.84-.7 0-1.69.38-2.6.98V25h-2.5v-9.93h2.35v1.03a6.61 6.61 0 0 1 3.38-1.28c1.15 0 2.2.4 2.72 1.5l.29-.18c1.1-.74 2.31-1.32 3.38-1.32zm-111.64 0c3.38 0 5.02 2.2 5.02 5.23 0 3.02-1.61 5.2-5.02 5.2-3.4 0-5-2.18-5-5.2 0-3.03 1.6-5.23 5-5.23zm40.31 1.88h-.01a3.07 3.07 0 0 1 2.94-1.75c.23 0 .45.02.67.04v2.15h-.25c-1.57 0-2.5.48-3.28 1.94V25h-2.46v-9.93h2.3v1.63h.09zM54.05 11h-.01c2.99 0 5.16 1.5 5.16 4.51s-2.17 4.62-5.16 4.62H52.1V25h-2.64V11h4.58zm36.04 6.85c0 1.67 4.94.77 4.91 4.22 0 2.49-2.21 3.18-4.53 3.18-1-.02-1.97-.22-2.9-.59v-2.03c.92.32 2.2.63 3 .63 1.12 0 1.9-.23 1.9-1.08 0-1.74-4.93-.82-4.93-4.4 0-1.83 1.67-2.96 4.05-2.96 1-.02 1.99.11 2.95.38v2.04a10.1 10.1 0 0 0-2.75-.43c-.88 0-1.7.29-1.7 1.04zm-17.5-3.03c3.15 0 4.26 2.2 4.26 4.29 0 .48-.02.97-.08 1.46H70.4c.06 2.17 1.3 2.67 3.13 2.67 1 0 1.94-.23 2.97-.6v2.04c-1.18.38-2.42.57-3.66.57-3.15 0-5.1-1.57-5.1-5.27 0-2.7 1.66-5.16 4.83-5.16zm8.54 3.03c0 1.67 4.93.77 4.9 4.22 0 2.49-2.2 3.18-4.52 3.18-1-.02-1.98-.22-2.9-.59v-2.03c.92.32 2.2.63 2.98.63 1.13 0 1.9-.23 1.9-1.08 0-1.74-4.92-.82-4.92-4.4 0-1.83 1.67-2.96 4.06-2.96 1-.02 1.98.11 2.94.38v2.04a10.1 10.1 0 0 0-2.75-.43c-.88 0-1.7.29-1.7 1.04zm21.97 2.1c0 2.54 1.27 3.3 2.9 3.3.77 0 1.64-.18 2.77-.61v2.04c-1 .34-1.91.57-3.08.57-3.7 0-5.16-2.11-5.16-5.18 0-3.24 2.02-5.25 5.3-5.25.96 0 1.91.16 2.81.48v2.1a8.24 8.24 0 0 0-2.76-.57c-1.5 0-2.78.8-2.78 3.11zM96.66 25v-2.55h2.47V25h-2.47zm-42.59-6.92h-.01c1.65 0 2.38-1 2.38-2.57 0-1.56-.79-2.44-2.38-2.44h-1.95v5.01h1.96zm-31.25 5.18c1.6 0 2.45-1.04 2.45-3.21 0-2.18-.84-3.22-2.45-3.22-1.6 0-2.46 1.04-2.46 3.22 0 2.17.86 3.21 2.46 3.21zm47.61-4.32h3.85c0-1.21-.4-2.26-1.72-2.26-1.23 0-1.98.88-2.13 2.26zm44.91 4.32c1.6 0 2.44-1.04 2.44-3.21 0-2.18-.83-3.22-2.44-3.22-1.6 0-2.46 1.04-2.46 3.22 0 2.17.85 3.21 2.46 3.21zm-71.38-1.12V17.1a4.6 4.6 0 0 0-1.6-.31c-1.89 0-2.97 1.19-2.97 3.47 0 2.1.87 3 2.23 3 .8 0 1.55-.4 2.34-1.12z"/>
+					</svg>
+				</a>
+			</li>
+			<li class="x-nav-item x-nav-item--wide">
+				<button class="x-nav-link x-link" data-dropdown-trigger="products" aria-haspopup="true" aria-expanded="false">
+					Products				</button>
+			</li>
+			<li class="x-nav-item x-nav-item--wide">
+				<button class="x-nav-link x-link" data-dropdown-trigger="features" aria-haspopup="true" aria-expanded="false">
+					Features				</button>
+			</li>
+			<li class="x-nav-item x-nav-item--wide">
+				<button class="x-nav-link x-link" data-dropdown-trigger="resources" aria-haspopup="true" aria-expanded="false">
+					Resources				</button>
+			</li>
+			<li class="x-nav-item x-nav-item--wide">
+				<a class="x-nav-link x-link" href="//wordpress.com/pricing/" title="Plans &amp; Pricing">
+					Plans &amp; Pricing				</a>
+			</li>
+		</ul>
+		<ul class="x-nav-list">
+			<li class="x-nav-item x-nav-item--wide x-nav-item--logged-in">
+				<a class="x-nav-link x-link" href="//wordpress.com/wp-login.php?redirect_to=https%3A%2F%2Fwordpress.com%2F" title="Log In">
+					Log In				</a>
+			</li>
+			<li class="x-nav-item x-nav-item--wide">
+				<a class="x-nav-link x-nav-link--primary x-link" href="//wordpress.com/start?ref=homepage" title="Get Started">
+					Get Started				</a>
+			</li>
+			<li class="x-nav-item x-nav-item--narrow">
+				<button class="x-nav-link x-nav-link--menu x-link" aria-haspopup="true" aria-expanded="false">
+					<span class="x-hidden">Menu</span>
+					<span class="x-icon x-icon--menu">
+                <span></span>
+                <span></span>
+                <span></span>
+              </span>
+				</button>
+			</li>
+		</ul>
+	</nav>
+	<!-- Nav partial ends here -->
+</header>
+
+<!-- Desktop navigation dropdowns start here -->
+<div class="x-dropdown">
+	<div class="x-dropdown-top">
+		<div class="x-dropdown-top-fill"></div>
+	</div>
+	<div class="x-dropdown-middle"></div>
+	<div class="x-dropdown-bottom">
+		<div class="x-dropdown-bottom-fill"></div>
+	</div>
+	<div class="x-dropdown-content" data-dropdown-name="products" aria-hidden="true">
+		<ul>
+			<li>
+				<a class="x-dropdown-link x-link" href="//wordpress.com/create-blog/" title="Blogs" tabindex="-1">
+					Blogs				</a>
+			</li>
+			<li>
+				<a class="x-dropdown-link x-link" href="//wordpress.com/create-website/" title="Websites" tabindex="-1">
+					Websites				</a>
+			</li>
+			<li>
+				<a class="x-dropdown-link x-link" href="//wordpress.com/domains/" title="Domains" tabindex="-1">
+					Domains				</a>
+			</li>
+			<li>
+				<a class="x-dropdown-link x-link" href="//wordpress.com/ecommerce/" title="eCommerce" tabindex="-1">
+					eCommerce				</a>
+			</li>
+			<li>
+				<a class="x-dropdown-link x-link" href="//wordpress.com/com-vs-org/" title="Self&#8209;Hosted Solutions" tabindex="-1">
+					Self&#8209;Hosted Solutions				</a>
+			</li>
+		</ul>
+	</div>
+	<div class="x-dropdown-content" data-dropdown-name="features" aria-hidden="true">
+		<ul>
+			<li>
+				<a class="x-dropdown-link x-link" href="//wordpress.com/themes/" title="Themes" tabindex="-1">
+					Themes				</a>
+			</li>
+			<li>
+				<a class="x-dropdown-link x-link" href="//wordpress.com/install-plugins/" title="Install Plugins" tabindex="-1">
+					Plugins				</a>
+			</li>
+						<li>
+				<a class="x-dropdown-link x-link" href="//wordpress.com/google/" title="Google Apps" tabindex="-1">
+					Google Apps				</a>
+			</li>
+		</ul>
+	</div>
+	<div class="x-dropdown-content" data-dropdown-name="resources" aria-hidden="true">
+		<ul>
+			<li>
+				<a class="x-dropdown-link x-link" href="//en.support.wordpress.com/" title="Support" tabindex="-1">
+					Support				</a>
+			</li>
+			<li>
+				<a class="x-dropdown-link x-link" href="//en.blog.wordpress.com/" title="News" tabindex="-1">
+					News				</a>
+			</li>
+			<li>
+				<a class="x-dropdown-link x-link" href="//wordpress.com/go/" title="Go by WordPress.com" tabindex="-1">
+					Go by WordPress.com				</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<!-- Desktop navigation dropdowns end here -->
+
+<!-- Mobile menu partial starts here -->
+<section class="x-menu" aria-hidden="true">
+	<div class="x-menu-overlay"></div>
+	<h1 class="x-hidden">
+		Navigation menu	</h1>
+	<div class="x-menu-content">
+		<button class="x-menu-button x-link" tabindex="-1">
+			<span class="x-hidden">Close menu</span>
+			<span class="x-icon x-icon--close">
+            <span></span>
+            <span></span>
+          </span>
+		</button>
+		<div class="x-menu-list">
+			<h2 class="x-menu-list-title">
+				Get Started			</h2>
+			<ul class="x-menu-grid x-menu-grid--logged-in">
+				<li class="x-menu-grid-item">
+					<a class="x-menu-link x-menu-link--chevron x-link" href="//wordpress.com/start?ref=homepage" title="Add a New Site" tabindex="-1">
+						Add a New Site					</a>
+				</li>
+			</ul>
+			<ul class="x-menu-grid x-menu-grid--logged-out">
+				<li class="x-menu-grid-item">
+					<a class="x-menu-link x-menu-link--chevron x-link" href="//wordpress.com/start?ref=homepage" title="Sign Up" tabindex="-1">
+						Sign Up					</a>
+				</li>
+				<li class="x-menu-grid-item">
+					<a class="x-menu-link x-menu-link--chevron x-link" href="//wordpress.com/wp-login.php?redirect_to=https%3A%2F%2Fwordpress.com%2F" title="Log In" tabindex="-1">
+						Log In					</a>
+				</li>
+			</ul>
+		</div>
+		<div class="x-menu-list">
+			<h2 class="x-hidden">
+				About			</h2>
+			<ul class="x-menu-grid">
+				<li class="x-menu-grid-item">
+					<a class="x-menu-link x-link" href="//wordpress.com/pricing/" title="Plans &amp; Pricing" tabindex="-1">
+						Plans &amp; Pricing					</a>
+				</li>
+			</ul>
+		</div>
+		<div class="x-menu-list x-menu-list--purple">
+			<h2 class="x-menu-list-title">
+				Product			</h2>
+			<ul class="x-menu-grid">
+				<li class="x-menu-grid-item">
+					<a class="x-menu-link x-link" href="//wordpress.com/create-blog/" title="Blogs" tabindex="-1">
+						Blogs					</a>
+				</li>
+				<li class="x-menu-grid-item">
+					<a class="x-menu-link x-link" href="//wordpress.com/create-website/" title="Websites" tabindex="-1">
+						Websites					</a>
+				</li>
+				<li class="x-menu-grid-item">
+					<a class="x-menu-link x-link" href="//wordpress.com/domains/" title="Domains" tabindex="-1">
+						Domains					</a>
+				</li>
+				<li class="x-menu-grid-item">
+					<a class="x-menu-link x-link" href="//wordpress.com/ecommerce/" title="eCommerce" tabindex="-1">
+						eCommerce					</a>
+				</li>
+				<li class="x-menu-grid-item">
+					<a class="x-menu-link x-link" href="//wordpress.com/com-vs-org/" title="Self&#8209;Hosted Solutions" tabindex="-1">
+						Self&#8209;Hosted Solutions					</a>
+				</li>
+			</ul>
+		</div>
+		<div class="x-menu-list x-menu-list--pink">
+			<h2 class="x-menu-list-title">
+				Features			</h2>
+			<ul class="x-menu-grid">
+				<li class="x-menu-grid-item">
+					<a class="x-menu-link x-link" href="//wordpress.com/themes/" title="Themes" tabindex="-1">
+						Themes					</a>
+				</li>
+				<li class="x-menu-grid-item">
+					<a class="x-menu-link x-link" href="//wordpress.com/install-plugins/" title="Install Plugins" tabindex="-1">
+						Plugins					</a>
+				</li>
+								<li class="x-menu-grid-item">
+					<a class="x-menu-link x-link" href="//wordpress.com/google/" title="Google Apps" tabindex="-1">
+						Google Apps					</a>
+				</li>
+			</ul>
+		</div>
+		<div class="x-menu-list x-menu-list--celadon">
+			<h2 class="x-menu-list-title">
+				Resources			</h2>
+			<ul class="x-menu-grid">
+				<li class="x-menu-grid-item">
+					<a class="x-menu-link x-link" href="//en.blog.wordpress.com/" title="News" tabindex="-1">
+						News					</a>
+				</li>
+				<li class="x-menu-grid-item">
+					<a class="x-menu-link x-link" href="//en.support.wordpress.com/" title="Support" tabindex="-1">
+						Support					</a>
+				</li>
+				<li class="x-menu-grid-item">
+					<a class="x-menu-link x-link" href="//wordpress.com/go/" title="Go by WordPress.com" tabindex="-1">
+						Go by WordPress.com					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</section>
+<!-- Mobile menu partial end here -->
+
+<div class="page-root">
+	<section id="hero" class="hp-section hp-hero">
+
+    <div class="container-inner">
+
+        <div class="container-text">
+            <div class="content">
+                <h1><span class="no-widows">Build your beautiful site today</span></h1>
+                <h2>
+                    <span class="no-widows">Everything you need for a website that works for you.</span>
+                </h2>
+                <p class="hp-hero__cta-container cta-container" id="hp-hero-cta">
+                    <a class="button is-cta is-large" id="hero-cta"
+                       href="//wordpress.com/start?ref=homepage"
+                       title="Get Started">Get Started</a>
+                    <a class="button is-more-link is-large" id="hero-plans-anchor" href="#plans"
+                       title="See Plans">Compare plans</a>
+                </p>
+            </div>
+        </div>
+
+        <div class="container-image">
+
+			        <div class="shape shape--photo shape--image">
+            <div class="shape__ratio"></div>
+            <div class="lazy shape__fill" data-image-url="https://s1.wp.com/home.logged-out/page-d2018/media/green-girl-looking-up.jpg"></div>
+        </div>
+					        <div class="shape shape--square">
+            <div class="shape__ratio"></div>
+            <div class="lazy shape__fill"></div>
+        </div>
+		
+        </div>
+
+    </div>
+</section>	<section id="benefits-domains" class="hp-section hp-domain-first is-dark">
+	<div class="hp-titleblock">
+    <h2>Start with a domain</h2>
+  </div>
+	<div class="hp-centerblock hp-benefits-product__domain" id="hp-benefits-product__domain">
+		<div class="hp-text-block">
+			<p>Choose the web address that channels your next big idea.</p>
+			<p class="button-container">
+				<a id="domains-cta" class="button is-cta is-medium" href="https://wordpress.com/domains?ref=homepage">Find your domain</a>
+			</p>
+		</div>
+	</div>
+</section>
+	<section id="hp-jetpack" class="hp-jetpack">
+
+    <div class="jetpack-opening">
+		        <div class="shape shape--search-bar shape--image">
+            <div class="shape__ratio"></div>
+            <div class="lazy shape__fill" data-image-url="https://s1.wp.com/home.logged-out/page-d2018/media/searchbar.jpg"></div>
+        </div>
+		
+        <div class="content">
+            <div class="container-logo">
+				        <div class="shape shape--logo-wpcom-jetpack shape--image">
+            <div class="shape__ratio"></div>
+            <div class="lazy shape__fill" data-image-url="https://s1.wp.com/home.logged-out/page-d2018/media/logo-wp-and-jetpack.svg"></div>
+        </div>
+		            </div>
+
+            <div class="container-text">
+                <h2>WordPress powers 31% of the internet.</h2>
+                <p>Join the global community of individuals, small businesses, and leading companies experiencing the very best that WordPress has to offer. Here are two ways to take part:</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="jetpack-versus">
+
+		        <div class="shape shape--rotated-bg">
+            <div class="shape__ratio"></div>
+            <div class="lazy shape__fill"></div>
+        </div>
+		
+        <div class="jetpack-alternative-wpcom jetpack-versus-col">
+            <div class="content">
+                <h3>Build your site</h3>
+                <h4>Focus on your content, weâ€™ll support your site.</h4>
+                <p class="to-valign">You have big ideas to explore, and WordPress.com has your back. Choose one of our beautiful, plug-and-play designs. Spread the word with built-in marketing tools. Let us handle the technical details like hosting and security. You build your dream, weâ€™ll build your site.</p>
+
+                <a class="button is-cta" href="https://wordpress.com/start/">Create your site</a>
+
+                <a class="is-more-link"
+                   href="https://en.support.wordpress.com/five-step-website-setup/">Learn more</a>
+            </div>
+        </div>
+
+        <div class="jetpack-alternative-separator"><p>or</p></div>
+
+        <div class="jetpack-alternative-wporg jetpack-versus-col">
+            <div class="content">
+                <h3>Connect your existing site</h3>
+                <h4>Bring your WordPress site into the fold with Jetpack.</h4>
+                <p class="to-valign"> Jetpack brings you all the benefits of WordPress.com with the ability to stay with the host you know and love. Connect your WordPress site to Jetpack for hassle-free design, marketing, and security â€” all in one place.</p>
+
+                <a class="button is-cta" href="https://jetpack.com">Connect your site</a>
+
+                <a class="is-more-link"
+                   href="https://jetpack.com/support/connect-to-wordpress-com/">Learn more</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="jetpack-closing">
+        <div class="jetpack-closing-inner">
+            <div class="container-image">
+				        <div class="shape shape--logo-jetpack shape--image">
+            <div class="shape__ratio"></div>
+            <div class="lazy shape__fill" data-image-url="https://s1.wp.com/home.logged-out/page-d2018/media/logo-jetpack-text.svg"></div>
+        </div>
+		            </div>
+
+            <div class="container-text">
+                <p>Both options give you the power of Jetpack for a best-in-class WordPress experience.</p>
+            </div>
+        </div>
+    </div>
+
+</section>
+	<section id="hp-themes" class="hp-themes">
+
+    <div class="container-inner">
+        <div class="container-text">
+            <div class="content">
+                <h2>Stand out from the crowd</h2>
+                <p>Choose from hundreds of stunning themes.</p>
+
+                <a href="https://wordpress.com/themes" class="is-more-link">Browse themes</a>
+            </div>
+        </div>
+
+        <div class="theme theme-main theme--shoreditch">
+            <div class="theme-preview">
+	                    <div class="shape shape--1 shape--image">
+            <div class="shape__ratio"></div>
+            <div class="lazy shape__fill" data-image-url="https://s1.wp.com/home.logged-out/page-d2018/media/theme-shoreditch.jpg"></div>
+        </div>
+		            </div>
+            <h5><a href="https://wordpress.com/theme/shoreditch">Shoreditch</a></h5>
+            <span>free</span>
+            <p>Shoreditch is a functional and responsive theme perfect for your businessâ€™s online presence. Although its main purpose is business, Shoreditch looks great as a personal blog theme too.</p>
+        </div>
+
+        <div class="themes">
+            <div class="theme theme--dyad-2">
+                <div class="theme-preview">
+	                        <div class="shape shape--1 shape--image">
+            <div class="shape__ratio"></div>
+            <div class="lazy shape__fill" data-image-url="https://s1.wp.com/home.logged-out/page-d2018/media/theme-dyad-2.jpg"></div>
+        </div>
+		                </div>
+
+                <h5><a href="https://wordpress.com/theme/dyad-2">Dyad&nbsp;2</a></h5>
+                <span>free</span>
+            </div>
+
+            <div class="theme theme--canard">
+                <div class="theme-preview">
+	                        <div class="shape shape--1 shape--image">
+            <div class="shape__ratio"></div>
+            <div class="lazy shape__fill" data-image-url="https://s1.wp.com/home.logged-out/page-d2018/media/theme-canard.jpg"></div>
+        </div>
+		                </div>
+                <h5><a href="https://wordpress.com/theme/canard">Canard</a></h5>
+                <span>free</span>
+            </div>
+
+            <div class="theme theme--ixion">
+                <div class="theme-preview">
+                            <div class="shape shape--1 shape--image">
+            <div class="shape__ratio"></div>
+            <div class="lazy shape__fill" data-image-url="https://s1.wp.com/home.logged-out/page-d2018/media/theme-ixion.jpg"></div>
+        </div>
+		                </div>
+                <h5><a href="https://wordpress.com/theme/ixion">Ixion</a></h5>
+                <span>free</span>
+            </div>
+
+        </div>
+    </div>
+</section>
+	<section id="hp-media" class="hp-media">
+
+    <div class="background">
+        <div class="shape">
+            <div class="shape__ratio"></div>
+            <div class="shape__fill"></div>
+        </div>
+    </div>
+
+
+    <div class="container-inner">
+
+        <div class="container-1">
+            <div class="content">
+                <h2>Impress your visitors</h2>
+                <p>Set up an elegant and unique site that will build your brand with ease. Work with thoughtfully chosen fonts, colors, and images â€” or add your own.</p>
+            </div>
+
+
+            <div class="image">
+	                    <div class="shape shape--1 shape--image">
+            <div class="shape__ratio"></div>
+            <div class="lazy shape__fill" data-image-url="https://s1.wp.com/home.logged-out/page-d2018/media/media-images-2.jpg"></div>
+        </div>
+		            </div>
+        </div>
+
+        <div class="container-2">
+            <div class="content">
+                <h2>Spotlight your media</h2>
+                <p>Display your photos, videos, and documents in sophisticated galleries. Enjoy as much storage space as you need.            </div>
+
+            <div class="image">
+	                    <div class="shape shape--1 shape--image">
+            <div class="shape__ratio"></div>
+            <div class="lazy shape__fill" data-image-url="https://s1.wp.com/home.logged-out/page-d2018/media/media-images-1.jpg"></div>
+        </div>
+		            </div>
+        </div>
+    </div>
+
+</section>
+	<section id="hp-devices" class="hp-devices">
+
+    <div class="container-inner">
+        <div class="container-text">
+            <div class="content">
+                <h2>Create and edit on the go</h2>
+                <p>Start, update, and view your site seamlessly from any device. Access desk-free productivity wherever you have internet connectivity.</p>
+            </div>
+        </div>
+
+        <div class="container-image">
+            <div class="content">
+                        <div class="shape shape--1 shape--image">
+            <div class="shape__ratio"></div>
+            <div class="lazy shape__fill" data-image-url="https://s1.wp.com/home.logged-out/page-d2018/media/apps-devices.jpg"></div>
+        </div>
+		            </div>
+        </div>
+    </div>
+
+</section>
+	<section id="hp-options" class="hp-options">
+
+    <div class="background">
+        <div class="shape">
+            <div class="shape__ratio"></div>
+            <div class="shape__fill"></div>
+        </div>
+    </div>
+
+
+    <div class="container-inner">
+
+        <div class="container-1">
+            <div class="content">
+                <ul>
+                    <li>
+						        <div class="shape shape--i-audience shape--image">
+            <div class="shape__ratio"></div>
+            <div class="lazy shape__fill" data-image-url="https://s1.wp.com/home.logged-out/page-d2018/media/i-audience.svg"></div>
+        </div>
+		                        <h2>Build your audience</h2>
+                        <p>Attract, engage, and grow your following with comprehensive marketing tools for search, social media, and paid advertising. Start with $100 in advertising credits, on us.</p>
+                    </li>
+
+                    <li>
+						        <div class="shape shape--i-security shape--image">
+            <div class="shape__ratio"></div>
+            <div class="lazy shape__fill" data-image-url="https://s1.wp.com/home.logged-out/page-d2018/media/i-security.svg"></div>
+        </div>
+		                        <h2>Count on our security</h2>
+                        <p>Your site is secure and automatically backed up. Every WordPress.com site has built-in spam protection.</p>
+                    </li>
+
+                    <li>
+						        <div class="shape shape--i-plugins shape--image">
+            <div class="shape__ratio"></div>
+            <div class="lazy shape__fill" data-image-url="https://s1.wp.com/home.logged-out/page-d2018/media/i-plugins.svg"></div>
+        </div>
+		                        <h2>Install plugins & custom themes</h2>
+                        <p>Add extra features to your site like advanced galleries, forms, email subscriptions, polls, comments, and much more.</p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+        <div class="container-2">
+            <div class="content">
+                <ul>
+                    <li>
+						        <div class="shape shape--i-community shape--image">
+            <div class="shape__ratio"></div>
+            <div class="lazy shape__fill" data-image-url="https://s1.wp.com/home.logged-out/page-d2018/media/i-community.svg"></div>
+        </div>
+		
+                        <h2>Join the community</h2>
+                        <p>Experts are available with quality 24/7 email or live chat support. Turn pro with guided courses, events, and forum conversations with customers in our global community.</p>
+                    </li>
+
+                    <li>
+						        <div class="shape shape--i-payments shape--image">
+            <div class="shape__ratio"></div>
+            <div class="lazy shape__fill" data-image-url="https://s1.wp.com/home.logged-out/page-d2018/media/i-payments.svg"></div>
+        </div>
+		                        <h2>Take payments in seconds</h2>
+                        <p>Taking payments for goods or accepting donations is a breeze with the Simple Payments button. Simply insert it into any page on your site to take credit or debit card payments.</p>
+                    </li>
+
+                    <li>
+						        <div class="shape shape--i-cart shape--image">
+            <div class="shape__ratio"></div>
+            <div class="lazy shape__fill" data-image-url="https://s1.wp.com/home.logged-out/page-d2018/media/i-cart.svg"></div>
+        </div>
+		
+                        <h2>Add a store to your site</h2>
+                        <p>Publish content and sell products from a dedicated store on your site with the Store on WordPress.com.</p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+	<section id="testimonials" class="hp-section hp-testimonials is-blue">
+  <div class="hp-titleblock">
+    <h2>Our users love WordPress.com</h2>
+  </div>
+  <div class="hp-block-container">
+    <div class="hp-halfblock">
+      <div class="hp-text-block hp-testimonials__entry">
+        <span class="gridicon gridicons-quote"></span>
+        <p>Refocusing our business meant an extensive rebrand and rename. WordPress.com made it easy to implement the changes we needed for a social media first impression.<span class="gridicon gridicons-quote"></span></p>
+        <p class="hp-testimonials__author">â€”Jeri</p>
+      </div>
+    </div>
+    <div class="hp-halfblock">
+      <div class="hp-text-block hp-testimonials__entry">
+        <span class="gridicon gridicons-quote"></span>
+        <p>I just canâ€™t keep myself away from WordPress. It has had such a positive influence on my life since I started becoming an active member of the community.<span class="gridicon gridicons-quote"></span></p>
+        <p class="hp-testimonials__author">â€”Britta</p>
+      </div>
+    </div>
+  </div>
+</section>
+	<section  id="hp-plans-d2018" class="hp-plans-d2018">
+    <div class="content">
+        <h2>Choose your WordPress.com flavor</h2>
+
+        <h3>Power up your website or blog with a powerful plan that works for you</h3>
+    </div>
+
+    <section id="plans" class="hp-section hp-plans is-light-grey">
+    <div class="hp-block-container hp-plans-table" id="plans-table">
+		
+		
+				            <div class="hp-plan hp-plan--personal hp-plan-3">
+                <div class="hp-plan-header hp-plan-header__personal">
+                    <span class="hp-plan__illustration hp-plan-personal__illustration"></span>
+                    <h4>Personal</h4>
+                    <p class="hp-plan__price price-personal-plan">
+                        <sup>$</sup>4<sup>.00</sup></p>
+                    <p class="hp-plan__timespan">per month, billed yearly</p>
+                </div>
+				                <div class="hp-plan__description">
+                    <p class="to-valign"><strong>Best for Personal Use:</strong> Boost your website with a custom domain name, and remove all WordPress.com advertising. Get access to high quality email and live chat support.</p>
+                    <p class="lp-cta">
+                        <a id="plans-personal-plan-top-cta" href="//wordpress.com/start/personal?ref=homepage"
+                           class="button is-cta is-primary">Start with Personal</a>
+                    </p>
+                </div>
+                <div class="hp-plan__details">
+                    <ul class="hp-plan__features">
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label">Custom Domain Name</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="personal_tooltip_1"></span>
+                        </li>
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label">Jetpack Essential Features</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="personal_tooltip_2"></span>
+                        </li>
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label">Email &amp; Live Chat Support</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="personal_tooltip_3"></span>
+                        </li>
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label"
+                                    data-group-label="Unlimited Premium Themes"
+                                    data-group-text="Dozens of free themes">Dozens of Free Themes</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="personal_tooltip_4"></span>
+                        </li>
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label"
+                                    data-group-label="Advanced Design Customization"
+                                    data-group-text="Basic">Basic Design Customization</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="personal_tooltip_5"></span>
+                        </li>
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label"
+                                    data-group-label="Unlimited Storage Space"
+                                    data-group-text="6GB"><strong>6GB</strong> Storage Space</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="personal_tooltip_6"></span>
+                        </li>
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label">Remove WordPress.com Ads</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="personal_tooltip_7"></span>
+                        </li>
+                    </ul>
+                    <div class="hp-plan__footer-cta">
+                        <p class="lp-cta ">
+                            <a id="plans-personal-plan-bottom-cta" href="//wordpress.com/start/personal?ref=homepage"
+                               class="button is-cta is-primary">Start with Personal</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+		            <div class="hp-plan hp-plan--premium hp-plan-3">
+                <div class="hp-plan-header hp-plan-header__premium">
+                    <span class="hp-plan__illustration hp-plan-premium__illustration"></span>
+                    <h4>Premium</h4>
+                    <p class="hp-plan__price price-premium-plan"><sup>$</sup>8<sup>.25</sup>                    </p>
+                    <p class="hp-plan__timespan">per month, billed yearly</p>
+                </div>
+				                <div class="hp-plan__description">
+                    <p class="to-valign"><strong>Best for Entrepreneurs &amp; Freelancers:</strong> Build a unique website with advanced design tools, CSS editing, lots of space for audio and video and the ability to monetize your site with ads.</p>
+                    <p class="lp-cta">
+                        <a id="plans-premium-plan-top-cta" href="//wordpress.com/start/premium?ref=homepage"
+                           class="button is-cta is-primary">Start with Premium</a>
+                    </p>
+                </div>
+
+                <div class="hp-plan__details">
+                    <ul class="hp-plan__features">
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label">Custom Domain Name</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="premium_tooltip_1"></span>
+                        </li>
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label">Jetpack Essential Features</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="premium_tooltip_2"></span>
+                        </li>
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label">Email &amp; Live Chat Support</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="premium_tooltip_3"></span>
+                        </li>
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label"
+                                    data-group-label="Unlimited Premium Themes"><strong>Unlimited</strong> Premium Themes</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="premium_tooltip_4"></span>
+                        </li>
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label"
+                                    data-group-label="Advanced Design Customization"><strong>Advanced</strong> Design Customization</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="premium_tooltip_5"></span>
+                        </li>
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label"
+                                    data-group-label="Unlimited Storage Space"
+                                    data-group-text="13GB"><strong>13GB</strong> Storage Space</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="premium_tooltip_6"></span>
+                        </li>
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label">Remove WordPress.com Ads</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="premium_tooltip_7"></span>
+                        </li>
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label">Monetize your site</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="premium_tooltip_8"></span>
+                        </li>
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label">VideoPress support</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="premium_tooltip_9"></span>
+                        </li>
+                    </ul>
+                    <div class="hp-plan__footer-cta">
+                        <p class="lp-cta ">
+                            <a id="plans-premium-plan-bottom-cta" href="//wordpress.com/start/premium?ref=homepage"
+                               class="button is-cta is-primary">Start with Premium</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+		            <div class="hp-plan hp-plan--business hp-plan-3">
+                <div class="hp-plan-header hp-plan-header__business">
+                    <div class="hp-plan__illustration hp-plan-business__illustration"></div>
+                    <h4>Business</h4>
+                    <p class="hp-plan__price price-business-plan">
+                        <sup>$</sup>24<sup>.92</sup></p>
+                    <p class="hp-plan__timespan">per month, billed yearly</p>
+                </div>
+				                <div class="hp-plan__description">
+                    <p class="to-valign"><strong>Best for Small Business:</strong> Power your business website with unlimited premium and business theme templates, Google Analytics support, unlimited storage, and the ability to remove WordPress.com branding.</p>
+                    <p class="lp-cta">
+                        <a id="plans-business-plan-top-cta" href="//wordpress.com/start/business?ref=homepage"
+                           class="button is-cta is-primary">Start with Business</a>
+                    </p>
+                </div>
+                <div class="hp-plan__details">
+
+                    <ul class="hp-plan__features">
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label">Custom Domain Name</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="business_tooltip_1"></span>
+                        </li>
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label">Jetpack Essential Features</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="business_tooltip_2"></span>
+                        </li>
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label">Email &amp; Live Chat Support</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="business_tooltip_3"></span>
+                        </li>
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label"
+                                    data-group-label="Unlimited Premium Themes"><strong>Unlimited</strong> Premium Themes</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="business_tooltip_4"></span>
+                        </li>
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label"
+                                    data-group-label="Advanced Design Customization"><strong>Advanced</strong> Design Customization</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="business_tooltip_5"></span>
+                        </li>
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label"
+                                    data-group-label="Unlimited Storage Space"><strong>Unlimited</strong> Storage Space</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="business_tooltip_6"></span>
+                        </li>
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label">Remove WordPress.com Ads</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="business_tooltip_7"></span>
+                        </li>
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label">Monetize your site</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="business_tooltip_8"></span>
+                        </li>
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label">VideoPress support</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="business_tooltip_9"></span>
+                        </li>
+
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label">Attend Live Courses</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="business_tooltip_17"></span>
+                        </li>
+
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label">SEO Tools</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="business_tooltip_18"></span>
+                        </li>
+
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label">Install Themes</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="business_tooltip_11"></span>
+                        </li>
+
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label">Upload Plugins</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="business_tooltip_10"></span>
+                        </li>
+
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label">Google Analytics Integration</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="business_tooltip_12"></span>
+                        </li>
+                        <li>
+                            <span class="gridicons-checkmark-blue hp-plan-feature__item-checkmark"></span><span
+                                    class="label">Remove WordPress.com Branding</span>
+                            <span class="hp-plan-feature__item-tooltip gridicons-info-outline hp-plan-feature__item-tooltip-gridicon"
+                                  id="business_tooltip_13"></span>
+                        </li>
+                    </ul>
+                    <div class="hp-plan__footer-cta">
+                        <p class="lp-cta ">
+                            <a id="plans-business-plan-bottom-cta" href="//wordpress.com/start/business?ref=homepage"
+                               class="button is-cta is-primary">Start with Business</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+		        <div class="hp-plan__features-item-tooltip-container">
+            <div class="tip-arrow"></div>
+            <div class="hp-plan__features-item-tooltip-content"></div>
+        </div>
+    </div>
+
+    <div id="plans-table-mobile" class="hp-plans-table-mobile hp-block-container">
+        <div class="plans-table-mobile-header">
+            <div class="plans-table-mobile-header-inner">
+								                    <div class="plans-table-th plans-table-th--personal">
+                        <p>Start with</p>
+                        <h3>Personal</h3>
+                    </div>
+				                    <div class="plans-table-th plans-table-th--premium">
+                        <p>Go with</p>
+                        <h3>Premium</h3>
+                    </div>
+				                    <div class="plans-table-th plans-table-th--business">
+                        <p>Sign up as</p>
+                        <h3>Business</h3>
+                    </div>
+				            </div>
+        </div>
+        <div class="plans-table-mobile-body">
+            <div id="plans-table-features-compare"><!-- will be build by JS --></div>
+
+            <div class="feature">
+                <div class="row-header">Monthly Subscription <em>(Billed yearly)</em></div>
+                <div class="like-table-row pricing-row">
+										                        <div class="like-table-cell">
+                            <p class="hp-plan__price price-personal-plan">
+                                <sup>$</sup>4<sup>.00</sup></p>
+                            <a href="//wordpress.com/start/personal?ref=homepage">Sign up</a>
+
+                        </div>
+					                        <div class="like-table-cell">
+                            <p class="hp-plan__price price-premium-plan">
+                                <sup>$</sup>8<sup>.25</sup></p>
+                            <a href="//wordpress.com/start/premium?ref=homepage">Sign up</a>
+
+                        </div>
+					                        <div class="like-table-cell">
+                            <p class="hp-plan__price price-business-plan">
+                                <sup>$</sup>24<sup>.92</sup></p>
+                            <a href="//wordpress.com/start/business?ref=homepage">Sign up</a>
+
+                        </div>
+					                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="hp-centerblock">
+        <p class="hp-plan__compare">
+            <a href="#" id="plans-compare-link">
+                <svg class="gridicon gridicons-clipboard" height="24" width="24" xmlns="http://www.w3.org/2000/svg"
+                     viewBox="0 0 24 24">
+                    <g>
+                        <path d="M16 18H8v-2h8v2zm0-6H8v2h8v-2zm2-9h-2v2h2v15H6V5h2V3H6c-1.105 0-2 .895-2 2v15c0 1.105.895 2 2 2h12c1.105 0 2-.895 2-2V5c0-1.105-.895-2-2-2zm-4 2V4c0-1.105-.895-2-2-2s-2 .895-2 2v1c-1.105 0-2 .895-2 2v1h8V7c0-1.105-.895-2-2-2z"/>
+                    </g>
+                </svg>
+				Compare plans</a>
+        </p>
+    </div>
+</section>
+
+
+    <div class="wpcom-free">
+        <ul>
+            <li class="item-1">
+                <h2>WordPress.com Free</h2>
+                <p>for life</p>
+            </li>
+
+
+            <li class="item-2">
+
+                <p>If you just want to start creating, get started with aÂ free site and be on your way to publishing in less than fiveÂ minutes.                    <a href="//wordpress.com/start?ref=homepage">Start with free</a>
+                </p>
+
+            </li>
+
+            <li class="item-3">
+                <p>Includes a WordPress.com subdomain, community support, dozens of free themes, basic design customization, and more.</p>
+            </li>
+    </div>
+
+    </ul>
+
+            <div class="shape shape--1 shape--image">
+            <div class="shape__ratio"></div>
+            <div class="lazy shape__fill" data-image-url="https://s1.wp.com/home.logged-out/page-d2018/media/painting-plans.jpg"></div>
+        </div>
+		</section>	<footer class="hp-footer">
+  <div class="hp-footer__wrapper">
+    <div class="hp-footer__language">
+      <svg class="gridicon" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zM3.5 12c0-1.232.264-2.402.736-3.46L8.29 19.65C5.456 18.272 3.5 15.365 3.5 12zm8.5 8.5c-.834 0-1.64-.12-2.4-.345l2.55-7.41 2.613 7.157c.017.042.038.08.06.117-.884.31-1.833.48-2.823.48zm1.172-12.485c.512-.027.973-.08.973-.08.458-.055.404-.728-.054-.702 0 0-1.376.108-2.265.108-.835 0-2.24-.107-2.24-.107-.458-.026-.51.674-.053.7 0 0 .434.055.892.082l1.324 3.63-1.86 5.578-3.096-9.208c.512-.027.973-.08.973-.08.458-.055.403-.728-.055-.702 0 0-1.376.108-2.265.108-.16 0-.347-.003-.547-.01C6.418 5.025 9.03 3.5 12 3.5c2.213 0 4.228.846 5.74 2.232-.037-.002-.072-.007-.11-.007-.835 0-1.427.727-1.427 1.51 0 .7.404 1.292.835 1.993.323.566.7 1.293.7 2.344 0 .727-.28 1.572-.646 2.748l-.848 2.833-3.072-9.138zm3.1 11.332l2.597-7.506c.484-1.212.645-2.18.645-3.044 0-.313-.02-.603-.057-.874.664 1.21 1.042 2.6 1.042 4.078 0 3.136-1.7 5.874-4.227 7.347z"/></g></svg>
+      <a href="#" class="hp-footer__language-selector language-toggle">
+        <span>en</span>
+        <svg class="gridicon gridicons-chevron-down" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M20 9l-8 8-8-8 1.414-1.414L12 14.172l6.586-6.586"/></g></svg>
+      </a>
+    </div>
+    <nav>
+      <h6>Other WordPress solutions</h6>
+      <ul>
+        <li><a href="https://jetpack.com" >Jetpack plugin</a></li>
+        <li><a href="https://woocommerce.com" >WooCommerce</a></li>
+        <li><a href="https://pressable.com" >Pressable (managed hosting)</a></li>
+        <li><a href="https://vip.wordpress.com/" >VIP (enterprise hosting)</a></li>
+        <li><a href="https://developer.wordpress.com/" >Developers</a></li>
+      </ul>
+    </nav>
+    <nav>
+      <h6>Explore</h6>
+      <ul>
+        <li><a href="https://en.blog.wordpress.com">News</a></li>
+        <li><a href="https://discover.wordpress.com">Discover</a></li>
+        <li><a href="https://wordpress.com/go">Go: Growth Content</a></li>
+        <li><a href="https://apps.wordpress.org/desktop">Desktop Apps</a></li>
+        <li><a href="https://apps.wordpress.org/mobile">Mobile Apps</a></li>
+      </ul>
+    </nav>
+    <nav>
+      <h6>Community</h6>
+      <ul>
+        <li><a href="https://en.support.wordpress.com/" >Support</a></li>
+        <li><a href="https://en.forums.wordpress.com/" >Forums</a></li>
+        <li><a href="https://central.wordcamp.org/" title="Community-organized events that focus on everything WordPress">WordCamps</a></li>
+        <li><a href="https://wordpress.org/" title="Self-hosted, non-profit version">WordPress.org</a></li>
+      </ul>
+    </nav>
+    <nav>
+      <h6>Company</h6>
+      <ul>
+        <li><a href="https://wordpress.com/about/">About Us</a></li>
+        <li><a href="https://automattic.com/privacy/">Privacy</a></li>
+        <li><a href="https://wordpress.com/tos/">Terms of Service</a></li>
+        <li><a href="https://ma.tt">Matt Mullenweg</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="hp-footer__wrapper hp-footer__credits">
+  <p><a id='code-wrangler' href='https://automattic.com/work-with-us/code-wrangler/?utm_source=homepagefooter&amp;utm_campaign=cw-php-we' title='We are super nice :-)' style='text-transform: none;'>We are hiring PHP developers. Join us!</a></p>
+  			<script>
+				var cwLink = document.getElementById( 'code-wrangler' );
+				var alternatives = [
+					{text: 'We are hiring PHP developers. Join us!', campaign: 'cw-php-we'},
+					{text: 'Automattic is hiring PHP developers. Join us!', campaign: 'cw-php-a8c'},
+					{text: 'Automattic is hiring backend developers. Join us!', campaign: 'cw-backend-a8c'},
+					{text: 'We are hiring backend developers. Join us!', campaign: 'cw-backend-we'},
+					{text: 'Automattic is hiring PHP developers anywhere in the world. Join us!', campaign: 'cw-php-a8c-anywhere'},
+					{text: 'Automattic is hiring backend developers anywhere in the world. Join us!', campaign: 'cw-backend-a8c-anywhere'},
+					{text: "&lt;?php find_developers( ['language' => 'PHP', 'specialty' => 'scaling', 'location' => ANYWHERE ] )", campaign: 'cw-phpcode'},
+				];
+				var sourceAlternatives = {
+					jetpackcom: [
+						{text: 'Know PHP and want to improve Jetpack? Join us!', campaign: 'cw-knowphp-jetpack'},
+						{text: 'Know PHP and want to improve Jetpack from anywhere in the world? Join us!', campaign: 'cw-knowphp-jetpack-anywhere'},
+					],
+					h4: [
+						{text: 'Know PHP and want to improve WordPress.com? Join us!', campaign: 'cw-knowphp-wpcom'},
+						{text: 'Know PHP and want to improve WordPress.com from anywhere in the world? Join us!', campaign: 'cw-knowphp-wpcom-anywhere'},
+					],
+					homepage: [
+						{text: 'Know PHP and want to improve WordPress.com? Join us!', campaign: 'cw-knowphp-wpcom'},
+						{text: 'Know PHP and want to improve WordPress.com from anywhere in the world? Join us!', campaign: 'cw-knowphp-wpcom-anywhere'},
+					],
+				}
+				if ( sourceAlternatives[ 'homepagefooter' ] ) {
+					alternatives = alternatives.concat( sourceAlternatives[ 'homepagefooter' ] );
+				}
+				var chosen = alternatives[ Math.floor( Math.random() * alternatives.length ) ];
+				cwLink.href = 'https://automattic.com/work-with-us/code-wrangler/?utm_source=homepagefooter&utm_medium=link&utm_campaign=' + chosen.campaign;
+				cwLink.innerHTML = chosen.text;
+			</script>  </div>
+  <div class="hp-footer__wrapper hp-footer__credits">
+    <p>An<a class="hp-footer__a8clogo" href="https://automattic.com/">Automattic</a>contraption</p>
+  </div>
+</footer>
+</div>
+<script>
+	var featureTooltips = {
+		free_tooltip_1 : "Your site address will use a WordPress.com subdomain (sitename.wordpress.com).",
+		free_tooltip_2 : "Jetpack is a powerful plugin that includes SEO, spam protection, social sharing, site stats, and more.",
+		free_tooltip_3 : "Get support through our user community forums.",
+		free_tooltip_4 : "Access to a wide range of professional theme templates for your website so you can find the exact design you're looking for.",
+		free_tooltip_5 : "Customize your selected theme template with pre-set color schemes, background designs, and font styles.",
+		free_tooltip_6 : "Ample storage space to upload images and documents to your website.",
+
+		personal_tooltip_1 : "Get a free custom domain name (example.com) with this plan to use for your website.",
+		personal_tooltip_2 : "Jetpack is a powerful plugin that includes SEO, spam protection, social sharing, site stats, and more.",
+		personal_tooltip_3 : "High quality support to help you get your website up and running and working how you want it.",
+		personal_tooltip_4 : "Access to a wide range of professional theme templates for your website so you can find the exact design you're looking for.",
+		personal_tooltip_5 : "Customize your selected theme template with pre-set color schemes, background designs, and font styles.",
+		personal_tooltip_6 : "With increased storage space you'll be able to upload more images, audio, and documents to your website.",
+		personal_tooltip_7 : "Allow your visitors to visit and read your website without seeing any WordPress.com advertising.",
+		personal_tooltip_8 : "Includes everything in the Free plan.",
+
+		premium_tooltip_1 : "Get a free custom domain name (example.com) with this plan to use for your website.",
+		premium_tooltip_2 : "Jetpack is a powerful plugin that includes SEO, spam protection, social sharing, site stats, and more.",
+		premium_tooltip_3 : "High quality support to help you get your website up and running and working how you want it.",
+		premium_tooltip_4 : "Unlimited access to all of our advanced premium theme templates, including templates specifically tailored for businesses.",
+		premium_tooltip_5 : "Customize your selected theme template with extended color schemes, background designs, and complete control over website CSS.",
+		premium_tooltip_6 : "With increased storage space you'll be able to upload more images, videos, audio, and documents to your website.",
+		premium_tooltip_7 : "Allow your visitors to visit and read your website without seeing any WordPress.com advertising.",
+		premium_tooltip_8 : "Add advertising to your site through our WordAds program and earn money from impressions.",
+		premium_tooltip_9 : "The easiest way to upload videos to your website and display them using a fast, unbranded, customizable player with rich stats.",
+		premium_tooltip_10 : "Includes everything in the Personal plan.",
+
+		business_tooltip_1 : "Get a free custom domain name (example.com) with this plan to use for your website.",
+		business_tooltip_2 : "Jetpack is a powerful plugin that includes SEO, spam protection, social sharing, site stats, and more.",
+		business_tooltip_3 : "High quality support to help you get your website up and running and working how you want it.",
+		business_tooltip_4 : "Unlimited access to all of our advanced premium theme templates, including templates specifically tailored for businesses.",
+		business_tooltip_5 : "Customize your selected theme template with extended color schemes, background designs, and complete control over website CSS.",
+		business_tooltip_6 : "With increased storage space you'll be able to upload more images, videos, audio, and documents to your website.",
+		business_tooltip_7 : "Allow your visitors to visit and read your website without seeing any WordPress.com advertising.",
+		business_tooltip_8 : "Add advertising to your site through our WordAds program and earn money from impressions.",
+		business_tooltip_9 : "The easiest way to upload videos to your website and display them using a fast, unbranded, customizable player with rich stats.",
+		business_tooltip_10 : "Install custom plugins on your site.",
+		business_tooltip_11 : "Upload custom themes on your site.",
+		business_tooltip_12 : "Track website statistics with Google Analytics for a deeper understanding of your website visitors and customers.",
+		business_tooltip_13 : "Keep the focus on your site's brand by removing the WordPress.com footer branding.",
+		business_tooltip_14 : "Adds tools to enhance your site's content for better results on search engines and social media.",
+		business_tooltip_15 : "Includes everything in the Premium plan.",
+		business_tooltip_16 : "Install custom plugins and themes on your site.",
+		business_tooltip_17 : "Attend courses led by Happiness Engineers and learn to get the most out of your site.",
+		business_tooltip_18 : "Adds tools to enhance your site's content for better results on search engines and social media.",
+
+		combined_tooltip_1 : "Get a free custom domain name (example.com) to use for your website.",
+		combined_tooltip_2 : "Jetpack is a powerful toolkit that includes SEO, spam protection, social sharing, site stats, and more.",
+		combined_tooltip_3 : "High quality support to help you get your website working how you want it.",
+		combined_tooltip_4 : "Access to a wide range of professional themes so you can find the exact design you're looking for.",
+		combined_tooltip_5 : "Customize your selected theme with extended color schemes, background designs, and complete control over website CSS.",
+		combined_tooltip_6 : "With increased storage space, you'll be able to upload more images, audio, and documents to your website.",
+		combined_tooltip_7 : "Allow your visitors to visit and read your website without seeing any WordPress.com advertising.",
+		combined_tooltip_8 : "Add advertising to your site through our WordAds program and earn money from impressions.",
+		combined_tooltip_9 : "The easiest way to upload videos to your website and display them using a fast, unbranded, customizable player with rich stats.",
+		combined_tooltip_10 : "Attend courses led by Happiness Engineers and learn to get the most out of your site.",
+		combined_tooltip_11 : "Adds tools to enhance your site's content for better results on search engines and social media.",
+		combined_tooltip_12 : "Upload custom themes to your site.",
+		combined_tooltip_13 : "Install custom plugins on your site.",
+		combined_tooltip_14 : "Track website statistics with Google Analytics for a deeper understanding of your website visitors and customers.",
+		combined_tooltip_15 : "Keep the focus on your site's brand by removing the WordPress.com footer branding.",
+	}
+</script>
+<script src="//s1.wp.com/home.logged-out/page-d2018/js/bundle.js?v=1535333482"></script>
+	<!-- A8C Analytics [start] -->
+	<script type="text/javascript">
+	(function() {
+				'use strict';
+		window.a8cAnalyticsConfig = {"cookieBanner":{"text":"Our websites and dashboards use cookies. By continuing, you agree to their use. <a target=\"_blank\" href=\"https:\/\/automattic.com\/cookies\">Learn more<\/a>, including how to control cookies.","buttonText":"Got It!","cookieName":"sensitive_pixel_option","skipBanner":false,"cssZIndex":50001},"fireAnalyticsOptions":{"lpName":"logged-out-homepage","lpVariation":""}};
+		jQuery.ajax({
+			async: true,
+			cache: true,
+			url: 'https://s1.wp.com/wp-content/mu-plugins/a8c-analytics/a8c-analytics.js?v=1530189615',
+			dataType: "script",
+		});
+	})();
+	</script>
+	<div style="display: none;">
+    <script type="text/javascript">
+		function getWPCOMAnalyticsDefaultConfig() {
+			'use strict';
+			return {
+				lpName: window.location.pathname.replace(/^\/|\/$/g, ''),
+				lpVariation: '',
+				isHomepage: true,
+				affiliateJSVersion: '1532722223',
+				floodlightURLWppv: '',
+				floodlightURLWpvisit: '',
+			}
+		};
+
+		$document = jQuery( window.document );
+		$document.on( 'a8c-analytics:loaded', function() {
+
+			'use strict';
+
+			var kit = window.a8cAnalytics.kit;
+
+			var config = getWPCOMAnalyticsDefaultConfig();
+			kit.objectAssign( config, window.a8cAnalyticsConfig.fireAnalyticsOptions );
+
+			window.docCookies = kit.docCookies;
+
+			if ( ! window.jQuery ) {
+				return;
+			}
+
+			function fireAffiliateReferrals() {
+				kit.attachScriptElement( 'https://s1.wp.com/wp-content/themes/h4/landing/marketing/js/affiliate-referrals.js?v=' + config.affiliateJSVersion );
+			}
+
+			function fireGoogleAnalytics() {
+				kit.loadGoogleAnalytics();
+								ga( 'create', 'UA-10673494-4' );
+				ga( 'set', 'anonymizeIp', true );
+				ga( 'send', 'pageview' );
+
+				ga( 'create', 'UA-10673494-10', 'auto', 't1' );
+				ga( 't1.set', 'dimension1', config.lpName );
+				ga( 't1.set', 'dimension2', config.lpVariation );
+				ga( 't1.set', 'anonymizeIp', true );
+								ga( 't1.send', 'pageview' );
+			}
+
+			function fireFacebook() {
+				kit.loadFacebook();
+				fbq( 'init', '823166884443641' );
+				fbq( 'track', 'PageView' );
+			}
+
+			function fireDCMFloodlight() {
+				kit.appendIFrame( config.floodlightURLWppv );
+				kit.appendIFrame( config.floodlightURLWpvisit );
+			}
+
+			function fireQuantcast() {
+				var ezt = ezt || [];
+				(function() {
+					var elem = document.createElement( 'script' );
+					elem.src = ( document.location.protocol === 'https:' ? 'https://secure' : 'http://pixel' ) + '.quantserve.com/aquant.js?a=p-3Ma3jHaQMB_bS';
+					elem.async = true;
+					elem.type = 'text/javascript';
+					var scpt = document.getElementsByTagName( 'script' )[ 0 ];
+					scpt.parentNode.insertBefore( elem, scpt );
+				}() );
+				ezt.push( {
+					qacct: 'p-3Ma3jHaQMB_bS',
+					orderid: '',
+					revenue: ''
+				} );
+			}
+
+			function fireOutbrain() {
+				!function( _window, _document ) {
+					var OB_ADV_ID = '00f0f5287433c2851cc0cb917c7ff0465e';
+					if ( _window.obApi ) {
+						return;
+					}
+					var api = _window.obApi = function() {
+						api.dispatch ? api.dispatch.apply( api, arguments ) : api.queue.push( arguments );
+					};
+					api.version = '1.0';
+					api.loaded = true;
+					api.marketerId = OB_ADV_ID;
+					api.queue = [];
+					var tag = _document.createElement( 'script' );
+					tag.async = true;
+					tag.src = '//amplify.outbrain.com/cp/obtp.js';
+					tag.type = 'text/javascript';
+					var script = _document.getElementsByTagName( 'script' )[ 0 ];
+					script.parentNode.insertBefore( tag, script );
+				}( window, document );
+				obApi( 'track', 'PAGE_VIEW' );
+			}
+
+			function fireYahooGemini() {
+				kit.loadPixelImage( 'https://sp.analytics.yahoo.com/spp.pl?a=10000&.yp=10014088' );
+			}
+
+			function fireOneByAol() {
+				kit.loadPixelImage( 'https://secure.leadback.advertising.com/adcedge/lb?site=695501&betr=sslbet_1472760417=[+]ssprlb_1472760417[720]|sslbet_1472760452=[+]ssprlb_1472760452[8760]' );
+			}
+
+			function fireBing() {
+				(function( w, d, t, r, u ) {
+					var f, n, i;
+					w[ u ] = w[ u ] || [], f = function() {
+						var o = { ti: "4074038" };
+						o.q = w[ u ], w[ u ] = new UET( o ), w[ u ].push( "pageLoad" )
+					}, n = d.createElement( t ), n.src = r, n.async = 1, n.onload = n.onreadystatechange = function() {
+						var s = this.readyState;
+						s && s !== "loaded" && s !== "complete" || ( f(), n.onload = n.onreadystatechange = null )
+					}, i = d.getElementsByTagName( t )[ 0 ], i.parentNode.insertBefore( n, i )
+				} )( window, document, "script", "//bat.bing.com/bat.js", "uetq" );
+			}
+
+			function fireTwitter() {
+				kit.loadTwitter();
+				twq( 'init', 'nvzbs' );
+				twq( 'track', 'PageView' );
+			}
+
+			function fireLinkedIn() {
+				window._linkedin_data_partner_id = "195308";
+				(function() {
+					var s = document.getElementsByTagName( "script" )[ 0 ];
+					var b = document.createElement( "script" );
+					b.type = "text/javascript";
+					b.async = true;
+					b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+					s.parentNode.insertBefore( b, s );
+				})();
+			}
+
+			// https://d.turn.com/r/dd/id/L21rdC84MTYvY2lkLzE3NDc0MzIzNDkvdC8w/kv/Pagename=wordpress.com/create/
+			function fireExperianAddressableTV() {
+				(function() {
+					var s = document.createElement( 'script' );
+					s.src = 'https://d.turn.com/r/dd/id/L21rdC84MTYvY2lkLzE3NDc0MzIzNDkvdC8w/kv/Pagename=' + document.location.host + document.location.pathname;
+					document.body.appendChild( s );
+				})();
+			}
+
+			function fireDCMFloodlightHomepage() {
+				var floodlight = {
+					DCM_FLOODLIGHT_IFRAME_URL: 'https://6355556.fls.doubleclick.net/activityi',
+					DCM_FLOODLIGHT_SESSION_COOKIE_NAME: 'dcmsid',
+					DCM_FLOODLIGHT_SESSION_LENGTH_IN_SECONDS: 1800,
+					DCM_FLOODLIGHT_ADVERTISTER_ID: '6355556',
+
+					/**
+					 * Fire a Page View and Visit DCM Floodlight tracking requests
+					 */
+					init: function() {
+						// The Tracks module loads w.js which sets the `tk_ai` cookie which we need
+						// in order to set the `u5` variable. By using `setInterval`, we can wait until
+						// that cookie has been set to fire the Floodlight requests
+						var interval = setInterval(function() {
+							if ( this.anonymousId() ) {
+								clearInterval( interval );
+								this.track();
+							}
+						}.bind( this ), 10 )
+					},
+
+					track: function() {
+						var sessionId = this.floodlightSessionId();
+
+						// Set or bump the DCM session id cookie by 30 minutes
+						window.docCookies.setItem(
+							this.DCM_FLOODLIGHT_SESSION_COOKIE_NAME,
+							sessionId,
+							this.DCM_FLOODLIGHT_SESSION_LENGTH_IN_SECONDS,
+							'/',
+							'.wordpress.com'
+						);
+
+						this.recordParamsInFloodlight( {
+							type: 'wordp0',
+							cat: 'wpvisit',
+							src: this.DCM_FLOODLIGHT_ADVERTISTER_ID,
+							u5: this.anonymousId(),
+							u6: '/',
+							u7: sessionId,
+							ord: sessionId
+						} );
+
+						this.recordParamsInFloodlight( {
+							type: 'wordp0',
+							cat: 'wppv',
+							src: this.DCM_FLOODLIGHT_ADVERTISTER_ID,
+							u5: this.anonymousId(),
+							u6: '/',
+							u7: sessionId,
+							ord: this.floodlightCacheBuster()
+						} );
+					},
+
+					/**
+					 * Returns the Tracks anonymous id
+					 *
+					 * @returns {String|null} The value of the `tk_ai` cookie
+					 */
+					anonymousId: function() {
+						return docCookies.getItem( 'tk_ai' );
+					},
+
+					/**
+					 * Returns the DCM Floodlight session id, generating a new one if there's not already one
+					 *
+					 * @returns {String} The DCM session id
+					 */
+					floodlightSessionId: function() {
+						var existingSessionId = docCookies.getItem( this.DCM_FLOODLIGHT_SESSION_COOKIE_NAME );
+						if ( existingSessionId ) {
+							return existingSessionId;
+						}
+
+						// Generate a random session id
+						return this.uuid();
+					},
+
+					/**
+					 * Generates a random session id
+					 *
+					 * @returns {String} Of 32 characters
+					 */
+					uuid: function() {
+						var text = '';
+						var possible = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+
+						for ( var i = 0; i < 32; i++ ) {
+							text += possible.charAt( Math.floor( Math.random() * possible.length ) );
+						}
+
+						return text;
+					},
+
+					/**
+					 * Given an object of Floodlight params, this dynamically loads an iframe with the appropraite URL
+					 *
+					 * @param {Object} params - An object of Floodlight params
+					 * @returns {void}
+					 */
+					recordParamsInFloodlight: function( params ) {
+						// Note that we're not generating a URL with traditional query arguments
+						// Instead, each parameter is separated by a semicolon
+						var urlParams = Object.keys( params ).map(function( key ) {
+							return encodeURIComponent( key ) + '=' + encodeURIComponent( params[ key ] );
+						} ).join( ';' );
+
+						// The implementation guidance includes the question mark at the end of the URL
+						var urlWithParams = this.DCM_FLOODLIGHT_IFRAME_URL + ';' + urlParams + '?';
+
+						// Unlike other advertising networks, DCM Floodlight requires we load an iframe
+						var iframe = document.createElement( 'iframe' );
+						iframe.setAttribute( 'src', urlWithParams );
+						iframe.setAttribute( 'width', '1' );
+						iframe.setAttribute( 'height', '1' );
+						iframe.setAttribute( 'frameborder', '0' );
+						iframe.setAttribute( 'style', 'display: none' );
+						document.body.appendChild( iframe );
+					},
+
+					/**
+					 * Returns a random value to pass with as Flodlight's `ord` parameter
+					 *
+					 * @returns {Number} A large random number
+					 */
+					floodlightCacheBuster: function() {
+						return Math.random() * 10000000000000;
+					}
+				};
+
+				floodlight.init();
+			}
+
+			// ------- Fire Normal Pixels -------
+
+			if ( kit.doNotTrack() ) {
+				return;
+			}
+
+			fireAffiliateReferrals();
+
+			// ------- Fire "Sensitive" Pixels -------
+
+			$document.on( 'a8c-analytics:fire-sensitive-pixels', function() {
+
+								fireGoogleAnalytics();
+
+				kit.fireAdWords( {
+					google_conversion_id: 1067250390,
+					google_remarketing_only: true,
+					google_custom_params: window.google_tag_params
+				} );
+				fireFacebook();
+				fireQuantcast();
+				fireOutbrain();
+				fireYahooGemini();
+				fireOneByAol();
+				fireBing();
+				fireTwitter();
+				fireLinkedIn();
+				fireExperianAddressableTV();
+				kit.fireHotjar( 227769 );
+				if ( config.isHomepage ) {
+					fireDCMFloodlightHomepage();
+				} else {
+					fireDCMFloodlight();
+				}
+			} )
+		});
+    </script>
+</div>
+	<!-- A8C Analytics [end] -->
+	</body>
+</html>
+
+----------------------------------
+notarization binary data
+ /[††º¿rÀû§ùU¶*¨Ò—äéƒâ<8©)F–ùñ8dyá…1ærŞX‰µ´ôL7AÖV`0Ô½E¶Nà;ôV}Bó,ú`3          ¸îXzíVŠ               ¹ [0‚W0‚? >$$§	0	*†H†÷ 0´10	UUS10UArizona10U
+Scottsdale10U
+GoDaddy.com, Inc.1-0+U$http://certs.godaddy.com/repository/1301U*Go Daddy Secure Certificate Authority - G20170714230300Z190724170838Z0á10+‚7<US10+‚7<
+California10UPrivate Organization10UC280498510	UUS10U
+California10USan Francisco1)0'U
+ WordPress.com (Automattic, Inc.)10Uwordpress.com0‚"0	*†H†÷ ‚ 0‚
+‚ Ïû•M®Z~Mw-’â|¼U°ëºÇEÎ~^ùŸœH7şGŠ>V=is9¹^ùyÙ[h’h‰0ª6¬–ùw¾c´ó¤Â-ª¾XvœNN·5oâ9£ÏÀ°†2og9xª[ûÜ³	§ßœ%şĞ—o)F(4ÊÈt…Ö@Ã®ªÌŞÇ	ˆRÇ‚¡âPHúu7´r—ÙÂH¹3lY`³Wö‹VNÉ"ƒa?×ïök¼$8ñÁî)œşeÀ;àYhâùÄå¢à–­ØªË5
+aíkÑÖ2À€*âŠg˜'²t&î,½ÎtçUùHØoOõ £‚<0‚80Uÿ0 0U%0++0Uÿ 05U.0,0* ( &†$http://crl.godaddy.com/gdig2s3-8.crl0\U U0S0H`†H†ım0907++http://certificates.godaddy.com/repository/0g0v+j0h0$+0†http://ocsp.godaddy.com/0@+0†4http://certificates.godaddy.com/repository/gdig2.crt0U#0€@Â½'Ì4ƒ0¢3×ûl³ğ´,€Î0+U$0"‚wordpress.com‚www.wordpress.com0UOF#]2=ß‰ŒdL‚â/¶åİ0‚}
++Öy‚m‚ig u Vš/×ÂìÓõá½D²>ÇFv¹¼™\Àï”˜UÖ‰Ğİ  ]CXÌ   F0D m•ñ^±ò	‚K©êèvİC'¥(åÍ˜ïm`EÇ…š KÔÆäfĞ>!ß-Ùº	;©cæµ:ár}'æ;D v îK½·uÎ`ºáBi«áf£~_°rØƒ Ä{‰z¨ıË  ]CX“Ê   G0E! Ğáz~áó§(œ¿ã!ïı2æÎß?Mú§ÿ -z+ÙÏÌ ˆu
+= ®”©oäuËøRÁù¬ë'ú'\â@	:,. v ¤¹	´X‡»¢Ìgp
+<5˜ùß¸ãwÍÈÜ  ]CX”š   G0E! Ğ@ş”Ñ÷fáh6ç—îå[9wA´+ – 4E!Œ\ )ˆåM&SÕù¸Äç7ç?Ê	?¤İ%ı|yS³¬ĞÃ0	*†H†÷ ‚ !ğdLY‹¦ùPt¦ÈgJîÌù)y!Ó7™xÀíÙªOà·[´€Óõ±mş¶oxYØ%²=kæL¹`šĞ|ç=ü·€¬ü4‰ Ü-?İ½…è}ŞDXyÉñR<ç½Ünl¯ãzÁ»¿€\”VsKe—Hğ†´ ZÖLzJû}Â3Üâ!ëYWa·]±ÈË; U/øÏ•—%,\ãc-Ÿ˜öş*(ÚésrQ.Yg$¡ˆçy³("›l…šbÎëã×ºáw{ì¬×7]õøPÿÅëÎ_K‹\# Ó_—‰7¾QÂ0Üf_0‹K¯>f€‡¯ä Ô0‚Ğ0‚¸ 0	*†H†÷ 0ƒ10	UUS10UArizona10U
+Scottsdale10U
+GoDaddy.com, Inc.110/U(Go Daddy Root Certificate Authority - G20110503070000Z310503070000Z0´10	UUS10UArizona10U
+Scottsdale10U
+GoDaddy.com, Inc.1-0+U$http://certs.godaddy.com/repository/1301U*Go Daddy Secure Certificate Authority - G20‚"0	*†H†÷ ‚ 0‚
+‚ ¹àËÔ¯v½Ô“bë0d¸lÃÙb/ÿ>eÏÎbæ<RÚEKU«xkcƒbÎil™È‹LÌE3êˆÜ£¯+ş€ayWÄÏ.ô?0<]Güš¼Ã7–AQKTø(¾ĞŒ¾ğ08ó°&øfGcmŞq&G8GSÑF´ãÜ êE¬½¼qÙªo ÛÛÍ0:yO_LGøï[ÂÄ`;±²C‘Ø¤3Nê³Ö'O­%Š¥ÆôÕĞ¦®tdWˆµDUÔ-*:>ø¸½é2
+”dÄ:PñJ®çy3¯ èß9ÂilcRúwÁÈt‡È¹“PT5KiN¼;ÓI.ÜÁÒRû £‚0‚0Uÿ0ÿ0Uÿ0U@Â½'Ì4ƒ0¢3×ûl³ğ´,€Î0U#0€:š…g(¶ïö½An Á”ÚŞ04+(0&0$+0†http://ocsp.godaddy.com/05U.0,0* ( &†$http://crl.godaddy.com/gdroot-g2.crl0FU ?0=0;U  0301+%https://certs.godaddy.com/repository/0	*†H†÷ ‚ ~l“È8¸–©Kÿ¡_Oïl>œˆÉP¦s÷W1¾¼ä/ÛøºÓ[à´çæyb¢×jcs1µõ¨H¤;-¢]×´|%OV0Ä¶D{,å^æïaª¿ä*î„¸ƒ}ÁCÎD§p‘ôÈ­ƒ`ÙØr¨s$µ¬"Ê‰bXD«‰% ÍÄbÛQ´ÓQ*›ô¼süvÎ6¤ÍÙØ,ê®›õ*²ÑMuŠ?ŠA#}[Kş¤X›F²Ã``ƒø}PAÎÂ¡Ã»ï/ÒTîDÙ
+®§Š3í±-v6&ÜëŸ÷aÜ‡oîF–(­¡&}
+	§.£¼ø¼0 0‚}0‚e ç0	*†H†÷ 0c10	UUS1!0U
+The Go Daddy Group, Inc.110/U(Go Daddy Class 2 Certification Authority0140101070000Z310530070000Z0ƒ10	UUS10UArizona10U
+Scottsdale10U
+GoDaddy.com, Inc.110/U(Go Daddy Root Certificate Authority - G20‚"0	*†H†÷ ‚ 0‚
+‚ ¿qbñúY4÷É£÷€IXé"ƒ¦Å C;„ñæ…IŸ'êö„N ´Ûp˜Ç2±>NîôúO/Y0"ç«Vkâ€üóu€9Q{åù5¶tN©‚ä¶?©ƒú¢¾ŠjŞÃ¶ÊêÃ¨”;F|2ó f"Èim6Œ·Ó²`´8úŒÎÓİFŞ
+>ë]|È|û°+S¤’biQ%aDŒ,©C–#ß¬:š)Å©é]¶0
+9Îñˆ€ûK]Ì2ì…bC%4V'‘´;p*?n±èœˆ}ŸÔùÛSm`¿,çX«¸_FüÎÄ<	ëI1\iF³àG £‚0‚0Uÿ0ÿ0Uÿ0U:š…g(¶ïö½An Á”ÚŞ0U#0€ÒÄ°Ò‘ÔLq³aË=¡şİ¨jÔã04+(0&0$+0†http://ocsp.godaddy.com/02U+0)0' % #†!http://crl.godaddy.com/gdroot.crl0FU ?0=0;U  0301+%https://certs.godaddy.com/repository/0	*†H†÷ ‚ YS½’†§${í[1ÏlpÅ¸n¾N»ö¾—Pá0º(\b”Âã~3÷ûBv…Û•Œ"Xu	ˆeg9
+	Å 8—¤Å#“?´¦D‘ã§i'´Z%:·2Íİ„ÿ*8)3¤İg²…ş¡ˆ P‰ÈÜ*öB7LæˆßÕ¯$ò±ÃßÌµìà™^·IT <”ÇRI¤má³XÉØìÙ®2(pâş¦„½Wp³Zé †S»ï|ÿiàHÃ·“È
+TÄ¬]g7lÊ¥/17ªnoŒ¼›âW]$¯——œ„­l¬7Lfóa‘ ä¾0Ÿz¤)	°á4_dw@QßŒ0¦¯     H pDşdÚ"	P£y9Œ¹ÌwäÕÂƒ˜bŒ~zA?¸{[üŒ“n\äcŞÁ¾;¯’=ö÷ sòZ†.ğÇ eæB¦Gd_ûúïXAj¿iùdÜİp‰ds_0·w	·“~ZˆäRR*g?Fx]¶Ú/ÉÿÌFIê•'%2¥&{û•›)/S¢/óEé?ŠÜğeOdÉüu‰DBÿšr‚{«@LÍÜŞx¼/yİNZ¥rDû[Mnõn|¸9J°×¼·Ä/µ^¶4Ù[n›ı¶áú•àˆ­dóÍ¢±çŒyK¬f¡·pV”?"èg;u Ù5Šo9N^ûÇCvÀ‚cMšìÓ°GTúÈ™gbÌvÜ¨¯g±ˆ‡*	×dfK"l;Èÿ’¢&Ô"9ƒÌŒ ÂÖ-œ½ªú
+µäß¹n^6Š:°ØR} Ç/0Xã-ûk£ eÓíoS:»jw,åS_lÑ^(eD5ß9ëAõGĞËºÃÛÃ"ôyM(Å¿h”J#Mî=GV`<6EÕÌ}|ª!š«Û“ìá[@ÿ?£9òMqI‹¼„5PéõFh t–Æ%EÖÈN1èÁİ~ö¯-è†–.!o‹M9Ä¸š«ÿ·Á.B´ %v2¼")o*ºÆŸ‘Ìc¶yš7-éå¤õÄòÄ·Ø§ŠÔŸ½üÊggnuìe	\3¹Mc%Äô£«tFCy'Ií©ò™‚¬7›Ó)Öë{»g1#wÏ>Ç_¹7«[m	ø°º!F£ºÀ‹Ò°ÃQWĞhîí”™Å¹âjÊ=6â;‰«âj±v„åºO°½ÕW/u-º|ĞéÚ²ŞB±Ú’)üªxsÇw[‚ Q´,÷0÷BXù~Ôô]İœı«ŠË!²ĞÅìëµÚï­SwR¡, ıéCØvhÚŞíaÎ†}^£İP“bÊÍ*14AÜ_^
+»ïšİ~ÚakËæËZ?u‡ŒÂ—!LË%”"v½¶Ö~È5ÍT!ÚwÌ{œ"HBJÅw)¿°T:pĞïƒ¢•ûbEğ-×MSYÀ!€Y¡—#aşd(¦‰ËÉEmLš 7ôD[Z‚š^¼¬ä1ë®âËâ/ôüx³-L]\ğt¸.Õ"£c4ƒ=€ Dù Aèb&ˆ7AÔyş…™‡`£,g+[8¿-X§<î!Ûq*5;6liø^€=÷èlŠs!§ê½Ù)DT!`îíâ½ÖQú2SÀˆCÅI	ÎÖ«k÷«œ©q»?ĞH*hc©SB’J¤ÄÉ©àF¨^Æ3§wñvÙşÕKÖV-»¡oß“ñ;íıc3Ä;àdüıÂÉåÎûôsÿ¼UGCæGX¦ë‡¯PM¿¶ûúZ×¤E@}KÏjiÁÃ´Òg«»ò¶¬RAÆ•IıhiXŒ¶I~<äÑ)Şj˜ôêü7Ú-Û;íşË¸K?3`ÛšÒ óBs¥‰'Ø?1eşcÂëE!Î±Cáj²“å9nÖÚİÂEC‹ ~ºôÄW¢ò ]iÉ°âP+ùf-ĞƒöW‚èwê“(EO©‹,=%3|tVEj9j•£¿ 
+v¢ÿÑ‘}3¶NæÉºú«¹m²"–şOòÜITŸ/©»í±!~n	ş;åñ jÓ¢ûŸE9òÉ”í§ë1é[jj<Ñ®#ì·xA?;Ã "³pn˜Œ6öMŞ“	˜
+r[oÜE›—Ø½æœ!N¨ÃƒúZ¦|÷L¼¼lÒmÔû›7Õb,9/ îà5•E§ ±À×MŞÒÙu¬)*ÖPí9wü pÄ‹ÒÅD }U‡ü°mC¬*JË‘‡öÌŸÌÄî”Qjõ.¼Áwº%óo¿ş~}kÓ«~%Ü›-3ì,Vñ [	ß·ç§™î½ÄæüäEKë0ÿzLĞÃÜÕCyEeie¢4és‹ïûÓ~Å»|¾yoß~ÅGÉJ¬óÊòâÒ¢’Ù´ÙníûWvaÇ"âJ³´¼BéB–©9¼ ï¾\Övï>ZK|˜`IæeÛ‡QÈ.Å¸øŒìK]Á`V^‰õ¾İ½ÉõºË·ÉlÓƒR£FÊæE?÷–5¨ ÈÍÏTè!¢;‡#tßÎ#—.H'ÏÍıh `í›bì¿^<¾9ª¨‹DÌÒ½LÖòîÔSOÔ’Dh[†.Û »?M"ÍãÌ–sR´Uõ\_Ağ§ä(o|Û°ìI<;ï<÷AŞûıù«=†Iä…*_,Ú­ş·ÑC^Éñ–:€{õeÂˆKKˆ ²†ëH ÆÏ¥Lï ªt4£³†H8)ÂîpŞÚÇ/k­E|f#0å9q¤›€g–¢EûŠÔ›ÌgbfS¿]kbßvòñAƒİx<¾içû>ës2RHÿ+VĞğº†0p(@ª¤¸ËÀ>ê6M$Î1’Nô"€
+(DùøùOk×¥üYpËÿ—=H­«æ.gûÃbÈ6‡R¤t@ªcßofæw¥–@œwYD]ğ
+è,¶5I~›ò—c(wö€#ª¶¸‹ÃÜ„ãa¾|táÊv8RÁ¨­ÒuÉ5`Y5ğÍéPûsd“<æ=Î'7y7y½àÜŸ*°‰ªY?·G3?6æ¿hÀs‡J [rw™.„Ú|ëukÒJè5#k¨ä²BÒTb=›ÏpÃõ~¼:wFÖtc¾\ÉpÜĞââ/9ªÃ=ºF}ªÏ°ÀüÄ«ÅI}?·³çâ™…K‰-İM+@†®¹x0‡(>‚‡zdÚ†Ì.Û%-7¶½0ºfì¡:_Åõ‡n<—¬%Y5ÛèL½2FMtß[LA…ô»ñ$ŒÉÈÌ£XÏM?–·&âä{›Q1±0w<(ZÄPØ å#C(àsı?ø1‚~ïÍ&¥âÊ*4>ßH&…AOÏÖ~mù°y§°š„æÇÉéGîº1C ŒÊ9J¼İóßG«†:Ş–÷Yí$BÿE-K *jĞ®¤%ú¥üÊ­0zUø­1Õİ}>$¨Î––,Î¢~ßò%Á›3¹“f†Şg¹xU$ËeÇgëÇ=š)-ı+x*9¿†c6¢r÷‘n"Ëg?	Ş™M]±äÙŒ´´®ÉT€¿İ?ùŠ)è\õ‰‚²k Oâ'&@Ôë€§Fß#A3ñƒõñÛìÕ««u+ı_ƒşŠË°í‘ƒ;y›«}‘j¢B Ñ‚ê‰×Ü)ôÁï‘^¿õÁSIáEX#-]$–¶k7
+DòS–®ĞrJ ZS›Ñ½¶{B…õO‰<dlİµWÉW5ÊL¦ò®–y{9h!wÊS¯A¿üWgÙqS•çyğaçCb;fªI¡´îÚ–u[lª·„ºŸÆáÖôå]Ÿ¦a˜ëcøŒbıéwn™º€ÎôäBMë2Í,3cW{ÌYHlıy2^ñnïÔ¥/]9ïj{cFˆh4öİ|°\4íB˜Èóµ½ïĞMŞ­ì÷ Hã¬èÈÌ›†QEz+ÿ‹àka9ª¾—«îîØT<H¢Ùès¥Š-)%"Ğz¥Â/ÇÊÇq‡H>”ó@¾=ÌGzI·ŒVØfu†–)YÅ\«›Q<zÖXY¬¶AÂ:6^ œ¾p(M£§áïˆOg°¦|~ë»ÛÁU«5âççJ{Ô‘ÖH"Ë’-¼>gû¤äÔÉ»Ü'+wß(éæ~¼ï‰zUô}¦,¯\î1ß¢ÈUÜ†¨ægö±`‘®=eÁ’€àá=Lx6òe¾§cË×–h?SUêœÌ]‚Ú»¥‰z¹~Ì€}@w1…µZ†í‹7ÂWÃš»ÄaİÑ¹İ:ğ“Ï«ZÖKhˆ^fùËº‹i)s$X²MâŠ;0QÌ«ÅÌèQI»¶İäŠæÔ³;Tˆ)¹û4	c¤]oµ¼-¿e3ö¼íHÅ.ı®Nô6íæ.cdnÜíoR¡Í»üÙóùüìë,®÷]ø€z¥èŒXB&T›°¥…Qûùk¯súµ’?!tów -MMlgZÙ‰Ã¡§L©á¢äZªÃ ©Q‰ ƒ«ınÊ¥tjÈ¢Bk"‡‰xËnBN+ZøÄ‡;bÍeNÔüäÉ¬°A¸Ûq^=&qJfu}Õ£ÌZ~$€1LëµÔÀôëêE;áFÜ˜
+rEól}m‡jÒÿÁ¼¨ZW…7ÈŒkléÀÌÃÀ‰¸<êTzÉÀ£ÉEhq¯NéÒÀj+-â8#ÅævI‡Ìzº-ªÎ¬s8—·Ş(ÉmÌ¤Dñ®N1™t =ûXhœ[:Ë ü:£é26¯órÿƒ!Ÿ®ËLHûû€Ó#rM÷š¨]ğkÅ=
+#½ßƒk`^!/D°”YàLuR®Æ‚r€„–³æî^Mo˜V5È ÜƒH0$¦”MmwÉæ‰âoÎ¯×Ü-à!¡mïáL*²-¨Ã°‡§ ¸Lâaš(Ê8èÅ	½Á«hÌç«+‹³q+•©¿Ô8«åw©ÚÉŒ %ÚŞÆ^PÎ¨N›+„ÔX=‘éaâQFÂö£ÛÍƒ#ñ“Â,B:Úšl3%vëjÑv¤W¯pÃ¦¤4Ø9}Å#Ì/„3-p+Ä‹ŸHÚë6m|çjûy4‡Şá«YWwëÛÄON›´ÌKU£D<äï6bøyÍ”×>†-"³÷Ô€ú¨Ÿö˜±ş‹ÈòJÛ‘â÷d5Hö‚ƒ¦Ë p¬dcèŞG¢\ä®"1ãXÜ¹²[àäÿ=Ç·¿öÌê©Så¨ä²'úÜgD¶øØ‹ÅTîªVéT+½'ñô³^44İÛG+É·^ËzVX®rsáŞ3§Úƒ~ƒåç.uPòe˜ÔëDQŒ…ÜoQùS´¢í6P¾îí9N×ÖGD\\·â*ëNæ3¥”Ÿ¹Â¿qoúp‰¿Û,ÔWÜ„7•é¯îküYZî;A¢Ûv—pat[HJ§)ö©yöûDÂ¨è7­VıîòÑ½è¶X­~7×ªLÂhİq9/e:5m$39›“1®¹AGEºÇ7‘	´Xÿß‘Yø—[ëZÑP¿Æ ×NĞrŞ¸ÌaäÅƒo'¬@€Nn%ó rşïBkÖ¬7ÛŸ7—v.ôeËÍŠyÇ{‚êõµD“õôMª‘¼¼{Í`íu„6ò3ÙlrşÎVzÂImlE]“R,vı>t+fËß"5 G€!6B†H´FYDŠ±@.¢¦-¼–ôB2TÎx¹$<Ó
+ğxÙ…xæ|ƒŞú¥¬ˆ5Ru9¿{~|4¯ ÁÈ¼W_š
+óÖ9+¼è7>Àà{ËàÃšç:¾’Ëœí‚4Œw¡D„w…Dµ]káÓCçu|…´¹Fq¿o§t·sæ¼¢!H¿©·‹~µù#ˆïnrònUäa&‰º6éÌY’Jx×ŠÄ]«b9CËpÇ3tÊ€ïFh¼6Á¿}‹§òÉ.w¡.—×™ÑL`d’¢õ°>V+åh‡?w¬èZz”Ï£ªAwâñş÷]a©gòÖ(ÿ|Šµlôç“-¿2Èœm©VÁb€Üƒ¶mÎ{o¹ı|÷4Ò=ë•ÉFùnWeòa°i" @çÍ¸‰Ì©HÛ@jX˜;Üü<ª½]R#YÛ—S‘7gt`T¯å$ñ*@©ÉúĞÎ®Ñ±äJÛ ’A	´—ƒ ˆ+uŒiòc¢ìQ˜üYT¸ĞÑº`(ê Ğø¶²Ø©¿Ó:FtÅ¶©Ë ô†KÏ##˜O‡yêI6ê¦\X¢ËDOâ§P1îŠó´K¨U}á+JíÅÇ"Èòf\êÔÎQ2+X¨ú35‘ı2µı€âAönmûyß¡$wıHw08ù‚cKKûçc`ü_*¾İY÷ª’L†k†ÇRŒP÷¼ûèşœÜ™\Q÷á–òÄ:N
+Sk×jÂcäñkµh1g’¡f%;Æp‘9‹ûtˆCö+‹’Q+SøõÎW(ŠíBÙS¯[6V“mwrÖBûùQ*É¿{[ıNhÉŒôk…(+R'»o&‘‚Ë˜v1£™ı™º­Ğ%\ú‰‚î[[lÒuû0Øe;Ro¸Ù‡õH´s'¤ÆŸâ|ùÔ¾eâÿ·İ
+d¼‚ö–¥TŸÛÂp¿vLL<Ô0œèÇ¿Š<÷”u%º·àA›ĞØ.ïhŒ{İ{Ìq£?ÿ1™=(«ôÅ%o€äSpLEÇÃ{¨d^ß›=²…€Ü‹ ìG ¡!È´\øšD%ııBK¾–”W0±<‘6SK·/$Hã¦}O‹“l;0Ï2*#¨P„(ğ…€B^ã¸Ã>‘DÕfdù}v-ù÷âKl)+úïw…pæ&í…!ëŞ5GÇïöhàáà6—¥÷Ü	7=ˆ.De—W¤Ğ‡>N„Î{ö@T÷C‹<lÄâú›AéIú¨ûI½Æ¶_k9H}nğÅÏÿ}ª„çI­Ş”Î¯D®^S•ªÙzÃ¥ƒ³Ç˜˜õkæ+ lÚêPúaÂ§_p™uo-Óš\³út}0½æ›:AgMÚ÷=…ô6zá¹ÖK¤:$Ş$øx.‘;<œF,y8&ƒÕ³ßùÙ³P´¬>4],IYî—<oR)êó¤—•XMtp;?lG@"™:Iğ±q»àïÈ8*¼Ã÷‰–/4…\	P•÷+HZhùxƒ%ç€-!×ÌŒFé2ÑAg°l#~Wj:€åVWï‘¶ƒĞ]©Ô*V˜„´65„öƒà*¿¶Ú›I !f[¿&ÍM”õr-Ù\Knóï±WÆ¯î÷Íøü†¨ÃÁô´#GHÕr]…‡© ÖC&Å¤àÏ4ğ¤N‚ßB5Í$Ø0Xâ?;ZëÄôM.
+u¤Âæ§õçîÙİİcy¶j6M½/>ğ½í¿©ø¨ (ivÿ—yµy1ü‘.nĞ¸ñiÈÇãŞ0rq®2hkç©ÖÁ[pìÅâÆÑoÏÇØtëà6»iˆ] »İÂß?…/š¼nŠ‘"Àô¶…ÉºLè|Ç†¨­ÌI-Ye^GîNˆ½e‰¢Í/çÔ¼Ü µşÁ(Âíâ•¶ˆYÎ`ŞjËØoÚAë|ÙÄÜ³ÿã:?‹¡˜O7Lm½Ø² iJÆl&£”á`zUV‡!RMR!‚T ïvë@òå
+8"‰Ú<÷¯È%¾ã¦ã¨­Ô¢¢1mLçS8Vh©
+ğ
+/¥m¥ÁÚc>P^¤wˆ£mäŒ¨pP^àÇHÎ½Ş¤4![ôà•Fã¹!Äë;Î°fB¸SïãÁWˆêúÅ¡ƒ9Q­ûêIşÃ“tUñ^LÍu>ÃÁ—5S-úuXÑî·¥A¾¢Kñ“ØYìÏÌÙ"¹çà'çİŸ-?<ú'htR<&(Õ:Y·Ş[œ®›Ä*´ÕòÉÖÜähÛ"RÎ'%òºèØnz ­ß!ûØS¿Ëğ8ZØ¯Sn9…Q•Jx6:±(‹z ¤@ÈÀHy(RL@ÿ¸¯1øÁø@ó×BïúÇúÄ†ÒîG¼"£rVuw3‰ÑÂ	€–Bœ÷Áw6Ó~Ö±Q‡(dĞA½P¯Çœ8E)N¹ i‚”¨¸iá6¸É½Nd<ò‹äğË¶TĞ©¼tQUqåIYŠÔ·”¿Ñ³09S¤Åì9ÉóÃ¹çœã>ÃôR¤€Á1xCåˆD·bò¯V"hæO,ñt¤Âeoê¬o {³Ç<ıRâ=‡KüiX8saíOR™f;å~(öâ/KßJõº9ÏÓZ
+Ø
+Ãéîó)û!¢
+{yG)ı^Óiõj¦‘\
+xiİ u+‚¿®cÛ55L¢§/E¤Õ4D
+öBiõÆÁ5.:}A5#JÖbÛ’±^t{Ó#¢ààÖp F·×¥‡'äÛß¯ÒHySŞœı‚,hÂ:Mö•ñØIPÂ/«Ùd>ÊkéNÁK[Š<µFö\Œëw‹|dår×"]‘C'×L„8Ì°39ˆŠÑÌÀ˜‚;-#(¡Œ‘6.HöÅ³ü$ÑÎ:É;±‚jw«}Ö·c­ş!Kn%—×©çRu]4L0Åœo–³¥SÛÔıß¶½Wg•õ ~”påAâüš}°Şz¨‹Šóm;ößåwô5ÒOj)ª@„‚Í¢„H ’yóiü'wõ«m¤ÑEâú@škå).Úr€Şpo±½­J4ñ"©ŸªOï.‚óÚÚ´Q…óY×J¢û¢=¹	*; ì‚LûqÂ›Ià"g.Ş©õ2V·_EÈ7ópÇÅ´"Hr›øèJ{†X›‹Ÿ¡Æ*¥9ÁI€¸ŞnÆŒÓµ‚J±È?½l–œwmóñ(·øSL÷´²¤²ğhR^œåQ—¤?*Ã p–´j á‘œöñ¢£”Ñ-fà1áÕı7T‡¾rµ'áoöe—µb¯ˆD´€Z>Dî]–è±!ÔY«©ı4v!»	v’°›S£0&lØ©˜z)—º›Ğô¶‚ó[7ˆBãæ
+&ô…Ğ¢B´Ôã³7
+'İ­tBÀ:9me\•Wë».R"Ô‹Gû@å˜HüGLƒàÀt|$+‘¥vÅOWõ¦©:\ç¼$‰¦°²qšíÈ¬­lE?(af¢A³†³™=lC m1ÏN\ <¼ÉÄÏZìZŞ¿"¸óø¥zõxéû qÿ_ş|A½ïÚè@%%>­>ïñæÂÏS`B_;vqúk>¶ÉC@ÿ‘Š¯üQ°Ã¹zÂšœià’ZuîÙ¾š7ØÔqrn¾ş;å,4eTm«æ¼GSçÍú^¿b!ì"´>|·ï"š­Ÿ[TÍ%î“‡I‘Íi“¶k·Ş9|6á3òˆÍªÌä³œ¯YS2‡¥î‡Hæ«™)Ã¼¤ä¤€!ÿä VĞaHdM×c5TL³Šhå~R"€PP°Pš(<Uşq•J„¢ÜQ8(&Ø`SPz}¸fË:µğ”§÷E.èM¬ÁXì$9_®îV³­,5#¹Î¸ÆpDuI¯ş^F+':åqY¡Šî Gæ§"‡¬_w.Vµa[xùGØ ÏM·ØŞÅ¤*{Å7şŠœçi&MH~ú.›ÍêÄVògÊh–d×Ö:©ğ0*Ş8™¥Óº™PÅN(´¦‰÷ˆ@rôÙ¦¥=ñÇVyj„4šë$«ù["bŸ
+õ·Ààèå½Jq&—Ø#ìód ÍSïŠ$Ë±m„[$¦Å9`´ÂÓë›L†[³n÷A{S¾_n¦ÿÔ ğ"„­ùtÓ€+€÷Cİùb;Â-¿WX$hù©"	[á§Z‰-Û¥í¤Í·ØcŸse®húu›6ol0CB˜Š6áj++êSër[³o‚Ï­w¢¯q’øéŠ#kK·‚£¾ÜÛŠÃÑZÚØŸ¶(Q°Îò‘öĞtŞø><‚mW14|²–N¨üò*1¾*¯f†>.>%DVqk9¤uî¾ñ1Ö6©ƒµ¼ÁhéÉœÚ%Õ‰Y`ÆºBmï]³…ô3ÒÃõ%²­%;B<½ƒœ»ÌHçğb]ŒiUI­İF€ãÚÉaİLcù¥J3ç!,*ÙiA|Ñ¦#¾d¢G‹ı]òJÑæ@YÍõñK3âWö•ö>3y_-ˆ%xxß':˜^V°‹¢Ët]ñuf6ÕVÇßãâb¿Ò÷6Ãep4òÄVÄ¼JŠÉy ˜€+ğ‹PƒñÉ½\nés|™­OHÊÆE¾h»ò›R³t nÔ·£ÿœ<â¨×œcª‚ƒõ¦ÑûYq@švyšşMbkcñÌ_ôÁ @áÈ{ä ¿(èakÜ£ö5 ½Nhß	ÆÓŞâ«ÑPİ&”T&!ê«T†È©|‡$®åÿ yTò[dhtx.‚+°Fœ‡[†GÌ~¡ã’…Šƒ,ä7ÒõÏàĞ“f(—‘É?˜§‡–´î­,3X®%¢¿Mª§E B²´Ô*±À7ËOüè6àuGEçãõw2B İáQ¦KèóÂ-%!ŠùÁlŞq d?¥.â`–EFù£®»¬è´Œ3[AIš:Æ•Ñ™ÇØƒ»Ù ÖÂ×a6!ç†V¿öâÎ´_ë2’64@ŒQË­œ%&©ÁÎM'Ã^İ•Âg†`‘|ó¶Á—$zgûWC³dk=fKÓÃW]	^Göâlu»}ºü1jÄ!˜§Õ
+5˜*š%ö£¯lOzÎ'ı4Ÿİs¸“ƒÚ«vFÚÇˆgá‹eP[{©ÅZùÈê²¥ÛÄBä7ÇİÕƒ"í=˜zKfÂßå;~´í-ÍÙÑa-ú )±"Ã*¥«_ZO_ı™XÿhÁM·=Ã^±!Âûk`´B–ÕÊÔáŠàS”"Š&› (À”a±^¸ã±hˆõ“f~S¼? "«mw.í™×ìcš!”Eõ ÆÃßâ°sñV!-»3.ÁERPÒ®9g{aï­ÇùÇ’Õòî±²‚äápÀ¤.Èì¼”Zß¶B4Şşw¸ğ€Ày!ÙŸº©á81ğ¨\˜Ê1-p0[ÍËš '»_o³P…´¶Ü	­*õcÎ&–çÒ¸c_‘fh` t+ÅÚu6Àå.ùNÉlX±bá™O3PTX·¿I¶ŒYk`*=bÄËf}{lA©	gSr$áV—&¾8jØÓ]J®VM8×ºù­9ÿ(´ b**FoÚ>­´UªnŠ)§‰Ñ‹
+•>æïôŠŞ±£m»e+#şª:¹¶Ô%óÇ™ô:7(HZ¾2B·Y­LAÏÁG—ôpØ×/‘ç!jgäBÄ\4§ÕÓ”È‰oûîó|nÕ¶fH‘ Úî¬:(8é×.õ½wÚ—Û\Pÿ3XX%Zãa;h‘†ù•~À÷SfŸÇ|r!Œ–Ó-IõÒ¥g¬íŠ0öæï¿;_|ÇÏMØ¼¡®şaİY|J%,a§[v5”:Kí©V}»W%¥À7x}bÜ@“y¼Nüûvş4çV³b”äTâ¦“ØZxÅzPÑg~Ô§ç˜aÓ`–"îšš,2üOÁ!=çÎ*ßú¢U5ÿ”qeŠ‡­¬Tc»“†FšÿúVË¥kø°BIª7Áç'¨v$ÓÎ,cdÆ¯›ÇFî43×oi4$¢5BóQö÷J]´·gr+Ó“ºî¸^éúÏ#C§Ë_ÆÌ7õÙ 1Î°Á>…Éê¨&"XrúDÍ7>ùh“ÚÅÚ–tSP·ÓXõıä£ó3‘¾;jÂr>J»7¢ –…/ßÇf¦0ÜÚÌµ®ÿL‘Tlğèõ‹İĞÜ¬ŒÆHê&§|¹‘÷½\´JÌxzñ!±Üöƒ&†2’É[	\<­s%3Í¢x)t-±Ç.å5€$T Å#2?™C”ùƒ
+çñb"¸,ğ°Wõìi8^ØÔÒH¸}hâ$©R(#5¦zêM2DÚ`>m°‹É[¦ßL'(æÏL±ˆ4w3Ø#\‡Ør(ü@ò‡ñº~“	òË¥½Ÿ§âÎªœÖ­÷¾Y¢Êx
+£kápuóî¼<„Ò2ıb…
+²‰Úì#êáÚ©TLÒ`Ò £Á_Óq–Èğfyät³!ü¤ëä‡º?İª"òß /	ÔcãuÖñm¸öºáÍ#:?J1§4¼$D¢†÷@únó¾JŞF¹ü$Ç¼ ¸¿ölx¡ş ¯1_†cùa¿×N+G–Ñ¨±t·($mNõOÌr¬NJÍÅ.cğ»„±‹ë€z¡³µ†kÂò•Øš$w;Ç|)éa4v¬ğÌi-êøD’ÍõˆÂ`3YT9z*ÍÙÈQœzÏò£òıß
+r?¢6SĞ«ün(œivæèéËG*Í§ƒˆ)x¬ E¨…!•ƒ‘Ï°«—à§9ô:ÏRÚ¾57ã~ÀJ± ]ÿçÙ°€5yN =àûøñæ3¢¢f°ÊëGÃsÆ h˜äíµ‰«.ËñWJÈ2‹§.*néeIšŒëİwèà”
+n:öÉxÎù"‹2ÅÂš{X=±Á—¹ñ©3ÒE±oìØ ÒÀ¥¡áz¨lúót->Èƒíaê»Ö÷Ï4`Q¹D9ÇÖqh]¬\cÜçj´O‰ºş×&ÿJ³ı<q‚î.0-ö1uÖíuÓ‡7.Ô·´ş£ÍÔ„Âé…Ï}fvÚÂÎ)Ğõ’Î õ†Fj„›}Ô»ÇıTú0AÕš(³V÷;ƒÜ›ìØëÙñÑ"š †„"g`¤p
+°T¶Ï²“õ¸%€<jfõK\@ T•ÓÒ^Ç“Œ!¯“¢–´Öq‚D tjWUÅWga®N¸±FãÛİÎ‘E¹«}Ï+ä˜L.
+u­±ºß‚û£â  GK‰ğ7÷ıÂ‘Ó—¿½.¤âWx3CUˆ÷Å×Ãe³H%[$×Hšf*¤é³Šk£A.…|ÿ'IÈT«ê¹G|+3aC.ØQsdGqm´öPÎf¸±K¦‘c£Ô÷U,u7ÅO7€¢b•êG5ğ*á$|«bÿF#zĞèÁ(úó‘zš%ˆêƒËãŠZMZ€*‹00CZèp®Œ—„]kcåÜYá^VùÀ]Ù‘iÛ%{7|£©¶`äÛ‰U¨%Ü\V4C¢eÄ·ÚF$•úë¢/í©dœ¥ÙÃ)@*
+¼Nú˜}Å¹Ò># éæ;¹øv$u6¨/QÏœl±í_ëC4ˆ'>Ñ×ÀŠË€Mrş¹æşc5A51%ºª?>Q±3¾²N©èS_ Š, í §òO.[Óâj¼¶ğ€Ü°U<W‚7"î‰Ümàò5“8NÅÎ”ÉBê:æ)r¥ÒË×á›zÙNy‘ÑËæ?y;»¤2Ì*³õ 0{bNˆÌ””^Ùçœ+V$ï‡(_Íå¸¡56à#vGÑ¨˜]í“…JhhºxOÕ˜V½P¡æ!5éç’˜á\‡<¿ÑÚÛğ°™A¦3‘ÔS'ñØ pğ;	´Ñ²‚ıöò£eRC©’ÁŞ= ªöĞjDVœ ÛŒ¯Ù,µ/Ğ–iüã;WR*ëN–Á¯'²y@¾ßö%w§&bv¹,ÿë½#î~úäÊæûøfz±?‡?w{ÑØ•Å fÉHd÷¹xËCÖM¢Ä ußK- êš¼µg’Lßu<šñ˜J ÑNöqS AI, |˜êğ‰=jÊ)À{	LÜZS™$ŠÕUçóŠQB¢’¦|¾àˆÅ¼ô€z@×%@¥b£ƒZ)øa0Ó)¼àÏQOö9÷ŒW<Ã°EŸeTr222D£‘ß†"`¢ÑÃÈHúz[!èÎîgšjgæëY­Œl/k†¦<·Ú$IB]Ïdˆ¡ôXFSM•ò5"ég'¸ß;ï•qd»šÉë÷úÚöòæPÍ½ƒÒîÁQ8eÍYEò.'ôú¨B¸Ô¦b*7øåKö…‰ì¿pyµÁ[È6®¤è4×¦ƒn¡å$ Ä&œ*ï‚*P›-	ôá!‹å—Æ¾H#Ñ+dhTwhGR]¼~J„“˜+¬‹Æw¤­ì2zZ©»>]¼ğ¬H©[c-@‘¬§œO.Â`ÅºBgFL7¾÷-=NXæªØäö4ø‡Ñî°7Áù!l•Rc•³> =Í¿xyFx½†ed/mvL!¶AÀ1<~ôÎuÕ&Ê?½*Ñ}!®Ì¨å0 ]b}ç¡¡]À‘¨¦©[¡Û6Š¿&BÚÆ—¼UÑ´6¬.­ÁOë|Cm¢{¢ÂÍ¶ä` äøeŠf @Sc¡!\rŸ(kÔÔÍ=¥cspp3Øİ¯Ù|Ğ:rƒ)‹ŒNç.Î™Š¸á–ĞtÁG¡€Şæ8s°š}fº<Í¤I.lSÚQD¦Ğ+m=Bó&W¡™úê‰MG" 9üÍˆ®Ş§Y½Z.J
+2Ü°aä­÷ê1µuÇ´9HŸ±@²”¤ùš7ì–™ÀÆ¯= '9}lí„¬
+fÄ+	!+k
+HkÇ,qş™Á¤IŒÕø-“±n„øyo¿`ÚkRuå­ø§–yX‡íYËÔídÚ#ÚgSÖ±®ûéÉ¥0‹÷DZ2y€JŒ;a $Aì€Â¸G<MÆƒŞKG®äÂ'VN’ıô3â· üêxï4+•í}_ÎHGè×'¤kT­¶0äšr¿8@L+î{Erì:1ûÈ¬£®"rõÎ÷Å/iêJ»;	&âû°Á¨íZ}¶DrJGNsäj“‚øÆCÚD’ˆÉ—ŒX†²×L/ZS³«æ}È2Ş%¹¶&Ï¦Ü.„ãÖ<‹óÂÚÙ%!à!ğø+·Îº½Q	åk´0ä“Z¶x´uìp)âxAşsßZìºd"¸yùŞ'Şp‰oQÄdwãnoi&J1 UkDxl=Öµà#8SUİŠÊ$¨áµÊû2eÃTáò‹ƒdÜ+EùínçäìiÛ´`6õ(œë»¨0P¯c¾EÏ4@¬)àÇÌ¦P§GÆÙj¶ØªÜëêÓnÍF¥ú—7F€ÛNá.'#`¥ğbîú™‹SÌ+A³ÙÕµ=ı¦á|oÀÅÿ*-xöQõÅ{²ŞÅ·†5aÇE"ğé³¬%l¿}#³Û ÊTìš›œæÒc¦âw½P¡„¹Ú‡ØNªl²wñ¬ò’p¥ìäã„ŸM5 7=vBo İ¢×J¿ˆÊmD»ÕEÇXBuïSõg*!š“Õpi$®ÿ¾å3qıòÅÅñJ	™óˆƒXdkÔìZÁ•?/Â¶÷0ÏÉG40Ñ«¦B öãË¢RÆ:DŞ¯#‘H×£^‘’]ècÀËµ{P¥»û;±3îÍ-æŒ VÆ]ı‹Eyêã~’¿ä¹Üà:£|ˆüq4*Ğ[UX‹£RñSöökORWÉŒbócRü#?‚@Q¬›ôˆ¿e?öËwìáøŞ\XjàŞİéE>Œp‰î°\æá×uÈj‡Ür¤@*Õ¾
+¡‰Åõµz¯¿GK6*œ[ñ™!ä5l9c‰ÔÊ×S©¤’ÑÌ~€„‘Yb¶¤•„£9o\ËœpIRèDä‚lİV<±Çå³Éä3Ş£$ÂS»¼œAE‡mİ¸¾*=%¹êéâ(yƒ–3d‹Òş­±õ½
+ĞvbJ´â.ñÇªû;Ì”6ÍàrPBR"T0
+Ñ.ŠpœaÁ¨Ş²Ë®!–DLŸŠào{Ò>=diã7Ñ!/p4„o¢L¤{®Üôzg«ÖõF¦+¹msŞ«äúcJCô@&ŒÙ’4ÄšK3+¸`alXéD2VDíjM yGæLNÃVM::§¼Ju‰Ú·5J6=‚öu}éÛCq·}!wÒÈ’œë³T„ø^ó [Æ»LÙÜÁìG?ÍÛ÷‹ê†ü‹3ÖXÌ¼â`‘“Ylª­àõœ«x…Ú$YÄ_Ts<"ôbğØÊbM¦N²«ì9àE›veZãÎ´Öm¢2‡GUÌ‹êuU¢å´Hµ4İGUÍ?0ä¥ä½¥û¨=AC³YH4§¼"â(TI;(ò’Û:©¼<1=òLVTŠER,<`Ú¶!ÅâÿÚ²Æ\(Á-7ñæ›’È w _8ıíySp¸óaXe'ˆ¬{á,#,~&Ç?±…EÂÄ4l4‹ t0A“„AKü¶Eµâ¯{ ê%5œ¯ê?Lõ>d7=a?w˜µÛùêPğ˜ •ªNiØÇdÃ•eC	FA)ÿSt²oÑ}u#NkeÜùÅ²_fáäšcDÉwÊ¥4q»Z1âs¾á¯6E¡oÒ½µÓôåÃ-Õgï¹²×Åqô &ÎMwşøœAèú˜Î‹ªcqocò¥™b«¼<wˆ*]“šóA×ÎÅõA¬è½31YĞ¿¶×!›9Ë?iUåÌ”ÚüqVtôc×:õÄ|L0ea’ËBk×­oJ€ôõ9ÍznÄ–¦u$É-èÙü4~…%÷Ì:ƒ¶M%Øa`’‚ß?ˆ¤Ô{3×í±‚+2¢CÉ=Rç¡Ô¹Ãt$iö¿êLÇ^õŞó%KØçRyÚ÷2`mûˆsÃù“¡Æwú"]µ?Œf!_)ÿr‚€T´0Ä&ÉGóôñus…I-Ø~ã;‰aïA§&°²ğ	zOg“*}g_rDhÏˆ6äO
+ı¢gèéEï1spûoS²C Ïh~Õê†Á'ix÷ëF°òÌÓ×Û¨ï_{‰ã ğIl`µ+"Ÿ­°Š¨*˜O€ÿäl¾&nÓ…,C˜r²•ÚÔ.€WY+§>x­Ëvç¿´âÜ‹6¢=JŸ@›DòËv§:»ÌÅ&‚GiWÆèlÄ<pÕÚzËóšb«¯J=à•›Ó(Ö°uÛ£Xf¾!ÔÄ®jÉù²8«Ô ĞRcèÈG*‘ëÄ> ÚiÙÅÆ:•Èº.¦{!TE¥8Ş^®£+~øtê©‚Á–¡ “ø+î
+ÆÏJÃ²Å+ÃË
+o6N’Ñ.Y ¡™4×Mó£¸+˜H¼N”³[äÃFìzh±©
+ëãÎŒ4:é—“F-O ¥qd}”¤ûí£—Ã4Ñk™ªµÆF–`AŠA@¶>—ô“tƒÚû‘£S¶FÂÈ.î[å
+sD3(pœZÙæŸ„Ç†p	sr5nÇ9ÉUg«v&‚M>d‘ä[meZ)ÜiQ½v(Ï‹ Céê/—ËQì@“ø3€ÀS ®kÉ›^Ä™«×õ.·c"©›>'ò,äImi…å"‚ö²qZÙ¢·?ÔõùÕrôh (ã‘Âq­ÿIrH¸3ƒb%q§â¹Yvcú»G sÊ§­0sMp†~ÄY¥¶‚Ò„x§H¾ä <öÄÑ[‘áIÒÄW%ˆ/YéóâŸî­·ÔêZ+j´&(LB—^S;$6h)[yèğK½(G6B/J¢šˆzâ…Ëßƒn™¨â~¼øÁ”+B„rÁy5ŒŠùTBv	O\^|ú˜ :{ÃÖ².Q/2şª)ã“çù êB¡Ò¹ßŸŞ9Ç&÷ñzïEj4êÛ7¸¨ğœ_î6ü™<ê$Å&>bÂ
+§'/¨%ã[ãMg·PZ’b<dºŒ4I@fG`à‹—bñö}úşŸPÜ
+’èÑ¦f¯zĞìs©8ÉŠqnÊ
+Äè<øSÂ•8ç1Šü'(S"šÙik6ƒôM-§74¶&bÙÒÇÄë~%}©YĞiÑã¥úN7ÄAÃªûï~ì–™Šı,T…a	mê/V¼æj^€RŠÕ‚r§»¥¡æ8õTx2lÃ‘/òS•)øˆch[-èö¡kÒpâşüª"égìãgêğ!t?P`¡bõ¦ †^ıénZ©›Û8¦Øéà_è5ıµø¾¢P>@²™Ğ­#9Óæ?Àém÷Õ¯ê C+1¯&ä_Ïl!ølMKËjc[ÁPKK¯ûïyÁ3×Æãm°õ*Hü–êùßLJcZ_UGT÷¬^…´ônE”›Wx?é¿³ªÒtEå£v–Ë^Á¡;XFòÎı Aêhø[ólWø6ÉâÿÚq¡À€Ë{F*R@Ôÿ_Ì´„H8Ú¾€ç´ğş\Û'-,Ë·\›·~´ìbh>;&“×-äZ»Ş(¼E].bÚ:sÚ-Éû3‹íFá–A&NTË<Ÿz«Ü˜¯¬(=IËFbC6Šj¡»%¢…YŸ*Ş¬«]ƒ9ÇÍ%VóÌF‚´JM‚ÿ€¢ê¨"qá*íÛãgñãQx,ªâaº~éX«UÜa+dôuJ]ŸÀë&©±×8ıí™'rKÒR9'ìSY’Â~/‘ 4‘Ôw(¼™_gÕ6kÖ¼6Š>”q‹³7g“
+àlòæxp%|R¾ÈÛÚò6N%#¥€¸HJæŞ»µpVåa±¦2…_9l©HéœÁ=ôßSûç!ˆîÈp^ÿ«@æIÄOu[L×†Ø3¾0¶#‰"û
+œå/™ıèr9A0·ÍÕ71Ã(Ì•ü_‚ê"e›¡ô¯X—ZA²{k²Í¼dÎ²Ñ¨9VsĞI[çy&wÜ“± È…zÑı…"î—ä÷šwZÓµ1ÔËe”<I]ç…Å‹¤Æˆ¢õ–hH‹ú^–òÿl¶2°d"©6K¨TÈ§Ãİf–œm®pØø“‚ÅŸl˜=Ä®¨…¬ù°8Prùx|"®;A>)”&	8¤ïpÓ9Ï”xqîĞq5æ‡¾óf¨Ó0,B¨½rÍ•uB¢Òi¦X·}vúo!(_ê‡Ú ”nh•#\*Í’ÅÄºĞé Q>Fï¶ bmO8KÁaÃ‚Wf«@ºP˜C„NŠ[ÆÓ¹jÖìXt¦:#oºŠW%gy:nôS/4ÏªµKQb@ÿÇ1½»a"üÔ‘;¶Ñ¼DI‹kôª–ªô½Œ‡+•Íª†—±§¨+5¤Ìl¾æ·4<‘“Í€>:UäI¬ÑŠªvä­ r8’jòú<àEB™¸ÑÑ¤¶”Õé[Ô¤”KÚÇ>D†Wø(M–‘ ››5aŒ‡%°#¹6P?WÈ•Ò§õTaÔò­œ;¼¯.4÷áÙÎ¡yÖt¨S%íapº1Á_R—ş¤ÿì b|P,U6=U!†µ6a0uâ¦]¿µ{~4.U»Èh=AËW¨Qùüdz¡ìïÃ3u>Ùû]”2ğ	¤å†ıû/²^ƒÏŞiÑ;AôùyÇ³Ø2WäQw,}MÑF±·¨¿Çêh¸¸`m0êÒJØ†V›ãœá	ÉD•B7ˆ4K'(+‰÷Úk#&Õ°“ß›ÚÈz‚JÄ ­a˜öû:ã&¸›‰6¼Ÿœ æìíaYş×‚Õ´†Gx-˜D-IMà†š33À[äRj?5hÎãşñ¤p€ ÍˆúÓğÀ+·7pÚ,Ö\Wü:,†)lİ»j¡¡«dN³×fH$3yKOÏÜÄóJ¥••NéË×ª×'.W/ÓÄ;Œ½h€×§»[3¸›Sñ½·+è%jÀ ºÃ‡§¤V0Û÷q:j…jXØÎ¨fãµµÊ ­‘Üm»«áŠOLFY˜tİácÉ‚d£âØåfróœ^]qB‘ø† {›³L|[Ê§Ú$®%ƒú¦w“;äìwhsñ)Ii®fƒûG<§@¥hÅ8s®¨¦öŠZ”ß‚ŒÓ œğƒŒú#ÚPoë ö áĞa»=-€€1RF™Ş4şºÍèÄj\şT£Œ#üWÇ0ÇZ_
+©Õå¶¸’9­h’äzŞ•lãÖné˜n\´Á‰€Sq¾ÈßÌTrä¿|Ùr’¾ IÿğrD>oKGZæĞCAC´„ó-Û@v¼6ä¤…B†Óı(‹M²Ä“àô‰r^ıD3èu©ş·ÂùÊÂånü±X¼ê0xÒ¶>[É~‹yv
+kø,Ä ÅùXIµ¿3QQé,Ş{¡?OR<ÖŒ7ÚŸÈjÈ¼Ér»@†ÈáT¤¥`'ÓIi¦p@ÙÖ:à P†¥uZˆ·ÃY×Lİ‡õ“5
+²°ÖotœØ.xjÅú;‘]Õ ĞÊ7ì:ÔólÆ=Pç|Ö:AËv ;—‹µ¸gw–j›Ütrá¸ûÈbi-şâ0¸éçÈ±ÈÌ-å)¡ëÔ>¥C¢Êæ¯ùŒšyİŞî É7=V	°{™{Z„Î†í0†Ş©ailzïÎL“UûôÇğÌ•uM“p%§û
+±8×	I£*6_66gŒ¿…ñM&ËŞWQ¦œâZ"¦„ûó-WÚT®+’Ã{¶ıxwc{{¸.P…Gsà­ 9‚wÚS¢/éB:QòR%êÀ{Z0:—4ÈèKcˆšy‡íƒ>nÿ.`R(Ò<±´d¯©«Ğ‹úÄs}	v—u.ŸŠ>¨'ÒLšJÙp}Ëõñ<ú›Œëy&V¸K:û5Èñò@
+Ln\¢úæn/¯p?šÌš_¶käŒĞÿCİp˜Lƒ)‚¿{@ÍÂ™™]š6K=x¨Dç’ÆÕNĞ‹¹µÆüÔ¿h¹­ßË›©œ˜ 
+ğ$D ÇüÜ&»XŠX™ÿ´"äKîëÒHC'Î>`7x-Ö!Ğ B(íx!#W!"VÛÂSH¤“ûLØ
+â~­¯FÃ™MG¥{šÿ;FŸ| à0’b«&Ñ_ôÉfÚjJ;UM"’ö˜ğ2è–j÷˜–Ô.Hô…O¬²é¦ˆÓíƒFS†_£êC´ª@ğ×[iZ¾Ø•™ê†N¢iç«X¤&Ï8'QŸ*íˆš„a³æ¼Å¦‚Q8µˆŸâ·ÛÄÈdÓ÷¾Ãû9±Ë],½€‰Ü¯ZRKŞ–ÜàÅCN0¯ Æ.uÅŞÊí?OmÛœO±êÌh|,¸=&Ê>ûf.jÕ0ÆxÀç¾¨8d åª¦w¡×%A‘Ğô#ÜÏh~RVİ€Å”\0± Ø‡´K»àÉàÍóSæ†ÜUÁŸ¡0û²X¬0ÇÄãåáÎ7«1éx1FaU¬`îß£pƒ{u
+K»P?0_ñT1¸2$<œïáĞ%ÑÓ9;byœ?s?Ç@E79†'¸‹öàÿÍ¼À­FÃg®Rµ”Á™äéÏür‘%¦¬qpº2­ûVŞGnğ=%h|İÙÄ#¼Y'8A%L>¹ntıÃõ¦ò#ş·€ÒZøŠ±Äáø¢ÿ“`¢óuëŠ<P:¶d¶²u¥É’däB2ç\µ~í±Vq—{àÅˆI!$µ¡JÿFD&|ï_ùŠ&Ç|×z‘=S<ù_Tyæ¶Kcå|/bàó‘¼æ“ÁÌH:½ä!f^¨ˆ¦Îhß?–¸()?Khq»hÒá\j
+&ty>ï	o=À=ÚÙ`ˆ‚ òX…mEıÙšÑÚ¤µ_ú±?<½¯…ÎÁ¥ëCœV×2Œ&rqÚ{Ë¨4Ğèï@bGÌj†b}ƒa¥uX<îËWa•ëËLµÛ´gØ))åÅf4ÿ:}Ÿ7¼Xc áô§¬(8ç¾úŠW¢;™üCx¹ ©C21€¢g‰±0
+x¿*”¿ÛrÈÑMtËSoøÄ‰İr¦¦œäîª
+K<mï’<h#äÍç`0‘¶`6bÉk7-QLÃñ‹T… +nàì'2ŒYÙ<Wh}<Or\H„İR"úÈ•NÛ0{yìÍ·Ç<yÍÑ”Í€~Çs†åÑ¨ÖÈ:Y}Îù1Õ~"L@c@É{y‰\£zÈæG,ß„)° İp¦æ–¡Î¶t°ÌÄ¿ÜFQ«—SœÎƒBÙçIÆ¯D–ä9ğ×“Ex«2g‰æ! ‹©Æ˜= {òoÉÚˆÏĞålãíĞM£ÕƒL^WYÂ+ÜÒ/sA³BØ½½.;»K‡ïË~à8ÿEÂÈk‚?$G<ÏwZ¢¨B»F¦ğ k€*¯ññq¨P€Àõ×oãè­BQÈ†Q\™Ê¶¢´Uõ¸ ‡ ª¿,$«Õ@qaHÕ0tæÜ¥q$›V0ê>¹™¾mÜëˆÁ¯=>np47à8Ä–rTf§]V3ã?œ·ĞğXK°‚AÈ­Öm¦×;Æ!gİÇ›İ¯L÷Ä¡H?i?\(@O‘ƒ¤Ø¬ùÙµ¹¬th£~ı“W~ªÙúhAıƒAô÷xé}ƒSs›]^Î;,ª‡egpÂ.‚¥2÷	î²½€>¿óv€À-°6Èzù'ıHÔ¢¨XÑÆZÀ£ÄµÈ¢},ğZ¬X0ğ­lgAÌnC³Ù]–Š&V Êì¡îñÇ°Ûuï—ñ4?Ğuf'Ê'zğØUw–ÒUÙ·JcZLı`qku|,Ú·ãöì¯ˆP“ÙFÖyªİI_ø‹BÍJiÇÂš•gà³$hKÊ_sdŸÃ g\†Ù$ÿ[©e>È³ÌÀ÷÷Á¹
+ïşWHå7ƒ@{âç)Ajgñäåğ[À\!È³y0Öä×XÄù–\…¯G÷¯]Vƒxlóéî¤pQ:×8ñÂ¿6zªZÁDåCMm€İ7óú)Eé­ö,ÄëçwÒ[qåDÉşpÛÒ¡úùî3×gæWs*zVYÂ>@MqÜÚ,Ëß¶‹R”¯_Íó­ïÇÚö™¡Dq´o}c7µ|ˆ¡ß€¦åeÂ—©8§cjîrºŞ\ç9ËT¹›ê	1#ÏCÜš55tSU(„…îÛª€½R;èÂ²P±º¬*¢Â—ô96ÒÎ“t’¬Ã)Ğ\;ªæ@ú†Æa·‚-‡àr´Vj!¡&‡°÷Úğ±½åÅ¼P7%…Ş£B&‰™7(ôó´ Æ(-¡›Æ´óÓš¬úà­×{Ëæ¡¬…ŞGJàP²ñST:ZMDßgŞ!ğÅİw$Rı"³|¨åñ}ıòÊ9¿¸ŞĞ_YzObùAzÔgâÖx“LQØî!ö³½>™ˆ—ét×]²©4·ì±ôqu×`±£=vaåÜÌÄŠ(LæåŒËó¯áŞå8Å,:£)®‹&”å­DD0‘‡Ÿ|€ı%P¼Ïm8ÌŒCêeO_Ê9ÑÓ.@ZZb;ãÉ—ö¾ÔVËZŒhÙ.Ş)”ÜÏßÏD€šÊÈæzÆ»Á÷=ûòÎäfeÃ€}óÀÿ`6—óò©A·İfÕö¿Œ½ËÏÉ#ÁhBİCÛ²¯7À&êôEõ ˆ‚yÁ¿•ãÓ“3Ã›ZÊ1bÌK„)¾ÂgIJ‡?™õÈÎLªøïå$İÁ:OãÔ™bÕ½Ãñ!,Ók÷ˆSÆOîùÃ˜>1>‰LøljlSóXéîªÈ›\˜>ºuœñİIƒ¹µPıp³˜ïî€flÏ£Ò ¶é¡m‡í›üˆÀğãFÀw¯Ï'C=ƒã‘Øú¦³@ó u¦²}İ™«£[	ÈîÚDŠï–¸¬hóöË÷è)”:³­P+ ÙV`F®Ù‡'o&:vûD%½h(ôë¿ïšq­²‹5$ícß©ò»íÏ“<‡Oı°™›¾	|Q×!ãP‡»óØi 9ÄE¨6ß–â]˜ÄÄú'#. ‘¨ác“vã°Õ¥~Õ%¦‰uÛhº·T.Ÿ«qÉÆaÿˆSwªª‘·A’ã±pßòC1Q±†oÑ¢¬iH›#Òq_^³pò>•ôˆ?N,·ñMMˆ 0ŞÇê&s9¦¤×K&>-Î°v¤°ë%¸è¿ †·@gïÿR¨¢òó¨‚æ%„ò™¥Nñîø¨”;nC6v{Q—Ejù_5)FÁ€²pz¼ş³”ü÷?g†öA~ƒDß¬ùĞãòÉ‘Ÿ(È¶Ş»Ìb¥‘‹?—?VÕIqB±çp[ÅÕI<“ŒYˆ…©¾¨¶T·2^‚nŞpEí8"øœü³#rO›)L?6QB/Î$Ÿ…eM˜êîÃÊù”§ä‹«Ä
+Œ@9c+ã±nçE¡D!Âªæy­Îäu==ËáâêÌÀ·:L' C»Iš¬D‘w¶Cq¹2ƒLö"g*bX¹Á;XÒIÙ$Ğ<¿v]éC¨sæYàg
+±ğS$@ÃnŒ°ÊøSßQGöx xhhäz1â[ğf»P­ĞØk<¡U‰S-¾)Ø`ÃË©µ-=Sc¸=ä³YXÎú¨ª—æÖ×%Ü£µZJÉ+Q¨“Š	I+•¦Šc9êŒ5ßœ17úæDèfœÍhK
+pƒw˜”ˆæcí¶ÑË‡TÒ¶RÃ#q.*@?—Æ úğÙd ñXUŠ´>YfÁñ—ït²±|½#V€
+Rë#•ÿãÑ€éWxòëBŠ—ˆ#ƒ9iõÁÏ%úß²HÖ+“~' §ÎßSGòÇê}[›€:!óñŞí€Z´m#€?=B'nÍß‘´ÇÙw•hŒÔSö_¸ŠQvˆ0‡s%VÆ¨ÅêC%QÔé±åQp×V™
+
+ôü™Vó°6Äò(]‚ªˆµ6rØ3G]>ë0}ƒ•_}E’-æPf•¿ü	Y´©Àï·5Q×IQ†}¯”Éªëg§õDÄèËÁïyöÅ-®4{½•ÿ1½+ËC*ü±Ğ.±‹Ö”I=›U‰}ayÂÇ&‚xóí<ı…ÜªB;>×ŒQÅ†*ñ?1Ä)àt¬/B;—2Û0ïÆo«ík¹à>ó¯3ò»5Ø´‘î2COÿlÆ¶Ôz|:û€Òø•ĞÜ–şšö€”AoÖ¿y/Ã‚¨`f±+¢½7) ´6“170k¢»œ_±Í{|àotÍàxŒ|–8¢j¯=&zÜi@çVïÆ3¬æÜ¼× 8àppm…Â:÷+/Ñ3qNªíÏ”Â¼„ŠÕö¡íØ—ßÔb\€ş_Å«ƒàÀªğ£È¥õ_‘Îœİ°zY åQæÉ³Â¥UÇ
+'‚å¿R­±V—Óûëæ+„v4Ê&>•aZ†yêbI]º”·ŞÎÈµïX¤™éjôkåş¢ı–¬¯|Î8)fl¢Dd2(ˆÓ—ˆëÃÄdªQ±mã·zˆÄùY»¯‚ã¶ß¿és\À†D«ıPYíµS´2&$ùÍX©ôs©.OtìD‘Û®mÙH£¥Ez\<í..5Ê1Ó{Øã½®ûĞ?ı¯¤;uº›œšQ+´O„í[z¸®üµ<›=¸
+VïÉ$Í¶ åPÂo=B\â ƒ9¥à·‡zymğÈÑ\Œ×>'ÑWå`Næ8±8a/Œ—dÆŸ¹öBy¨ğ;ÉÿÂ˜Èbº&ş
+0s®p×tg×ÿÈŞ¼œu±H!àŒ?¹³ü§÷”˜)=I0ôwGàÎ6­ÖÜ¤ y4“ÿğwM•ªÆÍ†‰Õòçş6¢Éè‹Ô€xÕ8û-¢Jõ ñ8¤ˆWÇäâĞ=Ê9Á´®y¥^›lÿßşµvÓ(ó/6,=Kïe«°U*Ç¦â¸LßÒ9Å]æImy˜ AI#ô
+Ì§œ§N^²3´“ê÷ ]ˆ ¥a‚ËRHğÈT*åì ßw¬`tÀP/CÍ8÷4º£ÁJ0ışIÏäxŠİ=[ÁÁÂN(Üí×?Áæ:›º¬ê~Ex(.µw&¯Ÿ8ï[äÜüÌÂTµ§OQŒš'ıF•ºˆµ½Š`p}$K>ñôV†÷ØÉ	Ã©m¹lÛk›ÒÅÅy¾HLå[P¦ö ÔG¡¢èK±V˜mPš?ö%9‘*uaÄU"ka
+c5öè·vşWçÚn}Ü…§¹]éMôosæ™6Ç9› 3fXÃ4‰r¥ã-o‹t¦Â•·YBÊièÕ!7åÓ›:ËÎR¤øÛ§f0´†À2É¨çÌ¦cğ€ëƒá…¸wì'w–Ua#Ùæx+«	À%Îâ®\å_~ˆ¢†kŠdíLºuâ¥‡øÊrHÀu†h)¤ïáÖew§XÄ¢ü¹£û«‚w±‚¥>TˆU„¥ÒqÈjÑø½™=yßkô6ÿ0M×u¿„É'|ovÜëŒp,Ún3Fƒ­E§ RJ/Zœùòh‡øAìòÊ•$ØZ6ÕI¢>M1iĞoëFıÅpı½"d>å;);Áeû²ó4O½úGÜ×9–UÂwa['¯º	M€ÛÉÖC+ØÕ%óµ®¨Ãa'úš*/^Ù‡Ê5…iSt§ÍÖDÑ}£¢JæÄ–˜Ikø„¶æéXä!‚œ¹"+G~c…–Y¬ŠZ€RSë½î‚şÈgÈhòLÈ¥ÂêYÛêñåkfA/jŠ¤ú†Û
+Ão\ÓÚä>~ĞìÏ[\^òŞ9v_ÈÓNês]›åÉ…<Ğ3  ­r|Ï»Eq÷ÓÀb"MV ºÌiD†ùm†p‡`¡İšö ~Ëê|k™ËtXË´RzjÂ# l¤^øÙp0lx€g­ã
+	×¦"Äw<­V‘ªÈ"è'«ßqE†W'¦cQõJ /¢t¦¥Œ‡ëÙ­T¶O}N
+ ÈÑ&Nçµcï©Î8Ç1év>#.,O¼‡¶æeø~ÜmøÊ·o`Íøìõ YƒƒÕ@cÔõ²æ|a<)ü—ÄZSõÃ{¯ÿSÖÔxJÌ:åİúêëî Ë¤ĞÜ 1f©éc§§²Œé1	ŠÑç±vÍ0Ù¼÷iòxÊ_¯éã¹éCï¨AüŒmNÀÕ[ö[ŒDí 1otÚï”Eo\ÉìÍiÉAüû%hğ{¦Ã8.·¶>Æ	§ª<fôÔ8#„Íşo¡)È‹´m)uÊúÆå!|’¬¾Ö	ÖËÎğ
+5Ã^õ0Qè1…¦˜è	û•Œ”ã´	`Gr†ÌX\¯¥'ŞGıSŠxšSÁ»ãO§A¡«Ç¥©`aS09 âÜÁÙt¼º–7î?ˆŒkOÉDì'jOßU=âälRzÒ]MDí»Ù&ë¨…fB¦ æ6£¦{,ÖwğLšà»z0*œxçı“/3-ü6æ;'ŞMç†‡’ú*g½Ş“g%»Çßzdåè™›ÚÿOğçôŠÍ- –Æşİ¢‰:éMá‘Ôúğ5 ˜ÀŠŸsìî¢¡¶äÚUñëÆu#§ÃĞ.”±pâJ-ãhø»BæeİR4÷¶Ÿ$8ÆıJƒ£S,9·/¬&ÂKÜÕêı[å©ŠÔt¼Âw‘æuEèùÉµ¹Ô!øü<@ıu—Õ}»E´së_ ÕLï-ôÉ×sü‹ôÜo”S;2Cö/:ÂVµ,‘TF²‹:±®Û:?½rxì"89YjàÎ&j¢¢¬B´È¾ë.äÇ´BãxÇér<ğVIÖ€ÅEÂX\)[ìÀº=õ¹—$Xúøê´@j©:«ƒˆñyHğø½NG?³¶Ü~E}Kû8 VÑ-U¿åßpn²|á’Ä|×ŸQhsüÀ‘8mvpcç^æ„¢-¾dÿ6&ê:#,6çtâßLz‡2–g×ß3Õ›Hi3óugTç¼Rè„9O:Øu|Òâ7 D7Vgl»ûÎÍ®15£·§­°®1»™×ÙQ¯FK®ìjtD	ª!£S‘0óa¨mÓÊ4İYeØÕËÄ¬Fxpö¡¸P½'óvïHX&-Uq×qyrDìóÛ«©Â"iR.*B\ãÁ íg~ıæ«où‡97]ë[‡8#_ºõõØJ©EfÍ^mºäöŠi#JH³›4Ø`¹,w»!À#‰]Ï(ş3P¿%sJ»?6ªõ7‚1İ»¢£(9z.ÎuiÃ¥ŸÒ5	 vÅ¢‚&LFOòO­ëf4áÿ.rõ™b9rBÇ¯:¼?ò¯æÛ¨g¶¹>ÏúMÅ5›Ú8ÛÛôc×oÑÑË*!fÚPYµhÊóÆ·;ı8èU!™ßàP{ßYá6ö‹Q]şJR„*?ŞÂ+RhQÿş.MôÜ§Ò\)jU°Y×~=]‰5°ëôÒßvÏŞ;®şïtÿHtıén¥¦ÿ¦ûê1	ÙÕÍ®‘	mf;ŠReØğî*íg§©1M{†-]’tû,Àx&ğ_BÎšud}©Î±;Flõ?òzÁ–0£"¶7z,(ˆEÃYO*{.LŸ°!;ïÍ3!èXì¨¹xR*“üCS–&T¦®ŸùeÓ‚_îKşí<à}M6í—!eáts¶V5¯£Ô•¡îş‹§šŸ/âákø™igì·^ûÀÍª0O¿]*![€z
+uFØà$âŒ˜JßQ<¯5'B¢«vÜQÁ]YV$dPÖÇc·>}şìÉ¹4J&”p§SeVí¶ÇH”¹C
+Å_äÕ0s.DÀùg€ØºüZm.´W°dÿ>øÙ ôÑ±úÔ¯Ì­oÙ„ísuÖøYtP7jæAÈèèİôõ0c”Şù¾.$ÒäƒÉ2ŸptùÎ!ó²'‚ÌöÎÑ¬,f—s¦€ÄË€ ¤ÚG,£Š×ÍR#ŸŸÂ(¬ª(ÀšÛeùë|¶‚ÓÜ€*Ì˜£e³@gR>–¥‰¾µåê?úm¨Ñ&µ0–Z€G@æ'ı[B.~/”Æ†¡ér;³NLdPğVXMO|”l°kAdu.‹|îEc¾#ºéoÍw8Jˆù™†ûKOty~ñ®iÆ5U§8dus§j3)”l˜Äbü‹®_N‰wÈ%)4‡‰†p U„ÌD‡M vîbœ¾½dù¶ˆ<²šÄ	wœçLæe_‹æa ÚÆ}”Í¼`t½HÅ‘wQWPàuÄNHò™S‡lE'©1-c½Wu™E¥òx(Ç(>ã°[_ÅŒèò=!B8m£åŠ™ª±çf¨ô~QéGÏÉ‹¦Â&B£Ò“¡E°Ü¶ı&¡·¹ƒ‚©Ôƒ+>	è)‰|Çæƒ÷Š·TF²%sõü¶{¦Õ§óÙ?9¯«}luõ×+÷¯¨Ö s£/(ˆ¾T¡"Æ‹nÁjpé×3"ÑˆdÌ‚_4ã$¹÷›Ôµ*9|ĞÕ¡È«Ä›• §Ô]*:kAÕ‚ı˜XqH‘áÛÕ“GÚØ€P<ŞnMhÂ„GFmğC)ç.AVÜ`¦’Ğ‡ÊNÙnp:^è>®}›÷søt»Íªo0±ÄFû !ı¹4œW6&`ııyWÉÍP`é„y)÷5«§LÁu3İÄÓ`öh—:0‘µ£dŒm§Œp †mñ¶hM~¾vŞpT3Ò~£ì#„Ñƒ&<M†°m‘‡”÷ğ¡`6ÍRÿŠå?âÆÛxÀÒø} Ş§×;î8CƒL«İ9/:÷~¿8¼öHáåÒÛ€•g?‘HådÏê,k@¨coVa)’ı´NÑÔÜrÒä«ZV›”²Q
+L:uügt¾¤¡™ó]™"’.¿Ãe_ıt »Ô!*7¢3ËyŞóL—Qú“ß§¶Íÿ3µå€7~BTLcöğ’ô+Ï±hé¶=>Á8yw¡è‡İrï/UÅ$‹.¹{!ÉáÖh 0§!5ck¦¹£	°{‚æ$÷ğ‘Xoı0°Pâ	CiŒ`>GØê£ïPKTõş¾6Yé*`$'¼ô¾¥bLƒc%ÕòŒÂdÛEES3OŒ,£VèMâœ×LÃÅ;©öo€¥£å‡hŞO™/?v1…“4û>zQfßø§ÖÚåfÁùÖáà ¤b;×—“IÙQÎèy¢‘¶,}–Xá‘›³ñ	í•@r"1¥fiëÒïÌ¬ÅÛ©'f~`îoú?t$NZ²bòëÛÁv™&5®è]ªïÙh¿ì"C-ûCÔšk[,ŠİRèÒÎ+ƒ ÌDÀlœÎ¶?÷lyò¾ ›8¿âÚ…¤Å>iâşIá¦‚/ÒeÅ$8ÌÎãâ‰ˆD1ÎÏ(]îÑ“VÃHE5}†SÉ ²\¿ÎUOŒÁYW•Îa°zwÜgŒöiZ‹P@|…RsUÚG"œp÷2< 	ÈŸİéR€ıŸcÖÏDçæş8t6‰&	ÙF3†\U<àaq­ZœÈÚÅSÚº!Ù9şV†bPGO}L.¡|¤éÈŞ~íÀJt±dü¬xpñï½uÁä2›»{dŞı™ñ.´Æ¶äR?­6½ytèv)gi|oÓ&¦~OäP¬÷¢–;hñÌ|×| Zıs¹J³¡Š¦é¶Eö°OfÎp¿äc#hH/@ôÓÂäUpp¶ñ‰F¤q) CoÌş§»n½U¸]fT–;‘Î
+ºDp·½ŸÕ±áĞŠ<iîP„pOF{yÀ {®ü®xÄµKI2„Ò#æ,…qÎ»¤¼Wmj´ç…>©ØFóIÕ†Q)šü	OrS*æâÑv×k¼®Æqt…]2ê$pe(áT„ƒ'Û(?ĞÅò‚ïl“ÔóvŸ´µÛŞÑD)bÛŸ/Ï›ò–1•;O|Ü1šoÿÑå–:´*Ò}ép™à¯“­^ÌgVvã=$Œ¬OmøùÁ}CĞ½å3·Ê	€`Cêß RİR9İa`\Å6÷*Š	ÿ4V€[ÀïÄ¼^ğ
+j‚|eÄŒ"­ M$Õ…È_²÷;˜Ú§¤ˆ;ÅwaOé¿ğNıüÏi…(ÒQ(°',b’xö<ìqëY¢´Xàîä·½œUæØšúà)àó¤øO”–PsL¢ıŠ>i$LH7öcvô6â791¡ÛHØÚÍÛæ$n€¿¿^WoÀY˜ñ#ÎYÍ}°ÊXÂwêIÓé”B¼jÀ6(bÄ÷™2Ëvšt‰ïwÒ-RJC»¾P4C“h<ì÷—9c`omÅd÷ÌLúù‚YÑoUe¨ÑW!Ï¼&Ö6“Í¦%83Oº”4¬Íğ Éï³g,>§Ó.è6+p™¶êTs†ˆ[à.Q\Áâkò?|°§’µ»#/82}>–EêKòûñ¢5ìÖ{<»ç’yÅ”–DYû|ôÌq8ò+4íİÖpßY¾YÛQÚNÀ‚ÜXQeMÖ€«E¸ª1Îw¨Ú6¢•î×ÙI×mŒb ŸÑG¦¤µ®WÂa.q²¼¥èJÔSc®Û|É—åË,Qßêô¯¶ o²e^æ®Ÿ=p™NèïL¤ı‚ÕïEq¦àt%éçğÿ'¼=‚n†¯ñEæHÀ}^õ'¦?å¤‰—ä$§‡/·|ÿ3²!…sŠÂ¼d
+zöqV¡‚ørFSã¿$OQ¦yn„jÜÔÂïÿñ’3Ë
+Ûr:(êÌhĞPÑeÛı¼d"mŞ›C)Ze
+c.Ç¦,
+øó"gŞ%Q¨˜É3¡i5æ÷œ¨ÂÖºé4nùåÍû6ÿb,ÁkKĞ`Î½•i~Jlİ§[lŠyg5˜jätœšú½v9tİe" €­#’UÅmğ`ÒÂC‚L¹Eñu`±	¯¿_P”v›¶'’Üé÷P|ƒ²wñwåÀ÷ÎÖ¥i6$ÊŸğ/ 59ĞRÃó“·‹ãV—h8Ÿ}ÀÂµÍ†
+q½O@lªº†ÉÖÑPÉ,ó}ÏrOÓ÷pƒÄçu³İ	òËÕäÄO†W^àr†n2¬Oz2ƒw¥%Ï^°{‰ÕJ(†J¾š,EŒP’ İ÷‚(4w¯›İÅ¿Œj¥Ò…+c²`„&¥ou#³R‰¢]èºYÄÄ\ÁûzkıÊIr´ïÙCª¬3¬6^ÄêíHÍĞµm±ŞùrË3Ë#%ñ`Á°´6Ş5WcI‹5V‘oŞzı%çE™KŠ ¹Ì'^¢/Şb
+ÑûœæÓFrauÊòèh³D"øò¹Î‰&/$Ôù¥Ñ/¤;±¨%HÛwæŞóÃúü¢˜–Á+Â|ô)Î_ÇŒÜÍöm°‚AÈË:„t¯çÍÈ‹ |ö¿ “BG¸UGCâ‡wÃw•ÑÄãİÏ,l*Ÿ?ÖT×ıéÌş‰ø$.YY1%œ])¿ÅœE6 Hù%Ì‰ÎjT&JVká/HÓqØü¨“v0Ü†«‚É_Í¨ï.—wï¼‰në·Õ	¦“Ş¥ÚŒ¥b6knÊt³3g«ŞìïNƒ=¿¸OC“	_Ğ†™<g62”çm›õ~ş€‡†±+kË¦Ğ:±zkëÒ‹Ş«	†±(R8¡äã*åBÂ¬ãl`‡+¬ÛR0ÌV‘í“ßò0È×Mk›¼—WI EÈz*:òck z³«{ò`äÆºDèã#ÕĞç¿¾QJú¢Ÿâ¬Õ¶Å³—ª†\!¥qú€Wa0£!i{³ş®Z£·&[&ê»úÖ+²œVeIîÉ­[)eØ¾–¹T·ÕŒD…
+î°ï«LŠ˜Š*‹­]ˆÁ‚s	~ïvñßêÌø¼ªXzk7&‰äáûmÇLÑè™'hÉ,¾¤8)o=tÂ–â¥™*œï[ü’÷Ëyèı¹°Õh%S5t¨Á!ş:hcš*Ñèêâ7ûÓh…lDÆsj g­)Ã$R„ÜŒ‹!iµ_²«¤şÿ5d!L¤r€­^ğ15	…†Lè&Ë×íŒ`¾õ’½vwŠçœ%³ÊÔ#˜é} *oü˜cİ%®¬a3=
+‰~Ê¡ĞOB#6Û³˜ítèûwÆ*ê¾)È¨²o'mÉ§MØkq—şâ³Gm—¿ä@P‹ m¬/9qƒb¾ÔÄšVÑv[-¥ÏÆÇiïÓN.JC6zA;sŒö+Ë?,ÃJå†®Ú 0µÿ¸@ÂÓ£ ¶jŠêA×Ç²y/ptœàŠ¸xŞÁ…·¹A¢ó/Ç [‘¹U,h½Äû1ú~ä»t/ãğànv’‚ˆpû¥ënú;¸”|G.ÚûŠñ¶ğôÄ¥“4b…Jà«ºŠŠ£âÏØÖ6˜sıû/,6T-çv–ƒX4øª‰©®!)OáMA
+„7xQ!·Í£»ğÌéÆ-
+E†ıç:°öÉm?Ş4ŒY5Ã`î;¤—ˆV±c
+xÁ³#–‰œ|‹®}y¶1}%¨FvÄRÂŞğƒsár°O “3"	»~êæliIEí¯¤İ;!‡3˜Ç×ÃLåTËK}zñ-=mX¦fQ÷#¡NNîóëïl4|ËnŞyÎ´~ø#qmñW[÷€ÂQ¹¼³ïZŠgMã$.O9xSDN—[†^=Á^IPkØÅ×LvMJ{TËî°ª(÷+x9Vw¾$f³ª»£‡¾£ŒUØïÃö>ÊÖˆ¾½}‰r/Uã1ùK ¥–øu*»Õ˜¹4í:O&?óv­Ş ¶‘Z_YÃÌYO‚–:«ğ±¬4pR*ÕŠ,`¥İTÄ=ku_"‘x½Ö¥gì¡EÅ5T·T
+wì @5FçÆ™Ó§+O
+Á¶í+¥í(ÖÃ²xÕ3hÊÎ)j',
+>ÎIT¤ƒFu‘$ghòuˆÇR¢+ªÕ…{aF‚Ş
+¿æøè¿%:Ûõûk—ßÆÙîş‡"½0ºåe­Årâ™-,7“–X·Çï×¤¼ÙT4­ Ó°\Qdô¤äzH®.qÉMS;ûôZ§ƒ`ôLqU«Çğ"èèÇ»ı\»ÁËèaå:¡%ñ¦,Oºİ•×´ß©}ÛÀ‰ØóıÍ2í~œè„*Í,¼>0!'f9L8ÀÙİîyŞZq;šÃW‹ßÕ˜Ñ±Z‘Æ³ë«Ë^r×áƒÙ…|µ¿lW²nTÈÊÏy$=óyÛs UAÃ´Ú¦ÿRş­:k—·0°ê,[Ò¼£G/„Ç2–nÇ›4+%œDhšQ9_Â‘ƒvLÇsPã€3ÔP3ÙLàÊW4¯Åu3’Vé²OâÃÁxÔöû_Î*å0`³,šuO½ì±ˆŠ½:oz¢}¡?ß—ÖÀVÙ€d5·4½ Š¯Ã^m¡¯ñ~†PÈ‘¡Ã­`-hs©z¡Ë?˜O¡SåËòn´î·‰ÒÒ³ÀÄ
+¨¾’Cxa˜mD j“_¦I¤Fn–gü5ğ™ñ>×ÑG…-Òèø†^•”Dµ­¨“ÅÀ¢N7M¨£´Ò<„cÅIå¾h¿ŸH29^WND\é½‹@HëZœ›¢44aÜ"ÜİÌ€eî2JSÚka(ûè¤õŞÃµ„®jjÑî]Ø,¹ûd {ÏºhÎ§. È©ŞV÷+–7ŠÅ» åI“/Äkã>5P_ì_Éw!aë,Ù‡F»WE‡ñ´·øşÏ¤ÔÃ[P›>†NØJßR·J0ÑxúW*Œ&V¬{5ü#[ÂÓMgO;ğ»ÈzĞ¤\‚	ŸÍñ’-Íüõ =¾Øv§©•Uo@åZ',ÃºW7˜)Š'*6”!ÒR,±Úƒâ³ØÛ×Q Â@)«iBnï¿uÆæe×ÅØV!L½»ÄËÖ4k/”¦çæh ±ÊÖÍÿOİNÕâ _v¤ÌßÚw#pNÕ> §İZù‚ÔúĞÒ™™äŒ»e­¡¢²D€ƒ…$gsz¤mÜû”Sˆø££’ĞüÓÓÏì* İ2ç¤.(Ö¨ùòM'%ÚG-m”Çk½8¼_šjUk;
+ŒìJØâiX¯‚ºÖ’OO_>i¡*óÎ[ïK¾›piˆE+¬‹1ĞKNæ˜ËX}ñ|\K±;}¬áªô`šs ¿}ÌŠ(n©ÃÕ0øƒ³5¢»'úà¥µ½ä2ãñÏvâˆ¬³|YBïº¤ÓÄ)^±%}™áp pw€½•„1“‡5FÏôşÚ¥­V†µ»?LY
+¾} Ú\Ò¦
+”K7äwâ,	&¨Éº§E|©Z[¤	›)ş¨·ÊøúË£
+q˜Z=hÏ¤GP/+	+4 m¸©>‰ÿ)¢İMŞ:Ø:kˆ‹²Ã¥Ë V÷pNlGóÕã—¡–"T£BcĞzßıÍÙìq7ÁúÃîOø2¬ª#éà>®yä™Síê˜#Ü·Úf²Ÿ|—ÜÃfî}Ü“¾Kkõ£Ğ°È53W¶›wã‹Ií`ÂZP4ëq>ÊîÌ—3ñş=Ä}lõƒ±‰`³+âô å!„¬Éßvœv&}+”q¼^ÜÌRî£UÕQ“:IÈSÿ{àD-ûQ’Z˜ÇQï<.:ßWšğıîNSÈx¨†è>B
+ë&Y…&Í³àÑh~v”™ğ)¢)®a& ã‹”„¥²24Æì£(]îíÖ¶Çí×u‚Ş*¶'Õ.•µ,ök4#¥Ín'şìu»T7Ç‚¬ö<\úC0âè«ßœŠu÷•B		¨…Ütş§}ÂàäDõØs;ò¡›Xk]æíò†ölÂçÈÚû}ña›ÎW¿iHITüãŞ]°SÆP…%§„7\„M{ƒpˆ|ámÄc¦	Œ
+p—!;­0„^0ş3İ‘vÇ§Ë¼‡Å*Wmc`‹s€GœÕêªA`ŒÅõàL‡yH^op¸æU38š­†8m~×ê÷.?ÊµŞ°ªì¼¢ûMŒzY¡C/ƒQ)=¬÷CÊÉhî³z3¦ÃªÜŞÆÂ1_
+ŒV£[àtË#3¸äª¨¹QvµÊh³»S æEM0é…mdä?ÀügefÔ®ƒ6ïaõ	D˜,•hw‚*Cd ÈàÑ5ÁøÛ4ÌİŠí¹Q¬Ğ”’°B¥õğ‚],ÄÀ&Ÿ”)}]€jíÌ÷¨ÊÜ!—~IÜÉ±Új×¹B‹¾ßÖ¤6 Èk)ég ÂèÈ ‚R“ŒjâôNcş%<à7Ãïƒõï'Shi¡Î¾<çûî¤—Ï®´h÷³{Í[å­	I¿4®Ã“™ssp©½×X‰Æ2Ò¤L‹(š?ª×¥|E8?Á~{eP‘ñˆ6Šöäıyf43T¨ÿÿ/÷]Fw‹ëÛöK‰Ôd`,Ó]¶Ä´E³Úİc1'õ'Ÿgu\sÑDÔPw=µHÔĞ¾¡p6/Ç¤vŸ¯F„Iô2/)ÚY±Ò~;nEš@_jEjØº!WÏîU¯C`øTëğ¹uåĞsüæd¨ÔÁÅZe÷¶ôïû»QosÊ;'¼A«gXˆM…ûóâ‹Sî)Bëª©ñ7¥€2ÃF(Yb9™ĞÂºfÇŞ{ÒÉÜÌ‘ftáTÖÔ
+}˜6_Ğ?ÃÍë!©…r˜—„EOä8UH…Nb¶õã÷Ü°ùpGÃ#SÃ‚ûDÆÏ ğ*ñÈ±öU#·¡#ÜaŸëù®vªÀHê•CŞ)è‘œ€Ï.èêJöf®©úT­küìÈ2Ax°z™gæt–„û£”’|©f¶á‡jRauØœg—œ¼–÷ô!ƒø­šäÔÂOŸï´‹Üklt–5ÅQo+mRp¿9Â›¬ûğ˜í´BV=Á'ÂJœtnòˆ:ÊCÁœ$ìéqb›1º!ED@BƒxÜ—³­²²poèB_QÑ}ıóºŸqû>÷n„¸5İ™N$a£·l9P¯Ì g(ƒ`º\ŸNœ…Çd›j;%—pMÙ ’¸f:¥)®S>$°ÓÓú¤¦ŞÂ6¸?CLßœ*ß¹Lè +H„I]5æÓÎrİ^K´6œ†ğØÜèwüQš`j­xÅğ#E-îÏõdR”MyíË³ıÒÿıúU_Üæ¸(ıJñÉÏğÉ&Ã÷ƒ~áªÀÌ  ï¬¸û—˜%´ÂLjKVŸÀÛÃ&>Îh®Í˜“IÂ­*âJíF„³yßz(|·–ÿi.pÅæğ‹J‚küºÅpwµà¾v¯U	$Ô¼CP„{Ğ¸Œc ºüihæ¢oBİ2	ß1/'Å5"¯…X#39¥ıb­Æï)ÒË€PŞïG£º?s9-¼Ã’`({-dNu+²ÔßÆUdÄŞaÎjãrPd!sÇ{ÌZ?8Qq&£!È½4p’9:T‰Y|ƒ¨O2·úÿ][6Í €ö¦?‘ÕßûkN»@]IRâ—·ÁPŒ¶']OSÁÀ¾d»ú¦·j›©€	çŸW 8·€µhhåb@ımÎ¡ ÌÍ„ï‹NğıàqOMÚ„iÀÅÚ3Céñ‚E4Ö,ı]–c;+º¶¦Æ›ì€Sò†©|·ê†Ë“¾Çv£]×œ¡]kğ¡×íì», œÕW†°İÌÔŠ"¿Äø²Ğ
+UÍ÷ÁÊ9-êbœy÷!¶í	Áóú0¯a.`RÃP¥¬Ã <‘„L9¼|ûÃıQ0ˆÀi³‚ä…™óĞdµZ*[¾İ^ıòÕ£¼ÜúÁ´0ñ¬?´¥¿ŸÑ¯\À@} 
+ÀSËú$>ª¶.éãW?ŠiYÖeXÜ	Õ4¿‰5öj§^ëW™Ó­° ]&“L1EµÔ€Ì}ïz&]mSZí+€€ótáÕ†îÄ††<nAzc´ÌŒåŸBÎ@ÉÏĞùKRÖ—­Ã ëJé¾ …ÀQù*ìÔmÛi–ÓrSGa­éÂ”c•h Kv`k9ì_Òêj3)¥©'i»‹œÓ,İijP‹=ÕKÍTß(9­e¨sûÀÃ;Ì<oRßÄO¨‚¬öİQÖé)4|÷sÜl(L._NÙ
+L?á,Œ
+‹çÙ¨O>!U%¸™»æ$xQH™`ª¡Ho»“­NËÁ‡ÍŒ¹ª>œìÎQïœ':,İVH@?÷à’M’…û³ÖµúO3¨eñ^—ÔÊhÅ‹9KŒ­Ü—mRñ5Ó&í=(•æ8¿LYĞDú…„¤š~îeŸËâ &â8\w¦ïî© t.í÷ˆİ¯W.	BÃ¼¶–Ç÷ñ3?TSY--?{ú‰íüUîmĞw˜E›MdM‰|ìÚ0ú&­¿¹±ªZEÂöŒ”c" jÂõ-öÆs‰Ğ0ËGıqB€oæÆªS¹²ï‘Œj¨,P’·hK“pÑd´Ì~VT:]Ù™}ıHàXïĞ‰¹îµëUÏƒ¹®ñJ¥cÅooÙûñ½˜®›?M|òN°htÿùm~ ;z+6ú€ğâÒºÑĞ«»ºÜ\…N­ÃÄ_¤Á¦ZRîŒDÈ=l–u„lHméĞ¹'ÿ­ÖÍ÷£k‹eí“Eø÷›†·+Qéıy1N]Ôn®p`Æfx­ÎÖ²|që[É|²´A¿“P¨+kxî×Ã_Wo^´åxÿ[¬j˜É‰'2šÿKâË˜æÖe5Å5n¥tîÁ00j¨ÙÉ†—”°w†ß,ª­Ù}^íÔapC'²Â.Şi+^á³Jö¨FâşŸˆT(ä‚ØsuÓm¹{©¸ôô!ÖÜ<Òa¶¢‰º¡Ã+8y°è…Š¸šÄMºƒDÚò4ó$‘]ÜT¾ª9ÔQ7Ç×T8pÔòtYì	t¾ÆÖdFñ½‡g§œı½ÌÑÍğõ§ıG*«Óİ¨ømô‰>å>m»$îä¸ë­K}òr2ıŒÚ]ÖªÊÑ3QTÊÕv×úñEş‘f½ iØ	ÓwÄû{£hu);p¨¸ä»k\9¼ÿ¿©v]ÀßÄr@$×µ­Y#áFˆ÷´±m»¸ºVö¤µm¹’ò8Lş’X›HĞá2H]ªYz´2®‚ï©ëG¼Pİû¼6vÆP—IbAÏq¡·YVI*Ñ*Ä°ucöcĞœ’®Q$Ø‹-e6<Ášf8jkÎçæû&ãö­şi£p"gŸªã¸Ùƒó—+)2Ï½Dğ§eDÈ°Çk2¥’²?v +L¨¦!¯°šêHÜø¦(¤¾	6oß/à4Á¥
+he´{1ó=»G>÷'ßGƒvl‰ãtøï&e¨şàîÅÜ<­¥úu®Íäp¾u3îñÍ­¶Á´À%Rª=ËÙE'âpÚ˜ñÕ™ßí yY5GĞµv7pKš5k¥.?nÁ2Ênâ!÷"8zÃ8n·ú‘'ÂÔ¡Ø
+ [;/ƒÉy<vk^,Èâˆhk^p«xaóô§-û=çÇYhlKYÿ°ÿì`«ËhÆê(%¬‡Ì‰‘ 3!Ò®DæÅj‘°¥¡Ãd—;ZumÇ¦j51¿{3tìdèmÕnÙç¯ˆ»pÙ³Ï˜ŸÁ½$ÒS¥s«•ËÓÅ˜ÕâNÔmQ©/s'¡à›Àªƒmö¶ACâm½#<7|Ûô/˜Ûå	©KUÈ^?JÕ>–¶àp5X¦÷XâmÉtéfK_óN@]y/sšÓfpîGéiC4{ïa5Nã¿¨
+#*ğ]3„.Î—Ç+>¤RÔÇD%&ƒõêPì$5Á‘™Îşcˆz3Aºµ%:Ş7JÕ¸X	 èÃ	*7ŸŸ6H-µüÜLPWõ¿¥d±]ÄsŠ)ÑĞ­ó>;øuç(q®ı“f€R½QÇTRŒê¤ÕŠëßİv!¬AOÿÎ7ï»…‘Ö¨<0íÜ+ã7˜æ ù$Iæ9Ò ãİ¶‰4q/= ×º("ôİwyÀ½(Ó*=ÿBcuÊT5ÈòWÏÓ ÇYZƒîÌn*ñávz~ÖTå¸Ÿbx„µá*é'İ¿°Ÿéi,|ÍÌJ²h6dQ-U($bTTÊ$Ø‰£N@q=ì¤0Ÿc+~¹ÄÓ¿İ¾ËÚWHÖj¿]#Ğ–˜SæU›VÅ"c’WPQ±Kˆ$mëìoPÅ¬ÁÆâšw½úº"BçÛ”`¥¥|;b'Ë|`×ÿôûkÅ1¢`ÃœË0 uCÈY)¦õôX6¤½Ê“ø”òzE1&½øV[úĞhÙ×s?`B:BŠÀ-Ìİ†İMLXÚfM~#m‘To8‰MÔ¯sÂÃŒSgBMÚµü—ŠÕÓ1b:à~®+BâıoDÙs³ïş¾;º×JƒâÓrÆ(Z²ùCÈŒHèxgƒPc£Íi÷Qp’ØÑ_Tà¸ìñDÃN¹ò=ˆşzNr/Ã÷ÚÉ‡¤ ÿ›ˆğIUŞO©%¦î7´™ŒlYŒ“$†şşÈƒIATíøRFù°µµâÛr­”•_³õˆÖ†k;@Š²7P#ÊLĞä”#+ÆûbgÄ‡êØŞs±Y¶¢?ßËh¿Oh’@ììÙ‰™pÏ•Ëİ®fñèâWÕ¼’½êz §µÙHšÏ=¸#íßÈ1rŞŸ½öZßI$²îñ‡M1†üà­°0¨Ã¸h6Û|~¥cn²zq«â0-“_6«±Ÿ}éÙ®(~ç…;ä'¾£…jÂİ—6 søëšÈÛV˜„Y¢Ï7êÒzpQ1Ûï`Á!—Ì˜F8Ç;6[éhKxŸ4õº‰>Æ¼`j¹ˆfkôœë´€¶jM²«·à7R<àšì†ğ©ãÖzÓj~¿o]¹[ş•ª·j´kwrò6‹¶3ùqpw÷sù#äµ2ôO/'£e6£ÂßoåÑ„×—ÄtA›‰<Ç!?ïşÅ§ hñßÙ™=äe·‘Óª~,ö2‚£=óä9Şgzv)[òüÙ€Ò%WN1“å¥}§vt¨Ó{®À…$íÖ›rşvƒô,Ş1\õ¸Õ^CE 8l´ûàÇº,‰&[=t)[änûñÔÖY½eÕ TµYm»jƒ$İ}h©ş`µìÍ5>Î4|Ú‘‹=/ƒ	¦ï(¢¥iü¦8ªK7¾±ğ}ıÕåH		m „˜ôd_/\Ì\ÒåSåZ—Ô-·î´²AÂéxÔ èóµŞ%£_Ï»Ì>4>ÉMÏ?½%¥ì‡ìK ¸@İ¨`¦ sŒ¡¯oúÒf3òò3üÉ1õ…öë—K(¢v³^ü|;L„äî|…A:§¼ôvòİl¤ş+ÊugaÚeIÈuz¸óX~¨œ7‰Î$ØdÄ0@¡-s*?‚û!È÷*«› ß$n¾`"×`^¼»z/ÏlÏı°¾¤½;q0·lÈµxØDÍV¦ãlÛ ‘Ü'´gl>ä'P¿ƒÖ+U*‹ö½›9òKWµª©·Ûk©ä4ºå
+Z®sÙ`Ñƒ+ƒk¬oyNêüåI?SÊ#×œˆ;=Nè<v˜Î¡Vk”ñÌÕqä­eàŠvş«êìì~jÛyç†ò„+ä3õ0Í‘FØÆz‡Î¡ìÏÚY¹uúT•ŠÃ~@-ORï<ÓV¤|ÈzPM[°ì@ûÁ°É|½R3Ûìl‹¬YÉ„‹»_S8ı³*äİ‰ôBî	¨D,ÈWn‘'K<µ¡©‹üŸ€]8›ÓJ‡¾É«Ÿ Ybá–0‡¸ÓùÉY\§Ÿ°İÙô†a)×£/*Ÿå"µŠV«Ó	‹­öbÜ«ŞU.DûY€;6e?,tÊ•>A>>ˆgÂèŠ`Møí}jÕ\mbÓ>Å<fÎNãÚBwI«¨ÕDæÆ1^»İÜûŸå§‹ğ®i£Áú˜BN	jıÏ5wLæ±s¹_™ÿ”qİÔÛõ÷°—Vør"lÆgaÑ K°dn\r…¯å¢°ûUo„ÿÂØ½¬gy¸Ğ¹J›5;õÖfSâŒ,G=—á{apŠâ=¨ÂmMçluŸÚ¡õ6Ş
+.$Pé‡«§(C¾*S•Ç!zNs[Y–Eç}ÏZåwµÄ D»È*!2ôA‹Qlå2
+T»û6ßWÇ˜dÖ±È·|mã×îŠCg%j“&ÈMÉKg
+Ô‘†S:ºL^t¿ì¯m2»œœ®À‚ãE‰o²˜Í{ÒŸ‘lÌj`“ï.†}ËNï_~**?=Vúi>D«¿êµùßˆqz½¥÷û,Gÿàeé3>1Œ²ìíX¨Ê“ †ÔÎÙÉÊ}!à~A×Šˆ˜û[¨$|Š‚.ñM3Ò¹:M»`è¥;o/1ew\Çbˆ™Åš¨üv¶Mç¾¢G+9`_.ŠÔI´>[y¬	éë$pÉúıÒÿ:[Í9ùóŒr÷Ş²à„¢»É³‡o£À}Hb: TÓş7
+P³rF3ı`ÖHº…×ƒiÁè6E0İTİG·2HÚwòš]º?UİÏŒîùPÔ^Ì`¦ÚşIH múF7ù«A 
+ò%ç•ÁíğËcÓ P]ZYÏ$(¬.®Ğü¢ãÁ@»Ês f».’Ş:á—eOù`Zç4ëÂ§K\œV3»Ì"^¿Y­Ó×¿™dŒj·‹íŸî–øf„‡¤ç¸ÛlQµX±@
+—ìE3ÑE,qyÔÖ‰¹ı)¹Õf¾È~Ù0WYQÿİUÉÓw"®’—Ä±ÁİX(	;}Ã‰9yûMÕYÖgbä›İs5ÄÛ‚P«ùE ¤¾ŒH7¾<¹šÍEÇÙ§ôÚİ‡+OïÇjÇU™/MPâLã°¼rÓ°mË´¸‰|€GşUQpóóÔ—èš ŒG—wÚì\PÉ´Uö]åìêïMb‹Ş|ŒˆdíÂ‰Â¤ŠËï ´DrVw·WªêòKç”ƒg“‰ü·üìÏ;ù#Ju.’§Ó[ª1°Ù<ú‘w]¨ùP{÷ù3à%}´ç+Áãí°ƒl$uµ	êÄßSšz° GÎ-Î‘ÛgI–_Ü‡R®#Ğı÷Ş¨Ë	Ä”#0D}¸dØôH3UŞsûO¶ëö¶¨éõ}Âvjt¬—Z<fØø*¢³E_Ö¡4æM‘h>kÉF>Nùw’~fÂ.xœıó u­\@çşˆ˜dx@ÂcBğV¯.çIZ&b×íb6³M„F;(N²KŠÇzïÇ[…:Kòí„ïºï"eª÷ë¸@Óø)&Å.Uğ~»áÏÿ‹€®V8´€ ²‰X&¤™ñøÂ—oW÷©Ù••h:ãPñ#?½F[c;í½èÒ¡U¸	§ó’/ãû÷-;Æ!ÙŠ×¥› Åé:%:±+Ú3Š&KÛXxKîÈŒúÔ`m…ºIç/¼ëŞA&Æ­F"&Ñ6C¦‚¼ÏÂzÓºé{¬WI4|ÏK¯Š¨l³¾ê”Í/L©…ì?dë”ŸÕ¹ƒøØ‚™›Ş|ƒ$Ùà¡Íé¢şWhº!˜:«‰¿ùM$…kÙƒ ÷’Ê—W„L—İú ¨êĞ!»Y$ËÁ“Öã‘CA¡GÏÉ>5,6É“^—0ºP~oÕ.®·ñüû]1* Úv¾JEjÂ2q_¥…tŞWŠ„R‘´|àGòã` û_M¶ê–sx1®ŒÃr0ÁÆÁ9áZzGk´
+•O8qİvÊ™úW–J™AÍ„f_Æ‹¿)¹u²ÃX'C—p.`eı%ÌÚçİ0½†¼ ÇrF'zhPÓÚ“‘„ãÍ?‘Ï9ú@:çNú,”ƒºÃÈ‡¤>q2LƒæZôÉ–ÊFÜûiü³·G­ğ”L…#äå®İ¯ñ¼=®Û¦˜ÖÛ ÿä¯ej^O‡4xª–°`%Øü!¹Èê&4şì® ™ªwØkâöËÈwÍ£Vv™Fa[Òe9ø;†k®Bïh~…‹1-fØ=ŒïZŞ,[H`·ÑL›>Æ¸¿òĞG^«Ÿšç?Ê5Ö‚›+æ5ÒèómûÇ¹-> =°(Å“1ıYÏ:	›iå£YñoÃ»±ÿã(LÛ!T`æè&2çrw—1=(@Ådb{=:Bˆb0H<¡_¢³yõOÜ!…g%vñQï0ÍˆÄ´êB‡ÒÂÕNåH‹¼rèì@l²px£æÊ‚:½Üfƒ äLXê¡4¤H•p´V=XüDßœ›Cm—¤äİ¦óÂ»Ibİ<ü¥Udî\‚Ow€`	?¦³µe|=pL¸"ölêF¨PCğKóÕºûâ8Öh6=t(bûBz«çõä½ZŸ~<R n¡·°Œ­‹Şõ áßS×m}:¾¬|/@V[îØ2Ÿk*«æ<ej¥†%8#_¹g“dYF K™†>Œkh±(±²Ì!~Ş´BTßˆä³uTEv2Í—Yã×ÿĞÉÜ0Bh§ŠşŸ‹ŒaœîÂMeĞ.g¨åÈ\—e;š¯»´'´Åìj¿-8È©%ÑâƒĞõÕOŸıf¬)³šGŒïÁ›Í}âëÈD-h5›b·îYú<ætl'æÕ¨v¸m'ñ³BÄ`ûF}ï<9ÃÚcÓmßLˆ÷.ÙHÕ]µÖË$</'İú	ëg•æM3ó`br–Â ¯ñqxø@G"÷"áu;şÀßÛípÌPcFè?»fªÁÛ¯¶üœbfƒ½1¶“‡N¼šì@j‹8Xaî`L2–]‚qz-Ûï‹°Ğ–Æ>vÀÈ*<`#Ù!»º\lth¢Ä¾@U]¹ç¢’g¯¸‡E¶d¿‡6¦¯WòIPmiˆ.¨”a,ü¾kù„û¯Ö Ì-BB·“sApQÈ›>Øªpèha yèôä^çM .Â"DÒR7çê…Ø×åŞ4í/4Ñ)¤^6o>Aÿ¡=PPIG}“º8N~êaJxN‘ªTQ¹¤^­6TCN%ó!ğX¤‚pñ,cKx‡éº^]û¬´ˆ2©¯lhb¡ŞÃñš#bzûÔ§‘D@)İÁCH#[‚AãíœDö®„8Ó©"@07×ôi“ÖÄÅc:Ä0”Äx4T²cçü³Îåo1>Jr‘ÍZé(­4§mÜw¤/#:/·ƒ>ä‡WºoV8„G¨1™ª¤K³IóÕœREŸTõ•·p¾‘i­ò_á§Ÿº?6ĞÊ\å"ì”;=Ô=â”m¿ïÚ–Îùı”zÍX†ÚÊH¥¹(Ş:EÁÎ9É›]ÒËq—Àú¨šRÜY|ÌKQCÄÿËøL¤báß?à1¾½)Ÿ‘l¿GÓ¥´¥ó°»ØáH)íºİfSx!ƒT¿—Zg=@[f	¦Ñ”<[Q’ş'øÎ”BğÖ˜›³ÕQZséÈDõl‹=5ñ~§¶¶šüGáµ 
+O½C‘¨ï‘a#i4óˆ:uüÀ'hE¢‰¾oxzõ“'.kÂTß+‚›÷ú6´£âùÂ;§Â-ÀÉ%{‡b·íMÇ’ğ¼|(B~AÄ+ ìºA7´æ	…gì…š­¬q¹Gß<d»=¼¸ÂxÚ#Ÿ¾:8øy13,ó	‰5w" 
+Vİ¹d¹ÛJJ^Q#í2Œ8úÓôûéGÔ´°!~á£äç'0!Å“he”è¸Iy6ïTˆ|rã:ylxÒ=	 Ò¾E®@§ª…s"TSRÖ75’=?·¥"¥ ìm\^}glä8mÆü~æÈLO,’¼²k˜èÌf¢ñ?À‰17heñc)P÷£âü§ÜÊ¦˜M{Õ†áåáŞãƒ7.³R ²®>§"²YóÑğ²¬ˆ:¦sû­ Kƒùo‹N}³œå—¤ë<e:;QíŞ½³Æİ[’"J’Nê¤°`ˆ)hæã°î¬åšÿ2×ÿRš£eœ¾i8ã]ËÍßÚ.Ù®&ÆTÙ‹õİ’Ìb_Èâ’Ÿ/±*HK¬_¾´á|-ÅÙb2©¢pPt'¿—É¿"ğãÆò”¢Vƒ¨ÒöÀàY* èGĞ3+Ğk#\;I@ŞwUlM?4H¥œ»+—qòY=m}kùÌï²¤Äf“šäê{ó<ãYŸc€ŸÜTtû˜ç‡ÑCf¬-™|aNN»à©>˜¶÷nİıcG”½
+"ñÓÀÃ¶í‘£)3F=³ÆL/vJêE™yşª”’úš«-$20[¯"¨¡ÿ‰wßo]çü‡âÅÄ™2ğš&·=w.¿ãÖ5øUØ²F{ØÄ	¼Œ Ku)´Œ©]õ%LÕ¥­šÈÒ•Z¼?phÛüì€8+´¯)†E°7çü¹˜¢Ãé<ë_·#¥Pl{Ìœ`æˆÔ}|MMñiB¾1:/ˆiÀO¢ä&‘PêU³…Á™q‚™‹«<–-“Ò‡IG²ªÄUÙT/aıÏØ:s¦ÑÙ×¨ÖƒÑ´füµ™ªjyGÿ]PänyÇOƒt8,h¿ e3·‡ûä$9Yt¯ ><‘TºB µ+gÑ=T.
+X`Ë3ŞtŠ¯t±İê8'¸>ğ3~‘èwôÎÍ‡M}9dÔ†R³âM½Rf'­UyÃC&Åğ>,
+òæĞ;ùxr-½‰)`èT+¦j›¹7 èK‘`ô¬N@ı’°ØKò;/s±ùAéIŸÚµæÓ¥¾ù½dkF[L[Ts0’_‰ ½ÛİÚ÷£µş9€‰ "ÒïfùõBC,íëÿÇd£À´§ÛwûQ?;•z7³ë¡ó7×/Õ7¢Z¢Ù…`‘+9ôÙÅş¦_êÇ©Y	úYp/¬¶Bø“ùX'’ÆÉYÆ$®„…fß×°+ŒÜ¾ğŒÃÃ2Œ‡>™)OaâØsştgd;¦2©‹H¦E´YÒşQ¸"v•³Ï´ÉJX{Z¤İğÊä=³ ][ìcæÙƒ>ˆ
+ó¿w0ãÿûõkMM¨w†‹ù$(._ü‚yGÃäó£@uù]¶,ıú“û@2³ä¼Ë\,y.ö@)6Š2“ÑÄbeócZŠáÿ¨dO‘„oÎò±üQ{Ôù#™–bMğ.{€,ìÍ:h™'ÇĞÕ;G«c¬äKÅ|›p'„˜÷/›²Ş	§UÌ\øÚ
+ùƒáWU]Ás"CY­†^œÒDZ,k-äßùsŸs}›}Ìœ#ì¿Ù:õX8w*¢Á‡Ût sô—©ÄU\ĞêNÓE\ÄÈvQ3h2÷Íš<~Œ"_.eØ•¶™r—ŠòèÖÂÇ@ê¨A>àéàâ(9xVTÅæ°Tß0¤‚[Üß¦MğQTé	7Ïî«Çè ¼êç.|¿=pª@€üĞâ¢—OzĞ]÷ã3BÍhµ)4Ğ}@Tûı­U½öYî†8)iX3Uñ¬jŞROA¦g„GF'ŸU514ğòHÜ±Y}GÍá1OC?û^s[ŞrfmL\IÈÈ]3Y
+×xÏÛW[²;Ÿõº‘z‡€ Ü‰²7ObÉ×Ë:tÛY0å·“ú´zEh× vš$}@W³ØŞû=µY¶I¬n&û¯Ì¢ó­9zOà0Ìx€òà”,ïÉ¼ğŸ#–ƒœSÒà7Õ…Ö_¼m‹ScşÑÛó¾°÷OQÀˆ©3¼ƒ—£ËE¸¬Nìk¡sSøÜ¢èFf–ÚèŠ/æ‹×µş*¤ôãÔÒK©¿	ÿÊ| bÈp¿D/¿¯jèİÕ×sŞ™İ±…£¾“¢dè'\êXør’{RîèWÚMAå7Ï€4†a¸pAs¡h)ÊY=àu¤¬GI§:“YP®7ü“9Õò2„£(‡2¬SÚ¡Â¬U3æşo²º„Y†„ú48ôİtÒÂëù.™éï9€?•a‘z­gêR7J`;Oè«fü÷“¬r¦-ªn<É)AUDŒü›p@€J!$S t3?wÈc5˜H(£ Æƒ¡)%­iÅÖ2ÒL4¯İUf Œw¾]®êãx´j s7¢AØ²™Îøìï+Äù…‡$ìÆjŞ•= Á€!wuñ˜°>—–NŠçâÎ(/—Ûëtb0ÿ˜ûqi©}áÇ‚Ò³¥ õDjò¡‰î	`S¾VËMQ@)MnLI,Kòçj©Rı®ŸÃí€î|·Ûÿú9‰f#£À¨à©çÌ”_§ûkîYû¹¢	Ä‚r•éPcgwø¯“yoö~¡D;Æ®Œú¾4`,8?lÜxfÊìiã;Ÿ‡€ùyPÑØ¶pÇÄ'ßĞ¾ŸÚV2jùB®UË¦ÕóıÎà9ÇOWgÿ®Ş<×ÕŠ@u‹NÏ,*•œ@uz¡òº#gó‚¡Ş&U‹µw#Cè}_³QùıKı~„4»Qá®PAØÒ9#­2<ß Ø& ]CY¥Ã?5,†<¯Umè]O<¬™ß êŒ"sº}-Aãvu¤AZŞÌIÁ}M~XşİV‹]íh
+øp_<R¼Ş-]j¶0ĞŞÕ^‰fĞ±k"Û+1lK‰°,6¨/§<µ B?ÿ¹–j{C?!ÆWÿL•rdĞÅlĞ™Öÿ±ÎyfË4Ê”lëDLlki`˜ƒœ$bo,wÜ«ş›şÑøÃy´½wAZª¿Ş¨n.ŠD§8ÿ²§ùH]«Ğ ²æRlU6µï‹˜¦Sæ€¸+Œê{G>ÜJ¥M0ğJï {H èÖlíìà%®
+aúvÂ%mÌ’ËAÂfdMŒÿîúÔ:”$6;œ aÉ,g,¥÷Ğ8†Ÿı¢'Aæhß²c;êm­ÁY/Õ@Èbec+2¾a>°†nÂ‹OUéê©IÒ+KJ+,½‰ôÒz?£˜Ÿƒ¤›¨î&’ìÎo(XÙíéPŸƒ!œ…ZİJ…ƒgm7Iâø5Oò»4+ßæV §:nØ““Tüóy2PÄ”zÙÈsìd=dÈIíCõâÿ¯Î³ñ‡@ÉXI´Ûc ¬è¨_²µªÉ|Q‰Ó&tw[ş×Ä,†Ğ(ä†ßµu|Æ¨kqäy  (•­y2(á8 ‡İÕÔÎ¿hª|"ï°² ÃAÏáªŠ+S¿-Šp'‰·5Çß
+ZQ6ïÜFu_ã\#ş™|š¼N‰€0‹j~ªM»WaÌ¨
+›ÅĞDÁvã°;ılÛI(J%OJÖSúíŒ–4ØŠ÷„ÓOÓw:6ïvÂGÀÏOŠçCÎmUI€öp"äÌÉsl‹œiÉ„ãXÍ(SÚ§ö¾gËùWP
+îæŸ‹a!9]MÅh_çn¬NÔ:T‹ÓWî+ëÔ~:¿Ä€4¼o£'~ÄºPÚs÷öhÕb’—€N	ëĞ;
+‹ôó½™š?AÆ|şdï}çÖÀÎÑÑcloS¬Ş@TôW]„$ŒÁùÂï†-P÷š_IKüü°ÚN´Ò,è+‰/¥·O_š×Á¢óC9‘Şwíe•OyQ¢Œmî_‘0Xs“ºØò‰÷‚Ín„Àz1$­–Ûêm=:F(~	3=nW·h¥Ãé“óe¿D`ô®.oÃ!Zœ91’;.È÷ûã)€pöÉÏbQİB:Ób¶ùsµtÄjTİ£n@¦Jì÷ï[G©–Y•ƒ¤{‰‰ºlu¹²¬ÙÄúğµ3½âËØaÃGG¤%«`€U1×ãEa‹p×s6¡P_w÷•\7„¹­Îám}^*Ê$t¨#T÷&D~¦‰BŒ)jŸTı]¿8Š±ù¬bïMCˆÃKñ`â!ëk§ĞõIEm#À{âŞŒ}<›]L#m’¤ úâ>¦:ÄıÎx?’Û6È€yÓ¼ ¥h¡òÓ?.âÃ‘¾şËR¹"ŠzxÆÚ[ğÕlşò§şt;’’ù7% V‘ú;B Ÿt¦˜Ou‚ ¼0lÔVtà6‰ı+¥Õød˜İ¿ÈK†æ›KJÿ6ñD%kcu¬Âmß\m
+=ñÑwËÅX³_÷?º(|%Nûñº9§@,à?*€ªC=İ0ÆwßÌÄõšwÌİ À>SòÑ2ÏŞ¬áü¨#ïuU‚ímt™±‡°„	6a:yÀÔ=y—}€aé¦7EÈ”	¥İv'G#<-ªÚàÌ{]‚3ñıù¯Rk‰“J :ÑŞ­¥@ô¢uä‡ßùfŸŸ?ô«(Éóÿÿ]JZ Æ<‚-U0*0í:”õ‹÷3Y!µOßÖÆ¦f¶ßİò$s,?†È¤šˆûşòcp†–"S­2’ü^œzÒvõj¹ &Á²%Ÿ´,c‚ åò‘§sI—Çïkå«ÒÉ¤Í	ƒ!²-Ö`*‡ı¡}È@©Åo0ÀÖˆğMğè1Í%‘IV ÒÎÒƒP±*ÃXÿŸùïeÙˆ>Ï’#ßx­¼Â{ô5ñ¦z®¶á_b”`‚o=ï0‡Ò^9'*- 3a< 1‹®Š^êLg‰Ò"Mø‚5´61ÅÅüwì¼»e‡ıÂÒÈ ^a­)ì¤ö(L6 \„áyãŸœ;„R-ÌÂ¦†Ws;öx¥­ \ŒµÔİ-«ôıL‘MùYŠ3›İÍßzb9¯„ß·­MQœ;¦ìˆbl©ÿX>îmàŞ2¯…aÀ«ëH=Í÷­ı«ÑeÂ`…Oİ¦ªşO±
+¼j3¯SéÿCğW®ıvJSi35ĞŒê$ÄÓ6ÆĞQÚ<R3ùc¼#È6¸Òw¿BÄøÏ*Ìí7,úÀš p[V)àTÑÖ„µ­ ‘
+>c¥2—ŒJš'’Ã;ÒNìÜ TüiŠ#Hf!¼4wĞo©Ú«"[6„ù}$;b^ƒÍ4CÖ{úÏ<Z?gZMBtÄ9‹:0Ïœ	àˆvzş$0 1o"Ò¢™\ûë·O	T²Û¢YÕ_]¢/á°êæQiìJÿBÇâw¾]rğºZÀ¶5µÁ‘Gvoß(•@ôÿŞ×bk–{’?È“ƒ.–ŸŸÕñ6#ö,¢E±oy¾ÔÇĞ_ç03¦ú\Â‹Òû•ˆPïF’úĞÄsøfsìÇ:(Jà9·ïf%z¤Kâõ%Dh¼d’Å¯ª9CÌo‹ÀõğİíY7løxÖâ~Èg®oZ'¤Ö¿œ o3F=ÜÑŠ ÷·'BÖüªË“{ı\kÔ—¨usl7¯éÿkl® 89-ß†Y”±AØS6J¾ÜÚÀ(Òˆv³(C
+_'Û3ú-gÀ¸*ÃÚ¨éwU(Ìï;H€ÌßÑ ¬ÃÀ}¤¨w&äRRe†lYªcgé\ÄãP¢~¦,¤­|Â„¿–¥ÖˆÕ@Šqµ£o ¦… “:È$jme)·,òÍ’“Úg_~ Ã9ñ¥JÖ<ëpV|‡²º#e¹.R¢)Ëü“p¡Ç"ÏWd$ÔÁØş
+Á‹6ª¡´PJ\j-W±è;™²
+–äáÚ¾/vê>€%bu£,X ¥ÅygÊÀHˆÿWÿaÅVŸ¾†]Ö_£Íö«€cèª‡7ºW™Ï{ÅuD`ÕLSçı»jpJ…-äºH¦”ªë(ŠFªç8ŸPÙ
+Izœx
+›ÙiÊv³Æ¨ÂìnBR^íS‚2±pòÙDX”é\e ¬jE«ËŒÎßiz~?Õºgú£‚º³ÚB;^éÅs¨ôõz¬XÎc‡/é(R[cmè:^ÙnCá@yíkj²øÁÛQ¦4,ÙP‡r5l…éİ.GMŠjA;)2åô°¶¥4a“
+Y§Ÿ‘|Ú… 9î5Œ>§é1¿ÓM9ºëÎ…€GLÀö®¥6_PŒ‰ª‰á'à€˜mêmF¼¬R’ğ5swA™—¨oª%4¾|ıùïÔ%9‰G‹¬3Ÿ¿™Ú-&Ú]™: ïO÷á~÷Ò†¯#›«55ùÒõœ–pn…Úsëi§ŠköÌ— !7¼©-EØ¼ïÈv×æ™Ô'ïHÿİŠôi`4Àƒ|OÛ?¹¹HMÄz¬%Ş‹’A9~,(·^å‹¨Ág€™Š=wr@?—C`‹¦Aœlá1ñŞJî|txôv¼»à?íÖŒ÷;~½Ì!ÔŞ1€ äìğ`Å4ñ:ç[OvÿR-_ ó'Öiˆ˜£A·ƒğ¤}@ó‚™ŸÉ1¯î7[{#`ùDº¤L;Í°	Ñ½|	qà29²ğˆ:ÌÜë@	Å‡İK)y‹7Œá`‚]xœ8y¶ğ¿’´ÖªÎM=€»é§‘àpƒa1åÓôHE}Ã&}DßŞç0ªÃö«= ¤Gm¹ÿ#úvpÅtáËZkpA=êEC_"ĞÏ¼á'ÏÑïP¥9-ƒÅæOp^ñà‡a—¾¯,ü:³1²Ğ4E]œ‡G½9†<kt­è¸áaòï*¥øØ9Š>ÉœÊ¾œKù‰‚nˆcJƒ¾r›_?N ‚„ûLˆÆëwÄT­ÌŸ^°IÒí +72{XO¬’Äù¸Ó”+ á%±ıd9«‚Z(f}°»K}jg¸]EmÌ±a|vJ¡#×-—+CìYéª= ƒs5AùÃCúIÇÍªV¢<x°¥¹·5U³éçFá^Œ„Ê?Vdófe´>¡°§!-9Õ×mJ™Ó(P‘’ØL›šhá)ô¼ájÌ4¹ä!ÍAr¯ÿK>İc—¼ôœçì7n*XQI Vµ…;odat‘ÈàdXKç3Ì‰Ğ©ôé,ß	LM°µ³¬ôÑctJï@qi7 u‚±¸ÛÄ‘¾¨_eåüggâ`Ä‘¨j=†¶pç*šûş¬s5×U¦>C¬Ô­¿*m€ĞÔ\oo0 *…â?’B-BK2qÃ¡]Dçìí—“Ì¿nÕ]yHóÚ€š:-K¹æïoªƒBRiq¥ìƒ
+iP(S‘ø­3’÷é¸"á¼òâR[ÆDÕ3oºç¾ËF/#'ˆãgSR×¨lË‹ŸÔfß/äSg¡çi{ã½ÍZŸ¼À<›!(D‹P¢c‹—†¶…ã;ZÕgYŠ•I/#­qºŞ!¦½ß- ã–UİàÅ%ö¸¼ ØÁ#ÑÿñsÏá°Gø3Ú‹p&˜7&6ı· âmŠjˆúó÷ìS[gÀ£è…y½||†lªÊîÒæ}Šg>êøw› ·p  mQsZ{‘A.pš¤ã±]a,ğlB“î–X·JÏÈ+Rè­|b§Ÿ8·¦8†ÿ’;—îã ìÊ‰ÛäæË.Œî‚ªì B
+mş"Í–İ>ÿõdv¦À)?Ú&5&ZÎÃ?V%ú{Ğ]Ó÷·ÙŞåØ|(JrÕ—ĞÊQ÷4ÙßvI	 óÕ²ásßïoúÙ“zè†%˜cZåGúÍé	j5½Ÿº_£ægÎ„K]`œèh†ó¸z¹5İ¥0ÓeîS1%~„æúKTág w><DÒ]¦ÂšPL—1Je£ßq×YwŠ~¹C2ÁÁ/Òxù
+UŒ¥ls‚ R	h*İ±u¯ZG˜ÔŒg‘QÈ$	J‹8¼ûi Æ•\XïÖ¤‘9{p ²­ùz¹“£ö-,cıˆğrUÍ6ÃSşd4QŒÎ"Òğ/)(¦M­’Ú{)ˆˆª×pë…ğ%8Ğ|L“ÿp*:FG¨1Š|NSy£âtù„QîøŠ¨WÉO+×ÙyÆìú33ÚĞÁ÷í‚ë1—ÓšètU“ß‡Óq{±üª=úA£ßŞªv<GD[F;c0T©H/“d‹¨Èÿ>@ÅPK®Š‡²}$İ“&€á(N¦MN½L
+‘jé	‹s#ïÈ05@Œ>ì`ÂÛÌªƒ­&MÈî@À$µ×%–>(8´1ğ~AW7•CP¸A'û³½@d>ÓŠm0ˆ»Q³‰«J/Mš?—¬Úí_2½°%ÃW¯œ­
+I È2ëĞçëïa¢oâ,m¶©äå +,İE\ë”.ÕIèá¨1ŞÌA›}+IÍãi=}‹$h¸Í™ï¶áÙX ¢Ù’ùBQìÓÖ9^4	¶ånL«a3¶oRå¡ÔÊôÿï;î­Ÿ`D­1bï)‡r3yùqé|0Í:5ŠÑ72p¹. mİ4”õ)Zä‹J€ÔxA\•iıKõçj¡ÌŠû]-ñña.
+½~–™Ë:&ö¢•­öTJœ¿˜²”Ü!A¤èZ›»&%%ÄÍçVw|×°	RB/0ha6¬4›H>nÜ‹•?˜	ÀDSx‚.0¶./-O›³õÛh`‚æ–ìÅğ“WKLà¼6òo6Ù:²‚"	@°²åT9°­¦2ıúÜ¬´åë#e¥Ëö$İc½TuÏ›PÀùO[]Û2ıeè™Ung‰«ŞÍ6d„)¯Øëü BH§g©CD§áTE úMøî¾ıI1Iñ>ãQ¦İ¨Å8b«$ê
+r @3qPÚZ¹¼]Züd’J°©Ñ\¹?ft¤¢C²eÍºï ­=`BV"çJªL¸½fvyüÙ–ÅÕmn9 i8½ù]YjœÁûæú˜«—¹jƒÈ·Rïãóé¦ªXl°RÀê‘0Ü<ñ«Pà¿êÒCÌdi&Ü‚x§Š}œDp3Q7‹`Ã1Gy¤íƒË9ékÁõÚ_ï‡Â¡,‹}"ùÁrÍØQîKíÀÉô
+Ê_ìú ÌCˆÎ`"œU—çjÄ”v­
+$Ú5A/?{[-ÅO¹Æ0ŠèÉb¦qÅ(äÀ»íñÎJÙé¹Òî_•å*Á‡“òš!`  äÓá$ ê/O§ƒS…¢¾ùDÏÓHeòøŞÅIÃovÌähÕûÃcU"›iöVµ2vpŒfK;5ÂÁ†"qIŠ+O†”‡°=Z> ,–ei‰j1Æˆ]Şœ€ƒ$'±n–bùcÒbìbn¹r™õB›Ü9ñ•¼¬i»Z²Ò*Ì»2¾¹!ïÊ?ø>&÷ Td çe÷Í†p½—9ùËeĞ7áEAå.CDxõt(¹a,zõ…;¨ç²{œOü^œ\á!•övÉ¿±ó–” ä¶2åôˆş;ñµÛ4a1;P¥i}øˆOEË`Ş6£rÓ¢ˆr
+ûóF&>yÇÇî…o¿T;tEK]¢` ±Á…ss~?Ÿ2Z×ï¤ `!şiº^öëSşúFÍ`ğ4.]Úæâ~y šsnóÖ,”=ëyq8ùNnÈÅ„V+zf‰B{Ae@?µJ‹½-³8ÏÍUÜz;øÿhÊ¢{Š€4\Y%”±_ŞûBİ‹„e»‘›Ê×tÛ!Iÿ=Ò¼{ìgÛIõÚ¨óJ»×îgƒ»šV±—šÂ¤ûVä«€şú]jÕK¿Ô/Ø.Ué]ö¦gÌEœš¢„Òïnİ¬iŠz5˜û$åTu¯{ñP¬CÑxÛ¨€sìp8s)"‰ÊœôÛ–lªç+<;¡û·cÈeò‹‘ûJ=gf®ˆ”jäŠÄõÒ;Æ²¸ó%GÎQg‡W[½®¤Ã:ğ
+ZíaZ½œ¹šsæXhe~¥ÆÿÓéÕ§A—¬ÙT¶Ra±òáüJå_PÇZnFƒcœÅ'yà'E’ÀO†T*öˆÓæ˜{Pò¡™·yXÍF´m†EV)ˆæŒûêhQ7RŒ#ã6³Îxö:ìùVÛ50tµ.ù‰û«ßèĞÒ›è~ıÙ†4èC¸Ñ/ÁÃU]Ä¿Ió}Öâ¼0œ9¡iëg5ŞXN~Æ[i¥ıÙÈ’Õd·â^|#x 3¤à2•wÙ²9TîÀP|úB½è8…ê`“<•(,x	oÛ¿³‡a9h¹«~¯sŸğJa5OitÒólã#s¾ì±äÄ(ğÏ_6ÀÍÅĞøŠ?Nv“}¹Å);uÜXùï©BMUu))Ô„§Ò~°¤»m¸ªªà&t]ûÃ,ìŸÒÖæÍkJĞR÷K,1¦/Îkä<°eK%±¼g­Ã·áĞ…¸2‚ò
+œä›/¸Ó·œRHL ñaZ‹ˆdŠ¤ß*2-‰Š¨§¬™WBJCKğ¡Ëı05)(€(¯¢2ãe£NÕaÍÔ„œ:üX<@÷s.Ó›„ØŸ!+'wÚ©ÿ1ù]8U¥‘1(cö2&¤tœªyUÇ=´i/ı6fgu×#mÕ_˜šQ††¤Îq!pQÄ@Ñ™·†*ymnuâÜëô«qQÄ‚€?o5uö°]..F×+C³%¨ú½6Õ39wĞÕ;‘×›OõQÌ¨{S`	÷(ôš¾Y—´6¹ÕÌ ²lŸ…¢Í6c»©£Õ×¤=dƒÇèCq³ôÄ…˜ğIST^œ$•n¯JF=˜rÚ¶ühv«òBç°úÄj¦Ü½ÎğıŒî’6¯£Ù ¦€g‰,wÜõño>Ù&Èq
+(x´²…òê*.Ó"´mÄq6‘S¿±wLKÚßÕúq„S;¥LÊm¥îÙ{â/¿bA"} ŒãÂ
+QÈ7fBuFeè ÿ"1rs#ŸÏ:º°¨Û†fh f¥K^]«Xøm›Ş÷µo&×ô®Ép¯u)HÑKM#1nÜ… íj'ño™ª7]ÈrŠºüœº¨Õş®İíÑçÛ£ ]n/ñ®ÓCª+‡¬­÷€ŠYï«VËÇğ>½õ•«]RÁ%¼—oÿ-Vx8¸¤étÏóÔ×®`ôÜÔ¡cRùimsO˜àâ¤~Àq«£_w*nª?¯Ğv“ÄÀ.ìíZ³òìİúì¯¡A	Q®Du/‘pŒµŸ\¬9÷©ı–Ã½äm ÒPãZ‘íªƒ\Û“×ÂÊ‰òûÖ¤ĞÑv÷Ôé†*¹Ò@íC	E:5]7ÃK,HåÉx`„/M]™,s¶úóDB*!†ìùso´cËPáÇ—†y!£ gt>•ÈÂÇ©ÚO”½™ì˜˜ãÈ¢KUH+I»‚dÄÍwc£ZædÌãñp':ÙK­ø [xÉö‡mâ½«Ö†btfÄò0ÌÒçO-;BÊ¤±$ºmr¯0Wã×Ê—^7¡tƒB÷ƒê½Ò*.)#UWÓésåìëÂ(×ñÆ¢ÔÛHÎdê-Ô7¬)[ƒ“¾#z«±’RÖ	Ğ¸×cyYÌi75Üëø*×œ|ZF0s¯ÌS…Ë==Q)ÊBÁ¹T3åljÔ“rï63R[Øñÿl—¡9/û&ŞS¨—’”8éÕšc[0Ê‰«10ö|˜–zºW%8‘QÖ5åÙ§5Í`4ó“Z'&ôºa…) å/î†J9ïe?˜¶Ì
+è_ ™,"ÁuDÎ£©2f!£tDx\îü‚_O(	"Lí–üZ1?üb}<»®‹³eïHsg~¹¦_³·ÊŠJà,¢EàŠøÉëÜûÅüCÃêënì<ûNJÀÛÈsÙ‚XÅƒQöƒæRÍïÂœ½Æú luªV°{ ¤ãä.úı˜öštYöÙBŞ5¯±ÙkÄÑá/âö}ò#ş3^É™º*İ>â7‡tMĞó²¥¹Ãûr….¢˜9@¥Dií$ªiÉHº„ )â ®EF9¨Œ„ •|[¸n.3ìÁâ
+±MluÒÍ,—ÖÂşæF²nW2ÿ$šB’•ë~˜õ¥·„ÍÇ“8sººhö¬d-!ÛP‘İÂĞ!ıŸ¼ T¡	Wu–÷Eó]F•i¥kĞŠZÅ¦^ßu= ×‚ /iüfçW7T®lV'º_Ä¡[Ìœ5+˜I[éX‰¨ÜôşK×å{‘–œXöÂã}KY\ï½VĞnŸ?QÔ”6Ø«1¯‹¥¯œ8¹¢ÄÂ¯9‡ê\¤UtóÙŞ‹’ŠjûS€òE"}hhÓŞ>k´Rñşou)å†xÓD‚ç€¤0ìùyS.6M`iqïİb•\*ÒAªyCVs°¢–½i¨ôİ>ht¥fÊx®¦ò6û#^ië.%#Ë¦Ñ^¨y7Zñ°CBæy¶Ò(O>N¾âUQ³—ÔPœuŒ!•m…İ×jYSUu7ŒıışÚw'û¥¾Ÿ¨G¶9çüü“kŒOñqCÆ’"ŠœK¨MªÉB‹ ¯ÁkÃ£	«\Ë”ó’Ö¶<BÊk’`şÆVfŞ¬q<şİ½nÔ¤fôÚYº[jñµ‰œ¬–:÷PÑˆø„?’{Ç`9bÒ[Õ]OŞÔK5O41bÃ±üä†‡áa3rñ;ºÈc¾`‡m¢?$ª©"mG@õÔñm	ÉÙÕüÄ"ÖkîcŸÿŸÕ¦£rÃ3cÈnWÌtƒË§×jRšÆmMÛ¯âÔjHS±9ıvBWë½¼a¸eOäV$(sZ[è
+¤ÙK¤äfÍéÊ8Õ§¶Óq,$±Âşºe& £aê¯²áXcéYüM€Ğ®(”>Ávõi—pì¡:¶_‚×.;»uá:­iôzRî%úú¹Œ¢½näaùN>²Aè”E9<Üt¤/üáPÌ%1¢LcŠyš `©„²†ñ¬x8Ø¦¾^ˆÀmcJƒ:°H¥˜ã˜TÂ®ÉW£¸UŠ>ØHQ´ØqwQ² IpbQk„)Fh¯W¦CU*6O[6ÓrvP®ó¥ÛKn‡uÅÆ”RV4…ŒyD{š1HŠŸBß†ä¬Tü3&²¹èL‹”[ãîšA[|ÌÂäøÛ"´0<`ò×h»nn ñ“Ètt©O‡l§&¾ıd©M5˜òİ¹hö& `Ç®%KáhÑS¥MjíÜzV™Sº˜b*çS^æøŞ´%W7v›—qá9E$¾µ±‚]ûubÍâ+f…0ë˜¾R†dG~?jÛÇ®rÿ_®Zœ`¢_¨Nğ“¢iQ6'õœÊ‘ ¶£mÑ©Ş¸ÖVşcd¿²ğS‚´“×±¦¥ä#^iëöt’“¼:Nİ…2•€çâÅa‰¸±şo$~hkÇqÿNo{ˆ9u2„º¥ÕvÈÎ6ï¶Ü£ÉKi¬¶ËÒı‰P¯öOÙÙŞ‹q{y°œïgu¬êŠû…ükØè6Mİ~„¥ì/¡ÃæåŒŸ…Ä‘ù9„ü€x5ü£„Ø¾Ó¼S¾*>dÚÙG)pE…ÇdÔ±‡ZF%üW0æ†^I¡bñå+fGåº¯Ğ›½‹şääTFÕ(ªÚYlBi~ˆ¢˜@ÑµÁRaş`âw&q} HíÚ‹^ÿø‰ÀOë^k0‹ÜO¸¥ÂæfEHæƒ=/¸¹˜ò¡ğƒVR™œ{r½˜¾¤3îr2ƒGR‡"¬ğÂ‘,Å6fM³ÏPÿg“ò×tË¿ô¾Yëb•á×©ß"h ¿Ü.Å[$íSV³Ãõ©%}/ÀfVöXhĞ¡³“AöÅtúü@¹Ğo³q/ş·3ßÜe@N=şÇ3Yù|Üÿ²åº!—Õ}%ÊÙ#jàö´º’¡P¦{âxhí_äû¼´Ï‹fğ€äÇ‡™|ü@/¥ø,ÓR/ú+Üà1Ã­fqßC­ë´E©R&ú(ôõ×‹©¯ñÃ†	Qÿ€A5üGL<ö78¤DŸpÑÖ(IÛ	0Ï2uñ¥m±áT~Cš´î5$ÜğD¨u¼i8^aØõÎØ]ÌdÍ£ôÂ<ÇØÓƒaK(]¦Ñ)ia6º‘hÏ^©35ç%2EÍ­(4×ê!‚V2jÉò~yPvãÖÑÊÑJ+µÛW>‹hµsgÜÎ³WğG*õôvƒ==7®eõÎìl<­z&qKºUå0æÖİl.¸m¤šê­qDÃxÒ"açìwÂ¢m÷Ç£½îç¢Ç/wi‚¨íÜ1wH<–.Y1ò©aå[L"¨Ä'Éùu ÀÅYai	ï>Ú®& ?IiÔúKmŞ·^?å€ˆ÷ú±ÒŸ]|Kî
+»ÌÌ—Œ˜ğFó°AÃä©w±q~Ÿ*¸t—!=:¼@1¢=½%E»yYÕW×á¸Í‹ak{í“Ş²”ÛÔ¤›N\QI­¦$dFÎê —9ÀÍMØ{Œ§	r9Îû«yêŸg’	§P6'h|)"ğ¿ùĞr(’q¥ÎOI‚C	›w6|ZÈWçÈ;¢;fæ¼Y¡Ÿ_ËÌ]ÚRp	WÓ×®c"¦ŸÆR¼ƒë®V§¤,4!jÊÔ‹Ë
+	§§ ƒÛéV¶ø½ùŠšçä×¤Š ³o!£r4zˆsQtLÊ'U€Îª`¶ßƒUIw¬ÚÿëDMpµÒs<ª÷wDDi’©o÷Óïè1éÔlõçw=‹¹Tä=Ÿ¯ŞfS$"¡ÿÍê
+-×t·÷4PPkuQúÛh`ƒ„şÛ‡EG€Ê09ñ›ò„7nVPMQ—°İ´Ëè(fn²Ôâ³ü¤æäø9Ûâ}älıp›8ëOqESªÓÎ¨LmB‹S¢,»%z× #—Ÿwò«÷í>àÈ”ºâæZ&‘¶Ik@ı¿ylù°ã3r1>U=&×™;.šT8V™Q«™({ì|ÓË.ï()w@?ò5-ËæØĞ1ïä,íuÂ}Óü|à>¿ş©|ËUêèYÛ¾‡¬,øUË­W{râBÖ)˜~Á{ã¢şL'9­…V?ã	æ-ãL¥‡/9‹|ÄvÄèğ#H€êägèüÓ„DÛC*ÜĞëĞ–g`÷tÿAÌU2N°Ş"/w8èúúÔ(’r@Á'fĞ™SÑÑ]äGè÷eÈ»““b¶d£_©ÓToŞ²óFóûÏ‘*.ÛkBÓ‚›İx——yÈ¨ÍrÓFgìªr‡0Ù\‰µ.[÷Äı3=é.l.s'ÌwY¥?]3¢ ×&Jºƒ¼k®^ˆ”!«…ACƒë¢¨¡‡]Â¥~™\©_dyíÇ¡ş¬ü;iÏdÜ2{Â³YoèÜPÍ–ÄÅæ4²é:ñÿjCÿ ©’h¶¹n²k·äü$9™²×ëàß+mç•Y)½æ$BKìjQŠ+:RúL9.¾'G€Êû’nŞ®Dyş‘nšoö¥MÑ´R0¢›ØÂ~¨¶^°Ed…ê Ã™ƒŸâk7ÁK ,¶¾€ßyF¢L€[<¨QWÊr7P;%ö¢Şè‰Kû`àû?U$Ti6®Ò8Pä¦õ¢¦£([pİjßrš£ÆÎf2±P65`ŸXßz(õ¸ÿ¬kõÕ“³Fa|Éwã„<ƒ¨ƒx|ÉtOJÈâæ!r*›çï#LrnÔÔ;{ßBÀNøÊò“p"QÀƒ)ØYèYj-}ÔpåC­¥VW=÷¯Œ5Ndn\z­Ÿ5nÔ4Âúë‘ÍV•š#Hñå‹œÑÅúà5À&ƒ5³x»Ÿ˜¯ñ’(ò£·ğæ#z(/–ïËç¢Â.k£xÛ'˜İ¸Ôÿ¹ŞÑÄ> œÿÏsÃƒçAÓ¾CÎ5OÅÍÛ_{Ì$e¹rq„&((t~ºähi½Ÿí×vb×&……ÍçºÁ)µ²¸öG]Hzøoñ¢6'‚ÒšÓQ£P×›+À¶}ÿÄ«[ôÖsëüŸ¦VÄŒ œá	L/_{`‹ûøkyŞ¦Âú©Êç¹t£~·T~Âa;´@·ñJ_j4C'òÎk‡rñ	5êÔæÂe½¨ê z“§÷ï7·´zcîÑ;µÚA ¸è¯Ø°e4- hÓ(gt.ü½›{ßj^œ/IX˜‘Svæğˆ`Ò¬¤L~¸-ÎÉãÅ¶")D±[ÇÉm¹!Ö‚bû%óQ˜¶İä»Õ×T7‹ÕAW0°ñpµ†“Æ·¹U‚{¿ÍíAı@_–¸ÄyÚ3Ù¶¥¦<2»‚—éx“Ò`‰”™ƒK¢÷g¯z>¬Y8×à¾+¡õ·z/ª@eÃ¤óCÁ0†°`(Ss´0\ÏxûSpQQ°#©“'ÄÕRÊ²qDcvX©ğrşİ¡/=]wÈÈ[™¸H¶¶<l*¹1·‚—è$Tq6ğ2lš‚˜$è©`®S¡ÜÉ‹°èb(CÉ´M†IëÚ·‰ğšĞ¶øU{
+W8Ó”+üÙTTş2¿qÊñ¾t§Şíaày6Z8¡µØO<¼¨@iPÊé[g‹c!åf÷[SZ 
+ÖC‚A ½.8ë¼:mĞÒŠ¯3XÎ¯CÅRØ*_bàJ÷YµÚ~zND+rÙcsÕ}^´Ş¡’^¿Nå"A`·´â£9†O
+üÔ„cäÖ(·æE!\pCôEó„·ïV=•8.On=ĞhããîÌ_6kÒë0Ë]æàP–æZ4uõ(±İûh<¨BG7´óåtNvcƒ¶öNäU”*.…»rR^MIpZ1Ğî¸PËJâH&3ĞŸ¯M¬˜$0_”Yü²‡c>X¹¢J"ìà!¿×áØ–V¦tíw(ò‘+ñG*¢º›6øÌÙJä¯ş7_ph„ò7ú¸ù¤k„É)¦*
+¬Ô,<»w÷hIŒD8œY<†íÒOiÒ¥®œñÂ³nZÁá²°şÏæ0L/Æû1ãÜ.¼³M³Ê€3BNA’PÑ>.nUfC	œK¸D³½¤/$U‰j¸)¡DªL;¯Ì¶gÙi.!ØANñş²º„Â-’¢ï¥y•*Éf)¹õ”¤yì¢~#¥ß­«A~Í=JFÉÁô©àúƒº-ÓœJoªb´Â&A%@Pü\#›.~8'9f]?ÇñÛ{)äågú4øqröÁPôiäq“9à»¾sy­Î}Û>¯Ğ¿á†`Ù>gY¬­#<	Zßº¼bêûk½.™.VH&Zi¸Aìe7Dæ}\ÜIXFgÄS7tÁáËk:ôîª|SÚJ`ù ö´PÕq‹`!FúK=ÂH`o ^ç¾	á¸ë€A#±<qNG›Ó»½8ÒV!–Y4û•ºWİÓ2Çt™Î)Á>ıëÑ48¦÷ÙzÏ”yÜåÙ²•#S¬°ø©´b‚Â¬z8Lœ1Ÿü¢.µ% 6OˆÏ¢{a÷<w3”78şL'—häàF®ÆıúğÏ×Có9…¥wòğ@Éş4A­ú^N›ßÓÎ%;Ø¶¼`)©Îæl‹ÄM'oe%:ï q/oüTİ‰×)¨ Ã_/«ü;fé¢3 Ê‚ß‹BÕ	†Ìğ(X|“œèûÊNø‘viL4zÍ¡{‘ÅQ‹~ß‰s¡YËÙ:í~äRn›öĞIõ‡,>ÉôH°–wÅn%'–Ïì@d N¸‡ĞXR…«Ig}$Zmï¥Ÿ$½Q»®ö:™¦'ù1†#—l,Ô/ß<úİJ„¶˜šô“Àê2 ÿ&Élá{Ã³³h¸ñ±+d,·º‘ı:ZIJ´™j??¥N@<ÂÎ*¤„[\æ2ş/|U×Õ[iåú=g´ø<@¯â–£…*¦‹Å™_?âIÀŞ#häQM/Áâ%ëpc ‚ÒÚã°{á^YÎÇ^sêX¡3jğdİ{ZÅ 7ãù‡s“Kì<Ë%`?:”ŒD@Ÿ/I<©„î¡Á¿|Ù½–Ô†øÇeŒä]ÉÚèKì©›8·˜Í5ºª ,º.êw1O;ÊwL™¶=bM”
+p1O¸EW``æÅy¶©ÄúæùıÅÁdÍÿöR,)2˜NHõoÄĞdÀ>L+h­\ŞˆÒëv£	 lwOğàaî¾ìúĞÇ©„yF—$§yç§_ï´„şeê`iâ2áÔÇÓØ£m¡nğÖ–à}GĞ‚ü“J‡µÌ?2ª@š(6œÖËÇ¨||p'aà¢¶â…Û]ÂÊ­ê“w*dúì?Ö½¸ÎÉ·eºÔß[ÌN›
+‚4Úìã±Ó{o]?H,8{‹;ùÍxÂnšUcÖUô~f·/\ûN^¶Ìx®W ”Fî…(<Wœ •—,ì‚'.&Kej{3\V&ªxjê'°¬*/ªl“Š´(Eaæ¶OÒòr"gH?Q4Hƒ…@Ìÿ¾%š½|!ë—"9LO`ÈØCmOŠîp¶XÅPOÏñ/3•q†ıÒt#íãĞpO»yto'¼ÎÇÌ:yœê
+"½ƒ^=™@]ÖAVqyµ2'B¬S.5dJ$y@øî
+›Ş@Æ£X_·{h^ò®@Q_??#ûU·kUâ(ÎÖób®ÒŠ>Æì!1LB+	±V\Û÷âó+"FºCFæ´uRã{!(tn®·HİN×”{óXû¨z¶ıà–=½m÷ÈCõŒ]• 4ñè¤e.Ş
+|üÃ€ _ôj³O?¸•ÍôVä … \Ş9Ü‡³V9äÊ¢ı¼q2‹.ˆ|©™²l^ó*MÄ%™¦ZZCÁn~;(‹£§ï:1B.<^Â¸Î“÷/wø@å¹lÊÍ˜5‡ÒçfY‰NÃì…vœ*ôhá_$*>€&ªXÎÏÊœB$BÏ'‰[ï™ºäğĞv¡fšİĞ<°¢á4¨èzöê7¼Á?\ÀÒ(CU>±ucM;x;¾\E4Bœ	ƒ?ÉñØ²°ĞM¤zÿÛ8})SÉàÔ”ê…\ÿY’s¬aŞ‚ÌVç<Âu|Ë}¸B§Óİ‹›"rAÂSµìŠòGê0óì&ßğq\è†=öwcDY¶lã€€üëf˜;;!úãı;o½Ò1{ut´¸ğ{(ŒÚÈÉ@¼A€9ïpŸZ<4òúĞxÏq<=‰XÜ†¥§*|¤ç”:€w2ê¨Ò^™Ï9` ¾j¯BXŸÖ¦vŞZv€Ãµ#È:dÎÉ\‘ış G+ôúÜ—@\jÎI¸Õ§|*n3Ë7™á˜XÏ†¹+‚(V«Tï®în­£Òçj~ÃqŠ¶²à…—â’ğÅ¹tĞ1w(N|šoLiËbxaj ~”—FQõ8öOã±(«>ˆh×û'4+®ë"0·^îïd„‘‘N>á¬µ¿`¡(¢M‡9>¸rÔ±S§¼ûé8uı(#£–¨C?üâf=SÜÍñV
+ÿ&è¾à¡‘ ÿ·Pt8v”Ød¯…™ˆ¡)ùœ’”Ğÿ^úrä
+‰	·z!¬jö!Lyî‚…éÓ‹
+*ª¦mİâF/-Ì Ëi„{Üš©á&¢b/–¡6×ÂÈB´.\KTÛí CùfyXÃ'vUoÎ±ÑLbcØlëñ'•ÂŒÂ! ‹”İWªÈÆyJ`)•[.Œ1Œ>ØPü-ZVÁ³Í%ÒËTj‹Ÿ©äiöïÅIzjqğ–»Z¢7³ŸYÅÕMï}·¤ìKÎFÇ09ÀEÆ7.r]Åı ê
+ŠYT†¶0ƒP@®³´ò•.¥æj=eA`10:ºLş‚ˆ„¢/À»)q× ©Ü¿aü"õÕÚĞØxÂpåî~‡8TP£~º9L–lAšï…€"şMñÂÔ+*³bïW}<!%„@¾ĞÈŠ‰4&FdŸ©Ş»‘fVÇÇ£‰}ŞÑ3;i1ªĞD¯ï-	é)WÇ`]v«Áü@aİÜ¤ßOSÕ«G9DÊÿíIJñ3ÒÒwXØ-AÚsxKÁ«üBê=d-ĞSŒ]Œ\íùEÅ˜Ä±FyK¢ ßÅX&-¿lOÊ•T5"ÆE>&uüsêCâf°ÄmE´<«=°
+ÜÃÀŞœih®8ôÿóÜ§·´!´Zï™pÖ¶w´Ş”~.w<Öòµí/˜¯B
+2ç:×Ç‚(ÖÓøv5±#Ì¸çÿ¤ún[ v'À}¡¤º²R¬ˆ×å™7Ş©Áê¤’;á¼§‹×pmhòîè¥¤šŒ¬±Ä…™ø•@¬vªdVjÕQºmÅæ o3™XT¤Œ4óĞ"Oº2ÕùZŒ›Ï«¹[ö:ß7|M•‰¢pºÑ¢ ÓÉbúàÀ›ä§q7lúaM‹"®u§¥ÂØ£ü÷mœ€¤Zû……ÿÄÛ)ÿÜ/zâœ:ıÚÅÌ)(Ë‰g™_•ÅPÒÓzÜF>.åO´S
+3G~J~H©¥²Œu¡Ğı%ÒËœ”€'ƒ±Ø‡Õ,s?’‡¶úHß0§7s¼5ı¤uD›R¦rMŸ²çÂVÅ-Ñ™âÄ÷Tdõ²F?ÀçL!˜áæËBnbıÖ%8Â³’íp%`óoEµh’eÂ¤Q¶¾"8fè f»ıoı5>&¡½ 96ñí³íñ×]JÉ®åXWÀ ‘³Ã	æ/¯ «IDv4ÁİX1,Möw@Sà¾=é·Y\e#-¥¶Ÿµ7gsk·4¸Ü-!+±m>^x$dWZÚÉ=:ek80ğÔb²§â`(#*ƒj˜Ù'×ã_º?8ºã²üÆè,,Âl¶¾ØJ
+âh˜@v.”Å”È¬«#(Şö´äÇut¥TìÁ¢Á’[Jõóƒœt~Ò–{™‡Ì¼^Ğ"³{	Ä§dñ {@É6~í“D€÷Ã£ddç2ªç*ù6Kd‘×].(evÆ”\}}#ÊømÓœ-Ğp86]švÆ0\ÚTÕ¨;{ÿıQ¿vÑ~q™RŠ¡:îEĞ±$
+J½#;\I0ÿ‡YĞ&›×pIë¯(#xËr¼ñØ®™[öcåùgNùîD ÷ŞĞ5„?ÀÚdnríér)«µCp_u³ŒõÛë*ß‰z‘’FÓmo:ûÿ¾Zd¢[éËå Á½,C¢¥ÑûåöL˜›µ×b\¬Ó¹Îä^F’!~9ñ&äş ×—®­rl	Ï~v½}bä¿#“&	k ·ÎÙç!ìXwşãuûÏ2éu˜'N‚jÉÒÑŒb²Ş„P|›6&¸Mn[kh| Ï££/µ)šeğÉÌÊa`•İ‹ä˜ó¨ä¼˜¾œ‡xPÅ—/"aÏjIFiµ¥÷?´1-h
+"Ì[m¾a9ó-kÎ	4#h649pæg$pğ¸†Ë¬ôD²`N:êH¸q|%TŒtŞvŞòcmùdhÚ?|P}÷„õ”ï'æíœ#EÓ^c0ÌmY÷Â½—N…-f6mšL
+#š³ÎJá _ãšşŒIw*ëã«¯«pãÊ>~lÄ”É2½?8Z¥‡›9YğI²€±åsxø!€å¤ŞÉ9\¯ìyµj¥Øn[¸F…şsû×=¢äL»F7Ïóï â¤Ö´q¹®D–J"m	à ÅÎÎ¾JnVÊª|ÈÄïOtıví$ÕU­aäiJèºÄi3çDôúÀ­ô[é°8{šÖüu³PÀš)sµ¾KgTØ£Ì) ©òîh±Šóƒª{4AV#B`½6`Í:åaìÓ§GØ{-È2êx"¯3ì`…3Y‹¿Tìš:6S|ıaW-ÓTÚ[=ŸÙ“ÍòNÂñ/#ï°¦¡£À(÷>›×SsfOì‚èj7ÜÊVşÍY†r<ó$b¸UÏ¯oãiĞsÄV'ğls…bë¡c§ŠdÉ}Ãz`¤\²ÿÄÙ[Öwu±‚¾ 
+‘_5…ËşÒq±8'ÂéÑ sQByüã¯;$½mû!»êÖ71[–ß©ajÎeî}¤åñhOr2¥`zcm`4¢C3Èjá‚ÌøËöF)·'¦Çë}b½÷“`º¼[SÊ´±¯c€Ú²oõEjAŠ)T´a3¿¦3*½İEo¾ñù|-švŒn›‰S¼6©*„pÈHjjÅÛ@…Ckn º˜õ§bÙ=æ`cô:=0wı‘'Ñ”BøLÔĞ=!ñäú‹ãh$ŠrWú¹¥šğM%n³1ÒÆRĞÉD˜ÜJöu®<ee’Û¸‘;•_.ùÉ2mm%Fë‡ºÜ2Ó ¹@ÉöZ¢$¼/g tçlc}¢Ö*]”fŞ,Y¿P°kW¬7öĞ-¾{IKïMòbç)	Œl¤HcGæ¢Jºë»˜*0ô÷	Z­7n¨T¡f/î¹I œ78ï°TŠüêÔŸÛ,•iÓRõ˜­‰Ü÷}H@8¹ESÖi5JÛË-e‘Ùóg0M2Ù9³j›>B:œÉm\…:Dñ¸˜±2Ã‰¢±f‰=,]J¿Åx-Uâ|âxEpÌ*cu2ˆ!„îût[…ˆInÁCÜ_%C;ë6_Ê³ªyÎÄJL'—Sğù(qyÑ˜”ä=‡jÈ½z]šj¦ls®çøŸ:äLÓÿ®p~V`9f$s»êÓ¤VaÆIùœñÄÙ›NğŒré±øFãhŸi*$ ¿ˆîb°÷|Ü±9£\z\íÓ†˜¤´WIú#{ÍóAíRm—Ô©~š[ÑÙĞ>”ôĞlSx«¥aìRóGË*g­Ôxª_GÖøR½êIºĞA¥OI¸;¶¯¥»Ó‹XªøŸ’ÿÃqÒ*fÏ·-‰òÆ*T	íÀ ;·ÅöMã"%^AíÍUî±zXˆu‘qzyğ3~¹áD|*„lwÔ^«!E‡*	‰s.IÊÛç”Ä€`ÇCR	™÷Érx:ü­Ş¦¨ƒ€¤ˆ)}7ØÅÈ¹5a™\x%ÊFÑ¿Ó‚ÍwÜÖ”ÌgËÎyÈ¶|Ú±Âva«ûPåjË
+HÆÇ¶SâBlá,Åøu >0O(ßYÕ¸Ä0ºÓÉ‰k·n}“¡FiÌG+iëkĞİ<™ØÑ~ 
+%­‚ÖĞ§où0ìÍ*?†? êç@7ä¹õ¶É2óu~µS{ë¢•§
+Ù—{-óŸ~3KV›&bHˆgÈ‚là@`°aWŠÃÅô¯PĞQs¦k4óïÎ1Á…Í?-è–¬hºÏ‡µ3ÏS8àµ©\f'Û˜¤oôDUó{ùËô¥£šßm2Ğ¼‰	Qtõ|Fo}Â?ÌÒ<×ºák!‰“S²¯;äGÔ‡£™õkivÄ[ÿìo#»¾ùMWŒ
+; j‰B™?—ª‡ eœ¡ÔbÑÁ‰ÁBI™6>Æ*Á–°÷Åñó{PÁbl¯kÂ@µ	övo£ÚúÉpÌ¬bªišÒÂ´`|}[enĞ‡ø–bvÂuö²¸}zw­l²>@0
+…Ôè"q­Ç\ª½¦„ÿs7uPíæk0½RoíUpé=£Ó–÷ÂÕ5ïªç•Å@#9+:Ø@(_¿…‘…+<s<?Á²|q5¥=~g’Ïo¹cÊR»£–Y´"cdŠ`€‹Q0wq‚QÌ?E½ÊŠËROw$1†N’íÊGá²NRò¾¬”… _‡VõHŞÌõfõ’ìŞ™èVW”é ÒiÍ%ªl  Ì¬&ÛÂƒ™µìŠsŒ5±TMæt¦lGjÂ—BŞy¦M­™˜ñ5§÷´Ic¢¬(”‘(Ú6ÍÅIŞâ9Qba›T®®M¤ZÜT1•»9Á®åUmJO¦S°Ÿ±çŒIÏ@ÈòÈşx|Lõ¹wä¢ï4	V…ÿÕœ›õ®E-xƒˆ têûT\Sug:šÏÖ‘}Şêûäz7¹4ì˜ä#‚pK›[•õù™KúûV ¬»RC£Mk¯
+¸D<%åõL—í²o0|-ÀØ@>tVPV‡?ú2ß;ÿU³)ÇZká¡‹Äø “°¶¾Ìö|¡EŞ’œÉ»œ+u$ÀÛÎ'08v=1(¥Æïy¸uØ#Ò ØÜvŠXbØùmêGô1CKÔ¨ÍØCì†nñ»RØ¿œa@Z¾K6P=U{F&êÛ¤?ÊÎ(u£%x‰g§Ê‘ôp ²åTŒ~á¡ŒW£!vnjÀÓw‚Ã6«×Ih‚Ë?O¨÷²hõä`»‰‘¡ß…í]¥“­@‚Zúqi¹1<èQàKyïow ÄÂ³¢Ç¼yíå(Z¿Øà{•ôÌèİnWûûİZiUA±¬9"jöY&êÿÒS—Ó<Ãÿ•Âıƒ¹¡°ğŒ¸oùÜ‰¡Ham'
+›”~a)º„¢{EÀ¼WâìI°Î	Lâ¬O¯¬İ)u¬­“6ÌE_Â
+öˆ¨‰Q áx*ş³€¢ Ş0ñ¿"|ë¼Ø"èi†B…çUÍÀc¬ÙÙ‘´¥¶N ã®UúKkÖgåjãœq_Ë~¡ïdDço§›¼rÆº@µÈˆ–Ígm –†u=$#æ¶ªéÔgâ!Ê›ífDi*Ê5A¤¬³øcBh8ÉË¶¶V¦“1øe3‘z˜±sàkz/ä¸Àk{sµõKJ]éÖ’Jà³Yûz4Ş“úAá¬•RW<]³?Ñ%;E4øşœQV b"üOè~åßkã‚ê±¢‹ ’&zÃÙ‰¨BGt¡gJ!Om	ÅÒv;n”í˜l_|ªò€–†_·ˆ™Ó>'£
+B4Ö×·è«ÜDh±òÂt¥Â;	³*ğp·8Ÿ,l·”»+HTùö€ÍŸÖ_DøˆW?€èÓâ¦èãÍo=!$ÜÈ^bVDÿ„œ!Aß?f50ç]ÊÓ„âYxEuÊÛˆ0#
+ğæMüp~Ğm“–+Œvh0$ccâIåÉDhx™i0„‚ú­Ş¹°ı}¡÷µ›íS_3R 3F7Š|T:?¯Î4vŞÿ²c,Hç½k’‹9|Ò¡¶İ‘ÄÿN;S~QBu—'yÆ'Nà§(I|GXç(Ï2]‚ÚÅë!:ğ©jŞ÷=ĞË7¡ÂA»kºk»ÿAè&1Q\c³£˜iºõf™qxï·ZÏ%µÅ\Ã4k‘ıx§Yt‘‘1ùÍyŒ|©¼­Ô×æ÷rmy~³³Ü-®`v2DHr×CÇñ³)ÈøİúiõéKĞ¤qºuhseS²‹xØ©âÙd™mòø” „¥Q+Á¬ªQ ?¹Â¬{·y¬fb„4¯?û›´Â£,5öíl%Ã3x_vØ9 Ïœ³gwÔC5½áĞÑ$E?Ú²)¾‰J‘Á$8=b4É\(Õ–rš·§Œã1ş°Ñæ¢İ/·“‹vx48úÁĞ›ì5ı˜_ÿE£ƒG5jíİ‘Mû©âa$n½ô*'-æZÏ™OÈ¡_³G"kŒ´ÄÔE‰Sç!g>ışrÙÅğ»Ùn­°·Â<J-`¡8ÆX8	¼’u&­¾gJQú?A¥ºŸ¤œØ†OO­A?Ó6 HÚ„µa!ı<Tj4Ûøy}/ÌÇ,¨)ê£A8²Û|¾‚ >x5}ÛÙÅ1mfFhÍ(çôøv†H$&4klEñYÅ	T$©ÍÌcëkŸ’K¦Q´~èì÷…£ã'ÄZÉkä£¢G*S_Jg³¾AçEÇÏ±@	°Vu×HÈ­8Æ4µpF$LÛ¶ÄƒEj<Ë+Õn½$ì/–CMg<™×S¼ûR­z¬¥5B“Æ~L"ÅuæçaªfIbj;
+:y!HË­—'+W¶M=eı¨¨.ò2;µr P.ÑJOK‚£x %d–TÂşÕ‰ñ…¯\/·/ÛiÈVI0.ÃMó'ƒKh$Ât“HØfµNÖ³İ Us©!BÄ¯à7îÌ§Ğóö»¤¶¹
+r¿¤X^eãw××.—¥{íø6tßIª	²¶ô®Ûç¼kÄÕîh¬¯ªé”ğñª¼‚¥ÿ€9 ğ$Ïá§E¸"&ºÖ¡nş³Ï¼³ƒAÁÀÅG|™èíZwQ]‡…œVşûÉtäš:JvX&»U#Ü\¤ÌİÊíÍ‡u¦ÛjÓœé;|›TÔ†ôìÁ˜Í˜sa¹j¹}Lßå"OÁŒ¶º¶`h®Š4¦Vû‰ŒÑ=„¼¦ş4¹`Ğ‡%æ¯»rq`e– ëF¼õ#œ; DñÅD|TI°şÖØ`„·úi¿ôSù¾#°ö{mv5ËÓ=®Æåh6njö=$ä¡Æùÿ­YOB7—ûÅ}şU ¯äã@[äÖªÖé$¡¨ûâ§¥ÖüÒ,…	%¨³GzU¹ 4R‹cÈŠ±Ááò`ŠBñe\¬€
+ÚÚ¯á SÿøSÍbAg¸i)Ø£İmr“™sT‚’QÂX½Síñ	x(ìL·+¯E¡İº®ÅTÙŞ'Ÿ{—7ßsâ“ÌX’+ 6±,PÕüZ±S*ÆÍ^/›oğÿû| -gQ$¯"gV9­òU_Ê$fÖ,Â?‚yˆFYr8wtV.GÒ¿ë²,Øˆ+….¾ué©i'Ô‹PÊ’·ÄÓæ¨ÏõiÖ
+?Ìr±Şˆ.¡k¡ŠYID\»Ğ’Úü¤m9Y)†Yˆ7¤4†kÏßCáMĞÕ¼Nÿv~V®-©ù2·(P1},HÌÕXâ)ÈªÕ¡Ã"}jrsÖQ6²¢U>Äí-¬_8ÛÛÁó¾QÅí8mÄË,½xü×0ZÙ]yjƒéûS1Ëˆ¾N¬~ÆS
+‡ş‰'~Š¬ãLÀ6"ÏØ¸ø7Y¬ŸîààU/Mx
+ôÌY‰±2 Ê$á˜) p’}=bEÃ}İy0­R—_„IpÉW…Ôb^Éæi.2¬û¾d£îj!F-µ+yÎEÃ\é ªµºïË®†$No^]×‡0 Å®ì™ûRäEYc8à§¡vÜ®yæ˜ÿ}E#c—':­0KÄ‘Š/8a%¹oœ\òã÷üE,.FĞÏEgiìO"²Ş“6EmAJV«Í}Ôğ'Z·XkUåsŸÙü$ü`ZºTĞŠ8|ßªË~aDÑ«PXù9¡…-æ:§¦WXW¼¸P$ÿ kòÉqtl”¬áB>—q-T•ˆ%ŒüÑAÓdÄŒ[¨¬¹aÿétnÒŒ@ÕÃTQ›pEö°XTåCpô$½µKtu« WİdU°¼+& ÃÚ— 4å
+dÇ‘"ãÓÅ©-?óä Gş«7ÏôHøå=«ì?¸]/é“?ç°1^^½ ÛIõçÃêLK¨YöFI:FJ9¨§^f@Wm®ù¸¢/}Ñü×rù8´,lºåP•[ÖùF.Ì•¿j­¨%ŸH.ñ„p9%;rÃy ğQ•ı°ûŸå«'% ôõy:Ë'÷uº[>ˆ_–½|Òz‚1Kt¨|4H˜È*~VRf®–ìFÈXi"ÃÊÆ!ö¯Á 2×rx­>f‹ß¦Ïte}ÿ,Õa:ÓÛpNoº$Š€ã“—OU_D±ëı\x»‚¿Ö¼Ådí¾A„ÕôWÄ"cÍÛ@ìWV£¼ç1bTks?*œÅ[Nl‘.Rt¶±>¹ÅŒõfs–ü„ˆW^ÊØ't¹ç­4PîC,ŸU‘rˆaæRÜ0Wì¾ÌÖø®Ñ¢¡«(°oĞ˜'òãöñ}Ï;…,§•§¯ÏçéV,è™ÿ®8ápµX³®©£dÂvCı¤-o¿gW#«31ó:#ø%’œ“|Æ?[vQyô\C·ş$Iş‰‰ê·cçK¡%
+T5;§ú·†/›=‰¥ğ*ÆåG$ˆº‹©}¶÷ßÌ_ª±Çnê±<Ô×7JKÚëÑ¥/vÏBAÄ«š„Äo¯Å‚ë<äÌŸ"]H¤®m“ÊE¥æšU©íGwmçé<zÓ©­k_®%*‚*Å¥ò"CÜ¹²B;Ÿú³ú 1Zİé¶NYï$ÌOŞúÉ\¸Â
+fA÷­¦ö¥/„M?ïr”ú$‡ÄƒDJIâª}´J¡Ş>Ú*êÉıŒ¼2¶d4İ3XFÏWa±ÂÛ%ñwBiïcŸ©Ò»ÀCTfFâ[Ã]İwĞ©Òîk«°+Nµ,H ˆSòúÜˆ´.œíjŞÚ]Äõ§bæÒ'9ú_¸%ÆM „—³¾TôÄ“^ÊßGøP…6Éø}Ju‡»2ìuÊ6y®›…Ÿ;„7^(5Ùl@
+y]ûc+È&Ën«:@¸‡üñõ¦’aœ<>¼¸jê³'L¬‘²âº’¿›€kÂÙ•Ê-/–á>:É#Í/÷¡¶«Ó@uÊ)y„_«Ìü%„ ªÄ¢ÖÇ3qº¬àZîµ†‚÷NÁí¯s‘hd£¢ƒşK°»Éú#Q¼öŒ/·Yâúx‰)gÏ3Wú1„˜,ğ¿(ìÜƒï¢™‰no1±Ø)¬œ‰Iq	*­@¢İp>ò99	!Ä•ƒÜlMà…åÒ™{cAhx<|MD+³­“ôNb\¡±‰¤8O,^w´~qŒ’Š÷İTDÎ4µÂÉ‡áTÍm’·Ú}×¹:×ÍÈÔW¶ËŞİ=v^òH:òsii«¹¸F?zÙÌŒo•hÃ+…ä÷ñ32N‘{ùÙ?à‹p&
+©'Láş€OBkğp~Ë¹ıÇ}ûğï¬øûÜÎµ
+ı×vG3v^è(Ò0æ@\SÅKîÛºv‡GéPŸ‡ju5Öò«œ(
+,ô®ëôg`e.Àìş%6%…ˆ+s…¨eSÕro_ĞöUŸ:ªÒE‹¢@/–ûKÕ){äšŠõÿ8Ê–µ­Ä¬Ê~HTÒdD…p£ >@àû.Fø‰ìTÙ@½¼ş¸·	'íŒá^¬—îºÌô„õº+Ì³Ó4{rV~Œ¿éª“sçR3y[®³zÊÜ?$×^6¦:%Çl¸D-åzş×†ëKeà2BÜ.R[ßùˆÒy(ûÿ‘I
+&i|°ù†©¡“¯»KqŸL?ıZ­—Q5ä¡Ÿû„X·´|œHİª«ÑzñŒ(KÇÂƒşa ¹¼¦æ±6y¨\µ®D3¯|W $v7èÿ–´i1ÕCÓiF§'æ¬FÄ‡Îœ­d‚ü‚Æó‹ĞNK‘uz•\  fgì£hX:ŠS<VÌí5ˆ!ñÜ9‹§ËÄO(ëïn)Ş{3†&U¿1_	ÃyÈ§RL ¤Âà¦ˆûÆNÁ2Ä#ËÅâ÷CIârR·M£Ği†êOÈVDì‡úÑÍÿ~a34Aª“¢şá»¿•ô‹+ÎK yfÃD<(Ù Ë¢ZìjÌ½¹7Œ ¨ç»Ÿš¶×wÄø[Îq£ßZ€æoõÛØoÌ]2,µ³ûª'şä¤Zƒ6Eâ~ıUÁ‹Aª¶g®-è8e¬nóp®å³®I15˜’xJaW‹ı‰õÀ“s5yÚJÜ5¹û0ã›}™*Ñøá¤`º41LX0‹õ¦R_&èÓt€R¬ÒïœEê|‚åVï8Çì<zÙ”4¾h·±½¦µ±ÁßŞFÜ&ÊoÖê‚Ú±ÒYFˆ RÕÒ Cé'¶TmØõ…BœÅÊQÅx:jÓŒ€§	rÅâû«%€™É9<c²™•e	rv£j—€"h·zKe¥8Õsc¼›Ö¬«§”l©ÆQÌrBêXşp•Ø€O¬J+ïÄâ–}höò¹Lâr)[fŒµ|J&Ğê›Ëø—:7\^:=P“.-0ár„ò7•Ğ_Qœk%®ÆçPÙMéÔ‘›D+„+C¡~	ØæÌoM‹¥Ü$ÀPûç?0óª¸É¸‚”@lˆİö‚=í’©‹š5|›í¹=#/òŞû›4PŞƒB¦vc>ã#Y‡YØGè\˜ÔõòQ„5f¨ZÁ	‘ÆÏá¸÷–ÅÒm¶±V}è²û«‡_t€czrC©Ñò¡ÎÈO^hßIÍ`.<£â#×ruÏo½sršÌAñw(KÇ¢sğ]ƒ]}x¥şR‹*Èö¦yzjW24ôfGC|Y;÷j¯w7¤ˆËúYİâüay`Èí¬…†Cøü'ı®ãóæ“¬)àS_ãé¬OP¿[ÿfyw<¹´K¢
+ã’·¯¦k†«{ùRÈÚ·g˜•İÎ/wÍŠß·‹Ap•aı†‰fÁ[qŒ1-œ„“ºMIøQg`dÿóÜ8
+¥)[g}T×Á-‰WxÂ^L µ!F"†È¡ê )›l{RÜ´@ã$CN`-{½0
+¢• lÜò®~1kÕR‹¡SÏòH³IBì?l³½³áåòµœ
+Ï‡ÌHõï İÊÉØ³ª¾”è¬^DàeÆÓzËTâ{±«ÏÑQC@µ¹‰ë=·L”fwÅ¯ü+æŒq›OùÆóQ˜!G ÕCØsb–.¢r×°—õM»/bOÜ~r):,¯êĞê»+ä·Ê¬}çĞQƒ<µ^¶wœyÂ—4à”zË÷rfÎçÛÚºh©<Wø§tœ¸À6GÂÖ˜Y•î
+àÏÌ;‰\æªo	ù6Æ¡»Ço¡‘\YÄíİ¤}¢é,Ã-£Á£32µ}6¸]áÛÒEÙÜËhƒÉÊÑsWO*—‡ÕÕU+§Çn¾|¸S‹åşµæöò­ÈXÊ/706‡wÂüâƒÙ×½Ö0`ıÀ¬ä@ønõªÌŒ CÖöVo2¿,x*††,F=¢îÓ×>¥Uk½‹ÍWT
+4jSm¸$°+ái½0-és’Ššû†Ğã9Ìå8Û”¤¾×ua•õ“4ŞnŞ’›LºÔ‹ŒöJ¡Š¤àÜ·‰¥Û»TRÁ¥2,Û;ùXÈB D{×¨Íjí„±¥Ö6Î:Çqii‹¸¾½Œœ´çdõ=–*Òª«/#ı„nVy]¸ŞçM\|¾LÙ»ıGÉ¸&L)qßëC@C£ÎUÖçLNF&~‘—*6–ğr?Ä´Ï·†]/1ìVğ‘hôÀ±ÓîMèMãºXD’OµGSxê —Šl7ON@^.ıhĞÎúé0Ø|lCUdq\ èe‹ÜJªz¦¨3{o‰Qüòpü)`O›s—İ'9Ólµ¦†,­¡]Œp¸£ö¶N¢Ìl+Š§ÿ@Ø‚É†(Ó@cò‰M“Vñ…l÷@p¯•=¨À7Xûn™S7wB¸'¶»›˜Æ0Aå¥÷£Á@3Ÿ1ş"SÁşØ*¡"÷64]£<_Å¢ÒÔQN3[îJ/Ğ¾Ü…ıÙàyùz‡…lyC÷|Ézë&;Ë("œ‘3:Š“„’óx,9R2JM/:Õx˜;)&òÉÜ†	Ú-¦ám¾Á^û¬;R(øWAüó7+ŸDs`»Sa¢{¬ıg¥=ÿİN÷¬‚gîü»Y:G(ßÆvK;M³tÌ±üÜ©ó® ÂfšAŞ*ıN-Q§lİêäL:I+õµ/…c%•~çk¸\£ic¤tˆâ
+ïÆ¢pšù  ÆaòÌ®tPN­ÖËPjc?¦`gV¿ù)h‘Ï¦õ}‹¾=?kş'	1 •Ë˜Û•ÓÜE~3Çº˜˜«ôşséºôÆnb¾ÈÚÒqA™±MH±®öU I îÖò<+‚Ğƒ<ãàKí³ñ$îü.Ç¢ùŠ¥=ğ»ş·fƒ&­
+%Le8i4OØS|ÏŠ©ö/uvš*h´%0	H_ª
+i ®Ru‚Ì¶š¿ÍtHÍÜğl/Y»4w`á[gÇc“¦ÜÄ2¬D2Ú&Ìg‹¢€ TîáI
+ÿ_Eô÷ñÅhä1é Uª{¡ OüNmÜZ†£¶(Ë7Õ ¥‹xØHê3VKC~‹:ªJËüì0!úÖ…İÆŒ€>ŞˆF¾¥çÿŠ×öúÅÅÔ#ÆRÿ‘]",g4ô«l¯äm[¤i„ùô6ıMòJ€¾vàgÏŞ ©ƒÏ”.ş“½†Ş*&ÊX Óí0şdSù;9ŸáÿÛLp)2 ¹œÕgé,²œA¿Ñ4Â9»Pu†Ib:WrSÑŠ(ŸñÌa +%Œ$@pÎÖ <ñ˜W0¯“Ãp­ÃÒSY—:]Ak£O¬h€Ø±‡H øj²ãcjÆ±3ÉÄf¢	gÊVÿ4oá'¡E{{v=M¼ĞyÛ_Æó{7$íMouìPhÅsƒØŸßÈŸ‚:´uu×ßƒëÙ'ñXCçıæS¦kş®¬[K@Cü&Ä“íd»%êLY{¹Xzªdwu†«ÍÃ¥’ì¢í÷ïcÜ‡¤ÿLsÈªÓ¹=ÜO©›ònğŒ‘ß´£¤ÜŠw§³ngë.ElZ™Í#€îZæÅ®¨{ŠJv…CÎÎz§hÈìK( 2­÷<©ë»¾e½¨äZÔ‰Ìk²5->§ù1iàêNÖHöRİğÚ¼ 0ã®;Œw&§ÚÀúO™t|ÃkÏ¿ìV©•‰á"ê²M¬ui†È26İm»œ0ÌÅp­Ï,}hœôj:ÿ«MÙ2ÑªMõ)¥Ğêf6¸Í"<",½:S:¸	&_`§ÛCQúïSd&Ç[€ûÌØ‡nü¯QÁnÉ óK“)KƒŒ`QäÙÁ%7S›ÌñÃ@ûq²}°»Æ7öğ›pw –’dt ¡vJˆ­W­+í ñ£s1T¡—K"8Ô®¶o³z‚N	5}6{BöaL¹†,Ñß÷#].uH‘Õ¶ñt)ìãˆÓä‡˜œLî›{i"Æ%‡ /¶ñöîrâóNı()ĞöÉ¿ƒú½<+NÓ2½…ôë·›÷ı|­£w«*¼„uÁV×Ç¤°*Õ¯kp|à¶#
+a÷Ø@‰Y‹«õ-°oh®‰F×Ñ§;;¯’Å*£ysÈ¦˜Ú™ĞÃ^)Šåpß“ÉTC;ïĞê~¥1…Ÿk †€Œ;MUs›ïíOæËîıNœf4ê¦˜UÓÒ”à™g«!hÿ½<“æ7ê*Eöğ„—Ö—Ôç*(­ÇSÂª~À†G"Ù~U`ŸuçGK2vïÜ$"„Êïå˜HäÒ·2~­9Èñ™õ‘›Şì·y_,r–ó„­Íïó?§Èƒ¡<¢ÍT8zH·½‚à,Ïj[İ|~l¹…•yÚ3_¨yÇ©Î˜"ÿG¨Zmùtµå8€¤‡`wŞÚ6ï‚™77Èh;”Ï_o$†àÊsÙ³ş}‘F‰¶k…°1( ¬ëœä‡Å8b¼ÉÓc-áŠa²hğø·œˆ]‡í“îA(ÇN(¿×æCŸ“}áÚk|}.Ó‘&(ß"rXDÆ©Îö[Â—üWß+²Ì°Š,bª¯õÖfëò}çœñpzİkÚ0ác B$Ö™nQNîX4¾µŞ9Y©Wâ	>Àw7!0‚ÛTôïÚZ»ÅOEQ½z ßÁÎUG¡çïl›²ÇYkÃç="FN¼MÚ"í\ˆb-YùğÊ
+mo ƒ•¹÷ò>lk2Oş5ÍTµ« 7@å¼¡=U›	­RT_D^ÑnGvhr€›ŸXÈ•(íà
+ïUÿ.^ho½áüaW„"°¢K±äQ;ˆıòVCìø¨Ä×õpºr.[ĞÎÄI².SƒD˜è*³Ã0(º„(Jó+zÊN›íÆÑ×ıh:¿ŠŸ&BåÚ|Ì[Ô3~•‰±4{F[ˆˆrØBù_Z•¼¤í÷(ıNU”¶z"Ø Üµ£¦^ LD–ƒcŸ|_´/ñ9èË6 `EyrYI¼UÃÑáß,qLÔ1˜óºF"s|ì»(£{Y.ê¡Á+KLÜàÕ`¨ù`å“¯ú”¹0d’áhÊP¯ºR%=¬ñ@YOvksóŒ¥×»ó3ÅÌò0zö²£^é¸ÒthY³ûÄ3ë3+ÎwøsH`¹k_†S£gªt¿ªÀ•1ïtÌyÀÚùÖ®OTw¤¡v,¬ ¾ú÷N¡+ø1àÿé•ƒ6o;ß¥áN8§ª~ªD÷šÜ¯TS¿8.‘ìLíñYæv‚ÑG<iÜäíwnø›%kÿÑFgVímWúä.§Y”{vQŸÊ’	¶°S›XW2|	Á•¸é„g ËòšDuÆó=§§"Şír„u{YŒøI›¯DéO$àç[Š=<÷ĞÀgRMnnÖä)$ã°zÍp"q5Å£ôyFš ù¦;Õù/6g¢¢ˆö_©oy½ 2sø÷Y4¨xbÖw€¹kÙc>ö{Tù3£\ß“.z,/Ùù»`<€­ñªr
+`P­a—2A¶şBâç˜¨óŞÖÂÖğ:z6`#cwÒ1IDâë±:;Àğª¨^L~®õ”<)Ò 90¿>Ñç>£Dœr¾¢# ;¥	ùĞzo]hìîL^äÃ9_Ã+	¼N„À}–Ö	§Şï÷*Y|š®h_iÙ”×”qª¾øV°êŒíÈø8rrëŸ€œvŸL*Jı¶×ğE,ëÙ²qp\ h‡„†VïŒ¨A7@y±ŞJ×!L(‹“òŒx¥·İ¬¿qdÃhw{7¥@FårQ8xùM@Áü×œ)xš}õûW»Wâüüòk‚ñ¹cæ…YùDMŞM™àüğªdÖêÅbD,ïÍÖ+ î¨FJ^RN¤KÙE…†4½}hjøØmÏ½bÃùÑå¢ âÒ ¯›ÿ|_R)Ì™f€|İB5çuöDêtK	ÛónâØ]À•aCg\÷ƒc@C°å‘3rq{ìoŠò	_#›-7ı¸}vyeÄÒ ²àQš”¸I¤…ç¶>*!?WtDáòğìRŠûêÈî‚KñGzj=½™áâA,Õ,Ri‹Ö†á·;îÕ@Ê™Ÿ8™ùQŒÌ&"Ã‹Ëú×eaC×ğ±ï©™è-Àä`Mğ#wÒ8ëĞ}Å:Ã É§â«èyàäŞH$pXV†Éæ2^¾°˜Ì™Œˆ”/–O£ÅŒBØk;õ\Y¢9ı}t$¥{nk¿ã¾-¼Ù§öFë)Œ±mh^{øài
+'M·ª„h6"œLs¹•—ÔÉ)m>ú´q:kŒkC=C:e#¡÷ò‡¿ğY¬ºZÒ(E4)Ó~3œšúg@G£Ûü3I‘çJ7¸:S2­’’ókÑ@2{EAb\Å)¡­v-~¦+Õ=+Ö¼ƒÿÍzî_½ËMd³­Æ’@3{(ôö”ƒp‰GàD†õ¥alæJçÚ`şVÉ¯[÷Ñs‚Ğk1ªÈ”Z²è/Ví,vyv Ù-•—qT,Y¡PES»~·¹»´;$Y¢3²›j0E½¶$ÏBÀ8 `Y4+IVJÓûuó‰ÿX
+zÙc\aÒ”FXh:[\‘…<Âõ]l ÁÅ1Ë:±¨må Gò’Ÿ¶ k;åz/T8Œü²ƒ¬é%³MË•]áÕG¶èYÅâRÆí	Ù€•¬©Q‘ê³µóøt*y=J×ş$ª°“¡vØÒ¿½¤ôg©&Õã‰¥`Î0?¨~GzpÊ¢#ZéyÑÉø½P“q®Áû\?áÉo[üyåÒ‘)$x#AB¾ë e'?Åpà
+ú±ø9Rå¯à°eV¸içXd•æ»é±­8˜ºG\iÔË‰¤<q%Ó%ğiÜ.]ætÏÉÍû!êœPÆï®^FŞb€¸ªbàÈoæHîXÛêÔNÔ®!å>È+¿ã"*×—–Ñz.F¥½%zu“š° /ë2×Äb¹Ä¿¹Æßhkt1ñŠ&õœ%¶l`TÒ+§NNß®dyíutÀªG=«”1+V¿X3°òEx.~…ã´õ%JÃ‰3LBªÜ7S/³<c'äæ3t+ $^=8—Ó,ã%•¥ÿîıs Ü.HS3ÈN¡¯ÙZ-Ú±‘ÒÕ$ì}PÇ`Wbî¸}C?ßˆ}ÿèë»¢¬ï²I¯‡?êN‘©NQÈï#tàõvÿ7Ø&İ®é³–šA/·ŞÃïlQ+ˆ#¹$ÙuÆ;@x¡nİH‡G7BĞIô¤0P-¸
+N[±ë/,C© †÷§×[ÒÁ¼%5† P¹…ŒŒœ$À9å2kSq‚dHÜÃÎ&ÔA)ş¯OFİ%³Û«Ø½T½°Ê5Õ¦ÈÎí >Ë`³×‡	SZï,ç»ó–µÀ¡ø¤	0Ì™xää–.\làç‹Ûx!™@8pòğ+uÉ*‰²ñĞ¾†ûâ²‚J…*m‚Gêtğ¨B·š.lıZk3b¢:74
+ì#©™Ãf+k‡7`õ&}¿ÅX¦…ZÒŸ–.$÷°gHh®pÑ×ÛŞÁ•ÖMÁ1ıÓsJdu3ĞøzQ4=˜×2Ùæ1_éÊ:ÑÚÍáãZæLi`¶YÉˆ¦ÄÔkSN1mšØ×údCZ~€‘ù¾04>NU’¶‚Ÿ/<‘yqDÖT²4
+yo˜
+ÿ„ÕØ~^).&íxĞmÁbéÍ}ó‘ÄI,æŒæ•ŒB—êRš4ƒOa–˜’PõhKJ4øñ¶_8ßàN¥nšêûhS}TX™SdB%cUj—¶]—Ú™÷ó6è¶x“7ãŒüÓãª8dÄ$Væ3õ£å©9à”B‹.ÂESt´½‡ŞDÓoc'ñÎ+Ó"BØ$÷1*Z~oùÿ2Ò:•i,ô¸¶¶6ò·Kn>¯…èú¼Ë˜v¬,0¢ƒˆîıA)Š]®šcéĞãIü
+%DF18}X
+w¯Î‰táåÙùFrR¹]PÆ³T†(¬k‡õ\
+}B?rB•"U:ršRRÔ»QDÂ'”k[áğ;è8q~Gw³®İÍô”!ã‹m®/è>õŸùò¥ikVsT…o~­c´s;7SÀ×°hÚMàÔÀÃ
+­ƒŒ·qéVS¼jéî¶cYÒã¹A.~Üù;ş™K“™ˆâñÒ€AuØ¡œc°(ya¿†3¿dìík<.Ş|ÛLUR'?Ü~Ş˜£òDÎÙ\BÊû &0şÔIOqÎ;Áùswäöx¿,kG1ùv$"W¡t¨_hSPà-­Òhy&sãHÏ¡83R•'kI¡¦¥#ÑS #Ÿ§·nEÁk)FØÉGY*KÄ¶ìÂd
+… ÕGM„«5ô¶¯iN–\Õ4ø%:¶|¶Úz¢9¸	ù»6¡ÖÅüŠŠ˜Ntóƒ0˜ 0ê¬O0za1N)Ì@Ÿ TÔ"ğN'?fğ×ÿÛ‰ıç8Şù$6"±±ÄïÇxsML»ÉXxÂO…!4Môw€×òôZø‹YzëÖãU"~ÏMç~âÔ*u8FÒVhFDL>’êNÜüèÃùÏoaäÍ †ƒ’“¤ÈPö">¯¸[“ÔÄ¶&$Sıdb^
+ó­û³oNÖe/\VtP¾—5†…p›~Ê§ˆÏh+sç»@'$z/ÇÜŸÆ—Oï¸½P‘*:»ş#á¶/pöÌwÑ>Æª_ÔÌuûCP«˜ßoYÚœ$¸¬Q.•»ø(Bö÷ªšı‚€F"º¢öaİò F)B{(iCõc!"5ìGŞğ+c©`7ÆÀ ÿB tGzÎ””­2k[õDo~Ã¯9ÑN@è†ú*EÕEƒ´¦ğ°£ÖÓe-„t—J6¦(ÄÓAÀdÍâS':IhG¿¶QÜ[‡O¢èy‰Ò/è³OA±Kß1u'i`ğ"¹SšW¨I¶ ğPe?è€ãYz…3\+'Ë.mÂlïEKT?ÌÆÅ8ğ~RdÈ%ì¶Œ\éÈl3kÅE÷kZr¼ÚÒ	›-5qï#1·´kÔRYš£8¦.Ş(wÍ®ù/‰bº [¾’Fêï¡¦E_>‹G¢Iìlº‘Dí›ö±Ÿ2{f¯6ÒH}Õ­e3`ZH)g’K])÷=q©Oj¡ pnÎ ,"0†ó°^Êûí®I;u*·ÖÓ–z9µ4ÈHäa™×Htc©´*ûÅ`wÙë|Áôó†øÒš´sÏtŠ“Ğ}ÅÂ¬šùmÂ¨õ<õ8)6Ğ7³Úcø‰d>ÒEÚõúşZ,b]%hH4×n Æ¸+1G÷Â*µ‚iÁĞó¸7¬ˆŸÉ‚E”â®'NHªA~Š|êÄœ“ç¹:Ş°ójiµS”é-‹–íÇÍjŞ\2œW®ÔO-prB`wÊúÑSp–uVù	ƒ÷<h'iŞsM8Oø«Ö³KÕeäÎAJ‘+B…kÃï}±sEÿ¯§ezˆ"Ægtóåû$‹LÆòÙØ©?ç‹%V:àşnI
+nNaÿ°•|¨£‡ì/¬â}=ş‘i@Ëµ³SöDl1°º#˜›û·]L»©"åjc(&LÛVÄ‘.ùè®5•ãŠ*ŞB¡–åMëgşã/—>å¨ôÇ&>İÔó9åîj›Ç¥—û¬™¯\±–ñC …aUhVfQÈÍm}Á¸€§€ba=A¦ä%«Üè€ŠƒúÔÈ.à›åBÄ k;/>L¨Nõ¾4–åŸ„-+ô˜ç$‘6V©<3õAjú[§"*rAWÍº˜b½Y	v®HÍ=ß­dİ¾±]”˜œ†¿ìJ}%üá—ûO¥ĞÅÀi¥Ú‰ÒiÃB‘‰è!´+eöŞ3½¶3oÅ!R…°’_÷üÂƒØe‹Ü…)¦‹{ÃçıWasÈ(dMéÿ(Ë=©<·–*úo;¬{·*ìˆUkçÃ+ßıÄ[Vì %+×å9±°í!ï+ª„5‡¼ã@İÔS!K¼'Ò©m´=Ş_“¸¦_x	7Ûˆr5æëS»',Â›O`<Ÿqiî·ÜÓFSc(NôÜÌt¨‹Šû¿~Zˆ§Nm‹(v/mÔ›€y¿Ø¹6îŠn´:¾{?2kaWì²4²zç1W¹Wâ³¹EƒG2&do	ºyà±@åg|`´}P@«'#cK¢ îã†{ím »¸¥tªéÕ—œJv8ßŒ^Jn UÑ3]İój[…ÿã\&Û§ñâ_á9-9+tøç²^$ØÒ -dÄŸ´Lî™ÅûP‹	<ı–~›¥†ğtŞ`ÆqJçèI
+ŸCèÖaÌ€}³ÛŒDÈµŠ#H“E`yF‘´5Q¸™ïó_]İ»ø¼¦A½}ÖæZûÒ»aÉ2ÙM&¬£y'¨æ<ø•r«3„±NİÒÆâbktäKŸµÛ=H¨V»ß‘¬M¾Ñe_‡æÍ-ƒÿ•úÒÑlÊ²,/$|^ğS(.L2\·?ÌfÆÎf¨»~€¬k¸RN#(a/aÀä½÷;O£UlL„0åÌÕK7"…§™h£ÆtˆXíZï}ˆ¶8H•vû^"uŸXlc‘ºàŞ—UÁ¿Øø'µ;İl²Ç:çŠÔgàg")ìN/Ä},W¾ìÉ>Ø²ÆiÌÄßxwAá7‰ÓigŸgPŒË=¯ıW€éÄm‘Q+x«·XTtå;³DÚ-¸ˆd"P¶•Ê`³§¢	ÌõaÈg‚„ñSÃª9yÛ1°g©Ù©öˆlJü"êÁİ^ÎC·A¡×d‰õR¸’3îfÅkÌJmÿ£Ü¨Â6««æıM,ÖĞ	ÓÁHF8óÒ@IX,mZZ4WónQùQ³MèÌÃqAç¾Ñvpi1D¥S>iÆAW™ Û"åSQÆ!E•ÔÛ¯ë6º7ÎJåàÅÆù¬Q!Ï²”-=å©wäf‚ˆí^7Ôdˆ‰šŒ³û«5‰]AÙ'•Y]çuØç,½ß;Sà.ªş´6è¸×­"Æ
+-0Q›
+¢–Í(RQºj³×Û^RBõ8…(ÔBÙRpË«mf4TŸ£C'Yû@®©vNÚê#¦"®»“”:ô©	ö:*|_1'EEŠÙ}!áœH98Êµ>ù}:\Û1@H™Ì²¬\ÇøĞƒ4Áe!—âX¢‹˜à+úÊ‘Å²amçš”u.ri1&\`à{ûù™À]»ŸmŠ0l;WÍ3>Ù£d€¨ü¬}2«ÇÏ›(§ÆQ•Şy"û¼]‚Âà ıÉ(šú^…lNkÏ±%³—>®‡«ígG¶Ò.²•¤xş#RÀ‚CÈ€Èhéêã‡yàß{!}H¸…õÓTk‹t‘FÅ¡2 ïğa@.©Ò@Ëv8oøT¾òw_ø¬ïB§ÖÄn·™ï°Æöw‘›æ´ïr½fîÀ ÁÉ”2"“\àga~ä« jŸÊ‘†9ÕI.ˆú„ÜI’Â9`ÅÈÈ-¶¸éô­†¾1Tt»Çº
+­…ïFì ‰Îš¼2õŞ£uªCLœDúıôm¶%#ê¸¾áÍdÙĞq€îswu‡¡Ò.‚Š>ÒÓµÚ[Uqé'Ö2#ü¸Š6mPû‹vÚ“XÿıU$Ó³á2°õ….ßR¤eñÇNìÄ%+¼íP*¼g!
+•ƒÈ÷ùÌ”SLM/pF4â˜0YâY”$ô®Š–¦ƒz‡/L7æ½›«ŞÚÅ³€hnò ØG ¢T©:Ã^
+„ny%èÒP¼x€pÜP_š]-¸â?ÅÓ{Våä9„?ù¨É/€¢§Ú3üæ©\ñ-Øw	‹¥È7?İÆ47™-l´šasœfwWóÔãÍ*ÁÍEfû}1óYˆ•ÉHP­” ÷|Adßşl-î$Uœt3ïø£ş
+Àë«Ş?,/›§|Û q©RôGºvG§Ùts Nş¨ b'èLÔÌã!º)M¬À ·-—ƒŒk[É$O¯”D¯¥ş¬G¶½¿
+:ıRWïæ#"¢o®¤µĞ‚i"©ï›Õ(Më«ğSGè•RRİv-Ù¹¼H˜xÅ¨.Uã5:ÿÕ	´¦íw”±ÖtÛ
+ÃêûôĞÜ1páF¦ÇFô$šÁ¨Ep§®KÇS™8k0i„y`¯
+ØL›Ãîó:
+s•¾QZƒd!†÷~É5æ…g5ÃªÆü$ (=Š¦%Û´·Ó’’¼°‚}Z«©Z.T­0<1C€‡Ûg®V;ç‘Œ¨µÄñSt‰™gŞÇ\¦1èÿÛ³ØÓU¹Fçà8ì7¸9DPìUPøB@éqÕ GäÛhE ô<9	~bDÒÜÅ‘­Jÿ$¹
+„§º¹œóyŸ÷êàrtcp³ÑŒ;>\‹Äø.YQ³œ¼¤c£àj<áŠ„ş†(|³p™,{Š{”ÅíûÜeŞxQ=ªH0Œ<œ¯ğ$ÈàÊ*Ë{/N¦RáOYòv¤­qÊi’Ã†­XÕÊ®½À™î¯~®²d¸î_èéŞû^g›Má<Û–ÚĞ#ÕIx%i¯–ÑzúŞ<»^	¥a7{…˜jwC—áSì63MşLu›‹_äÂ2K Yb@( cğ³<ë¡$Ìö»kâç“ ‹RZRye°äá`ú¤)ı¨çõ….İ%ƒ¼³O‡jk œ:œkñû/†R€}ŠÜ¼?îŸ0I”=ÍÑà«}jéšœ™0LD·ÛQ¡t±À–K$ÏïÜUª³õ÷gÊjsã¦–eP¹£*%]ÓBÀ+±¼­æ?ú›ãÃ–ar,âàSóõûMü \?â.Å—/¥f=‚Î9 ­Öx§rs¿&¢)ˆ*¹ßwµP(İg°dÏ®¼WPl×ñ/Y×’›$œ@
+Í0}{×ÄyŒj%—škÍ m<Ì[NV)é°ÆPURüêöñW_	×¬üİ6ùŠC•p
+ô&XŠÆ=i³/¶¥ÑÿÍwªë9WueÕ²ğ–/Ïó;ù¨–±Èu%(¸?éSÖKµncª}ƒ[8\«c¬C?¤ş{µ¯%'FLÄîÀxy¬Úê¸º×¡¥o¯ø|5è‡òê|¸¬Ö–ïÎlnªHŸ”àîË–ı.ù£XLxrAôË’i«–`Êq$ëºôææÚÌkc¿œFş†‰ˆW8	/`¼¶bd-ºèCeı	LÃè`Ša#À>´—‚L|ÏÉÌ€ ]?¸Ïå~ÇåÑ‰™İ=2k£$ vîb·¼L|ç8V½¢Y2l%êX]ôGø®ë`[áQÔìä·ŸPİSÅÙ$ÅÃßnËşn=ßQ±œÆwWléó!¤0ŠHÃ‘o£~øF³á¸j[ØP0Mxÿì)iìú–Üõ‡SLuhÈ	Z4Ä-OÂ2@’ÿt‹†Ô€f/'~ÙœÁ¾cUvÊ6[¢ÈØTÒaMĞî$[’}”˜ôå™gˆbêÏnĞËS×LŠ¡ {7åÅ œ¿R_Év#Bc2üG~8Aîéy†¤B>œ>l¶ªI`°|" $wºbg@µa	(6ÓãƒÇDF[3ïØº™åsÅ ¬k»´Ü#eş${½ÅÃóõì´¶ÈšÁÂ˜õbÍ8ˆı!€°0R'‹Ç«£‘ôA÷ùÀ˜UÇ¢¼uUß‚ë vÑ7İJ-Î¨äo…²,f”|ûº6©¾ßâştUß˜<ía\¿ª˜JÛS€~("4”úùËİĞQ»§ë•0pÂÕ¨OõåÈ”PRïĞÕÓs2Ä,W€¬4L´9z7Ï%~üaØÜäÆºé.˜^ov w‚ RDŞÇòt0OG~ºs§H²]áKññ®B	æ÷˜L¢‚F&à…ºqz½İÉü¡züEvéH¸tùlÑ£EiVTß{AÉw±f….£><ªÆ¢sRn˜tdÎØŸÙİc–ò,9©ãæÌl3˜7@FøG›¦Åy›j<Ú‹ˆ~xÄM´òÙí	˜SuªÀS$ÖWôº™;„ò*Oîô<ªæü$8IÄK
+ìÊíéáDkißIAQ©‚±ºå„fº§ù@·øm«½€CœhE¢£ú“ƒ}Ó^÷DáfYÿ†sæ7oÓRZë*•ÊáÀ-¤”dzáŒxvBüZ¯÷}Òïç¡åT¿0%¥Â¢.Y€d„æ—´ÏÖ†1Lñ÷Ê.UÎô½¸">Ú¶¼Ğ°ğûÊ© ‹FbhâHõüX[Íl®SÎ ,À7›v
+K²6s_«Ô'®¢å(•chB/°9}Tâƒv/ˆP».ˆà¶ô·¯i(3§ïcCZ÷ŸP¥~áJÚ>¸½«LeH°5Â³•o£,ç®œÒe¤/=÷íùÛÆŒ
+*kĞB#ÜF1IG:ÙÉ†ev³ ¬pÑcÏ~ò|Œ mà€^sÔï¢'™üõÌòoÍ¤M¼,Uê]JFÏ˜¬MşÏiÑxÏØÓï*†˜OšPÂç‚™TÊé¸”Ì´ĞÖÆôªØG€À‹óVÖuw0[B _ùÒšKàö;<Lj–~ŒÂÎ[FXó—àÕ´ÿ
+(ÔºÉ^øM¼¢ÇÕÆ]:Ù#KcNÉ¾U_öÿæA£8Ô®SrïÜ Z/Iãx"ˆè~`&¬g—=V·4ğÿ?ã…5S7>ƒ
+;ZÔüâÆ³ ×Åa‡ôÛ6¥qããè;“mø¾h£*S‘4YÖ=òš¶x¬§‚BİÁëÓ–¾´À]™IFÌg à»d[ñ^z¦ã.Ã|¯”A»\G'
+Â’tíïÔoƒæ’‘M®8K;¯—TôÌcæêÿ?®B|«OÑUäCÜ5}–Ë›na¾K2Fµ@ıX-·d¸	Yzèf-œ¯V¡‹}Òs÷™¼KP‰Ó_,6TÆogõ»xïÚ²–-‚øoİâ³SÂƒqÉÖi7Şâ³¼+«b#Càê“9ÒeDu2•O¤¯˜Êüÿ‚ğ/2ÊïûáÜ·_~¸?àmÂ>›‘ÓÜ ¹I§ŠLH“‚]¶ –Å6w}
+ÏD­]nš	é:ÍËu†¿0[>¯Nß|úXçRÆ	gò©&¼¤¥®¡Öñ0"+µŠ ˆüWÈÉ#È<Íç©— ˆ&xaÿ”ıkíK Înó²¡ÍÑv1€)×ÚaE Óbıœƒ÷*­¡X¸wqpÖÍyÉ„fÂEL4»`¨©£G•ê/+±pYÎÆö]ÒüGŞ`Lè]ÃŒ[`6ş*6fÛFŸ‰"°,!¿›xœ)›¾ù?ÁÑ	å€k/…T³s¢‘sfÌèÃÁ~ß°ÿè`|¾$Äª¤3•!Şeç}³LàíÑÙ²¡Woå¾{ßv÷átWaˆµ´½È¿3yZ.ôü‚Ü«qÔÈØ÷PgŸâ S!pÇ¿<
+NÒßVä|D¡XÈÌf	øEÄeauoø!=ráŒ—¤7q>˜ææÀÖè»ØS&Nş9md€ææk3bRdQÅÇ¼_½Šü¸¤Â¨¨ı×ë/Çí÷ÿÒÖñƒ$‚³!çàŠÖu^sé’Ïuù5ˆàjŒ¤³)ñ0Ÿ;¬à\Í ¾¯__‰q[yy\¯£+æñcbºHö†0=`ˆ"ârå±[—Âh´tdYŞõ1;âx Aºàµ¾gÃIÇ¯ª~g¦?0„e¥NŞ¨^nÌjË3l®âJ­êÙß[¿ğZS±“¦páì$¢$şDCÃ;U£)‘È*ÆóWø?q2-V?7EğDw†0zÖ_²·4şşJeToÚô„ÅgªµŸ]š˜« Íô"ïÃ¢ètŞÄ¾#©>ƒx.ôÛVç¯o¡ñ6©Ê¢.‘¿‘ªêF&Ogö$
+|nYş¤ôı#İHë§Óı+@ÎmÁdË}\áKY?»ü§uíá/Ï%Hd±Œ"„Âã»Õ 'Ú+ğ`†xˆP«×fÊ4DR}ğÔíŒ¿ à"ğ”³ä”fI– nõ¨Û3•ÊK1şõˆí$òá¯K¦ËŒè6Fğ?#I¢'rVx­‚»DemS5ß-^fâŒƒM×‹š>éEnR†÷@é¡S<¾»VbŒÕxêû'°-Ø<R Í¥_ÁSì¤"
+tæªé…ñ7R±ş_üàW±dÕ×Ô„s›Îã$è©€+9_ÿÍ˜ã6ğ¿İÌ×¬Ş
+TçHôu¿ên+xû8¥äKâ,/vÆz3®
+ÚkHÜô¯
+å†÷^°ğP0¨”ôµ»ÍzŸºM¥‹”‚;R‘V;0ˆÛAŠı·ÿª¡F-x¯~e’šñöLGüfRxœŸtArëÈrTÇŞ´"Û´KîgAq¡kæÈRä"Ğ£±¾´:ÈKïØ@hºĞnÍgR)¿ê™ÌÜÀÜ_‰@UÍWsŞ¨?³ƒ¶ÕŸlWZ˜€L,³_ë§m7éyN*Áy-2µŠYıfgƒ“å—ï±ßÖÔºà"ğ=İB*ÛøÃ'ÛÖ@•éoPOX„ª~†Vˆ?¤^dOC4»ajíå@,hU`‡Ñó½ób<¢Îó›îŸ7üÃ`e¸İ.BƒCHGİ®VtºÑÃT›šÊ™ïÃEÏmøÑFæmŸŠâ	Ù=ƒí‘ì^=øÖemÛÁ®8|q	ÙFs?Ÿ"I›ÒJ—cø<mRÌ3ÏPäà¡U‚,”Z'Ív*İZ / ŸåÚg¥íºêZTê»ç‡8YH¢ƒ2¯‚;]Üä…¿ä/|fïªıb¨öPíøHíd•6•Œ}¾Ø®Õs2uÅI»B‡ë†:ÎóKÕZWàîĞDà{•™ç&g?¥ôlg¾å0ÏÛ=É\İk‹?Ó(g q1·8BW_k¦±T¿A]"D/Cç’šü…B-/‘ .B¹”2ôŠ}ÊTÊBÒQC—+kZ5¿l8…aXvª}ƒ'›ç‰ÿqın¼Ô—Sünmœ#cÃuSÂ®ÁO&œîª:Êè”˜0Ûé@­ô¤Y $ñ÷Ø•Ró7óÎx?@´½CŒÇê­WY~ßÍï¸˜š÷èŸ¢«ö[Ÿ£º=¦]ûGa#n£VE6h\Ïóp#ôÊå„ë;­o¾ùİõ‹#³şÆ®œÃa$|˜Aÿ]ZÿÊ—*}öyD½“&sîæD#ª¥¼óÍ’V?©<”ßnNşïìœ™—_àOd¹Ø±K§?:„ªF``_œÆİUbÂ¿™ ^©Øáxmú,AÁ¼&Æ@6WÇ‘”Îì‹‡
+I’z¦V	Ø=!&e}ïAe¢TÊ÷7¦<òåkØ¥ˆÙà•¾ _écK™”f'‚ĞaÁeDÃÁUÎ±‚½»Qª‘7Í!,ïáR/"ÑaÆ´Øi¨9Ú-§ÃÅ3a$ÂÃ¦{ ï‰SÍÁ×BXÔZOì3Q*ìİç%ûçê6çğ3Ï:¦sGª­Æ	¥Ù'²ËÇ—cq½5ñE}âSÉjÌmÿºöSÙŞÃ“WàØ	X[2S°É>ë¶–¿¾TL\!s!ş›s•@¡T_¯—YC•t>L)*'uÇø°
+ùlm%ûÍÃUø+ûXìE¨Æ6™Š…’`´¿Wõò€–Æ^;_k(rIëK­œÌ¶©üø€Q@~…w­a‹"Ò’íG2Rdõ†×K3ËÒh®’^Ù¥ÂYÎM¥‡0~ñ&‡šå&œ-­½¼j–l`$öóøl]˜Oô3ğ/ÉHÚ‚^OòkMEŞs,­â6yïNaSƒ“îpZA$?ï½ß©¶>‹
+äm÷^Öd¢[óéöè¦ŞîÃıíSœ›Q6$ˆ1«2ko÷>Fm2øÑ™ó-@«£Ş~™Ó=Ù g'p,0ª1sE½c55aVS¢Jwˆøè(‘mèYØ'›…)±o[ğ˜rG‰œ›fhkÍ…Oä(Û4H3Ş`k.:¤M¬?»“é’ó=}€#Ä¨S²LyT¾ƒP£@Ç·cr„xã^¤U˜ÑÂY	vÛJÚÚ'…PQ©D–<PQ£ÂšÃAÖãÂĞÜ…Fë¢¬Ø”`¹]óÎó…KÉµãú<‚ôgè¼IÙàpI‚'átç¬‹îì2^‹ÄW) Ï“GMò2ğ¤RŒM’½"‡=Ú¯[ßzye„<06<½ÍÈD}ºëŠş˜dd~fkƒÛTXÿ&Ø"öÈ<"Û<Y©RlâkÂ‹!—8úŠ» PDh~NåØàcì#€‘¥tß¹Aß\B¬qûzÀ1^Àv¬ÉrÑ„IÖ­@Ë™Ù_ow,İowìÔ…Ö!sm¡õ*mvj©•Ç´#”u0cø(6Døw‹»J¦Uäæ‡{#3¤ı(†”_UŒ\KEö`Ì»cìö7Ú#Í£Ç2àe­ké€>~NÖå†‰‚:ã
+‹^@ó™'f&*iïQ2?ÜÓ×O©Ù—ş7‚n0Ù¿$âOCœX½ÖNKôP¹€³ªôEtvJiápé²®p£OÏÖTË0İ¦ŸD—Ú¡•G4Qµ>ˆWC¹c^|€ÓQb%t¸R—
+CŸÕà’kü+/""µw‰(ÕwÆõÒÌAP!†Í©Fòv{¦óñÓh‹Î¨7ôÇIæ=Í'ø‡.6'–AJşÜ¼P¥TXßËítÙÚ
+g<± %¶ê‘«Ø…2ÅOìßAÅÛF˜=¦a+Eóp²¼Ovq+œ{Hq/dbËÍ8´'pÔæ81.Q±¨ŒpaúÚK“à¹ßbæíÌ’€F*ëœé!ú
+QdõÔiùÖÛŠ½ÿ342‘õ~|ÿãåÃadO¤#£RÒ…³m*Ëœ°ßis 	W:Ì…¨`grÛÁD(}0]ã-wàÔ¿1–Ü®e«›>òøå6b4H9½nÃM¨<2ÆwvÑ×Ä&x‚›}Ú«rÜ%Î a-p >˜¢}K­qoc»˜»®¤bş¢ÃO‡ûÔ˜³4[KÖìzk|P¾ñ)ú&CN$¶ëò]ÿD¹QeïÖºÎ>·ğ<òÖ|¡]Ñc‡_´gj!—«	_çOÊIsÒÿ¯+…96åìh`ğ#LŸUj¤e?dÑ™g=æºº]M+º6:óÓVÍÁTöÄO'PTÀ–Ã·¥—Œqÿmúo/•&³Ù)\Êö0U¿AA'ç[BF¿åî;ñ%j—ü›¹Çà#†{ÆNµ.NÜÿv;s	Xdü³*9øêE–xÙ†1¤ôˆ]€!“¤ñö&€>P6²ªqS|	óÈøÂ[a‘sWç”‹Uë¯_+¡:ò:”„œBå½”w«°¦ÏS´Ú.…âûJÅèè%
+\®Ø#^cËYÅg‘ÅÇÓ0ìj+ÅVK»Ò5‹ô)µÑL[sènsKY¢üsL33„1v›±XBVîÙ«Š5ë“ ŞqGş%¯¶TPÍfa{ï@ÁK6Sò±ïFƒ—£İÁaYŒëvìq³ˆ–mÇv^ÊZËc•ª]=óşÜ"¢Ìs5°Â!ıİ"W\P{èÄ8ù_œÏäL´%Ÿt¼y¯¾xmb´¹C+M¿ôYD‘Ğ‚N*aÅáğ0Ä!óÙë`Ğ¶ŠE8ÜåÜ:]3ï–{d‘sÜÄ(&ïq(Šl&y~°İi7è-Şç2ÔÄ6à?–³u7ğàÇÙä™Qº;ûôp*´CÖçCÄ[ÜóU5=wùç±o«›¸›²ôõ×¼7aîã$6ìŸşıÀwü/ıèñ36 _±×%zS 0j'w©ˆ”Õ¬ZÇ³ê‘êá«ˆfœyßGöMíÇàÁ+]I}ÿÆÓ;İÎ>C°4(ø*qè)¬Uïÿ7)Mßw@B*åHâ1´öáD#Ú	ÄÍy­ú¢y §dAÇ>~J}ß¹næ+lüŞìÜæ·‹j–¶cm˜_²O.IH|fC„†Ÿ]|kı7»`¸"Æ ÙÒKOOWi?Û–èë€	e²uê	©¬—şóÎçrö[Î©@Õ.VG† pîÅÊ‡e=s˜Sáñ)g)¼8k6¼[ú‰Š« í§¯Ğ‡@€ªäÏCªZÄ*úæ˜´äLùÖñ[KırIƒşZ©¢:Ú¦Qğ/; )•(|ª”ıˆŒøFÄ÷nÛU
+ƒÒİè*2‚l¯àÄ¢›,@C‘0!ãK4šCg˜S;“y˜¬Z¾Rµ7|Nní	DcÏ¶úˆàèL¬:¬Lloj=Â8uoõ4½”vÍÂc²¾;;‡­Ş¾Õá{²5Üg¦ -©~ôQ9ŒƒÊ6Œïô•«ı—úï)ƒ£ŞÍtÈÏeÍñBŒ!nÏõ•«‘;@B O®é-wµÇM$•.ı¾¹$
+š£Æ ñ¿‰1}ëÏöTÄqfUÕ¢ç %7$OÅ9÷è:gŞ’É#$üãú·É&;7X&L"V²ÇÑ,Ñ¦ê$µAÉ+Òx$†B³33Zçı\2û~	Çƒ4çL);’®eÌî—¹—ßœ'‡£»Ä’ï{â6e!6?{»ŠÛñI«wÜ0Ì*ğ ™j¿á»úÄÑ£)Ñ+ÓQËyv\s
+¶L‡™æşnâ £½œæQ-R¬ğÕÂ×ùÊ;Q²Úgæöi_wü>ô/¡e3‡ã·ËL¹Á–8Ri/Ğ}ÇĞH¥ÎãGâtÚHud™® ÎÃvOb,D%&™UÍThj|Ñ„Vkàª1……ÍT†‡:ÿ{K–½<¼ÏbğAîTyA÷ó ¶~4×èAP~ïˆ5-¥û,.³Q…¢—Y°n ûMTî¤ÜèÉcox>¬"Œê˜+ƒÈ8ŒF²g¯gÙÌ=×ï¶ëA¿\‘ÎLøÍa—ÁYúkú§®ouÈ‡;K‹.
+ŠÁˆ×5ñÂ±:ÿwU§?kÌ…—‘ÔtZ5(ü,FÄØ—%‰X€§Ë·Ã…p½İ=Ñğ³ÅX~>É0~ş³à/Põ†šùª=‡àñĞ:v™¥(„«4Ô©áïÁÕü¹.ì€øÄMËì…®•çv@1˜Ø«{ØP†ob:-Âô¨+ØB®>D]¾ònÓSİQ©)¤¦¦¡uáAôˆêÿ2ö~V°fUP![é9üÜm>é²FÑ…v+{zHşN$ŞE¾ôh
+–§[Rùjg	‰)—jó^i¥ş‡dõL²z«¢˜¦—şhW²î÷´ÄƒV%$¼#›±M|•ùÃBÕêíÆı…4ÉUT¼JDø‹r-”‡úmS´Ãg%„ŒÅË`å°ïÕl¡Èw (b—ÌéNrüZè—øÂŸsßí‰EÙOr½,ù?v¦ZVÆo£|®ºº‡¸ÛBıÛlÜÙ†a-9˜p÷·ı¾Ü°0Âa;‘¢Kcd6À3øØøÀC× Œ t–r@èÉ‘({Œ¬‹Š ÿÊÚ‘q‘”yV7¥j×£ş»ÓEéjö¶òd“mÃém6ğ°„ú(´¦ÌÄñ]ÕÕÇ˜‡/è‚êñçŞ""~j‚<¿š9LäÑÃ ç4sÙzc	ÊxòáÂ2æ&7ÃuD,ªbRğ¹_¾Ëİxsœ0D;~ó•úl©Ê€
+—±ûLÿVA!á–3¦O­¾°YÉª’#d,.­Š^Æ	,y&s¥C[$„¼nüˆYªÔ1¨¯c¯«¿ís$_uò¡ùÜüz\˜á—n/Ş¶Û9û†G]Î”©cb•v 3Ÿi'}·pt—¥u3#u²ÕGªiô8ÍØ:^(b*	#^^É- ívg¶«©Puî'À]P`Ôå§©o€~¢8ÓN%Ÿ¹–ß/æâš‡ÊõğE·ÿ¾suŸ¨î(ÙŞ4µË9dÿşV…é ·chQb•¢®ä#>°?X%$„çòÂªÒ¨í’œ°Ğ)¾ÏZH’@›Ú&»ã«­ÓŠõÖ!ÅS[Â†B–O~ø¨²²òŒ	ÄíE%rÔ‹µ¢¿ñÁM×¿nf}`a1-¡ÂéM?Ş•¼ÈPRÖT¬ Åç:Ñî»Sú‡¾—öÜ¯R‡££ù&ú«İ;…Ís9kùhpÕÑUº›H»o’BÎ3Î×*Û`F\MIÃP«ô/ ¸PÎÉºA®Ìª;¸Ğåt tÛËsD¡W%³‰]SÕFãMË‡\•µ‰ÅTLÛ¿õÈt\xé&½Rï&öÕ–xmnµÃÉ…O[×&J+.Æ_YJº¼ù9àhºıëg.¾•4„ F˜©U-IÕúµ‘	˜aZ¤Û«>G–)v?öÓ^0:"î7×¬à}Ò˜;º¼aaY Õ™1¤‹^ißX_tŞœÇ‚·„ ÉSÓMÁÆ·¤}3!Z0¸¡Z¨÷Ë•ö¢FüŒ¡Rcë²YõÍ!¨Î?¡ä?ü–ÛÈú ÏÃk¦Ï½M²…ŠÀ´Š²5Ák<¥œ’O•x)Íæ“RÃ/*ğ¾ä‘óà™Šš”x¨‰Ñ’…–HRi¨Á¨K\±ˆâü?Gê“CÇsKÊOİ/bt™`_DÚ1JHelÕ£!zŞæ#ºÀp¤
+Üí6ÒI»h§=T­VÏdUn‘
+\™b2şW<x³€´S•€ ÇªÃ^,ËªÛm1w™Š¿ aÑEDikªÚ-¤§¾«ĞÍ$½ÔÀ³×Î±€Ó„‹ /CpJqbéGêsvPú	+}x¥‘ùF%;¬*K·µ&i®²eüß
+7¢Y8°U4ÄÒÉ¬£€Ó5¬†-Ë#O°¼”ëiÿEbßÉ°‚&çÉ/ô`<hmÌ›Ov0Y{¾;.wj®'Jš¿©P¿œiÎË?Ü«ÓyŸ%;¢Úiú9ïæëp«Ne-£…qäú4oµ7HÏn/Ïè†ú‹8[à)Y«P×MH¨±Ôöf'Ò˜kÙF‹ÃcÌAœ½‘	%­CªŸ)1¾¤††&ÿ@Ô—µw‹
+¹›ä†)%¸<€ Jı-¥¹kÙä%ŠÍ‚-8[ûÏàoü®¹öÌS¨3Y.8†²ìh{K¶­p)x›“¨a²L`CüŞ˜ˆØ•€‡ ù¡YO4 Ü'eäØ¬M#$3l4v@:;²â¿Q¢™'şŒó•ËÈ¶&š[0zŸ®’S('}®“dKZjtÖùT–d£Ìí-óÌÒmAu_jg-y]ø§y.iŸÆæ_Ú{É\ë+kÇ¨s	ÔBmˆœBG´‰´Ãä­¬§ïvÂ>=8^IÀñâÆR0¦Ùà¾sy~Ó‘ù²ª]pÿ#±¿vgZr±¦ÅÑÎÔWäey‚
+ÑÖíæc+”àN1x’7KÊÂz—<÷IU{iwæ/Â(ÒÁyVZÍÑGjà‘>!÷T(.ÒÊ¢Á9œËuæI¤&ø(ÒŞÚbÜõĞÊE è«ş†ÕÁFLÆFÇzÅWßg¼j3•‰ WTE·î^Lös¼Î«9îæ¥Í¥"zDÒ=Eë§íÓ"3ÖöÀÈ'ù;Cb9¢NLW{Xİ<ÅÎÉzğV?>bşÂ-Jè˜>5vyçT‹äíŠßdbò]É#„ª´ÿİºâ&ğÜWR[ëÚß7† |§A>=l¤.ïh>tµà	{æWõñ#Àâ”7ĞÔiÔïšBĞ¬Ğ5MÓT ½£’à*vû«¦ì ú“xó¨}ıÕª¨LµûÒ1–ÛÍsët6.¡€ÂØîx^¢I6›è-ÅVábmÏ4¢^!…g­©€QÃ2+íšë-¢j¾xkf>ÖÂÖŠ3ªç‹$W¯ w”hùÓ$ƒb‘†Kæc½¹©åiĞ³©†â ĞÚPÉ®ÒLºíåD¬@å¶xTïû|$)z»÷$ºZ¢Vu¶F`ÆÒÄ*Yaò3áŒp;ƒ£dlÓ ÿŒ+Ù{cÙP‡+¼èÂÂ1étcö&)”r¿©Ç!ùæÂÊ=ÄÚš/âèWÛÒ6^‘ ûÈãù¼´Ú
+’®èÊºd$â#d>¢µ:"ÇĞ*ö#KÛ±n°ºø¡Ñx•…)²í|RropÆigY.ğ%ß»?Çşnã€abL¦`4ÿ˜R>g6©–jI1ƒ•óñ¡‹!®éM¾ĞR?½U“üñ©Jk¶[´ß	ıZ
+É 	<ææY§|ú„û¥"üõÔ§’æE¸ÈÜ„”d‚zê®ò>$ëRŸéqğ]ä®6©Ï”LÎGıØME#‰C»şwNtÆCtÏ}'@ú”¦Ú"^Nó5M8¦FW+ë¦'deöù{aO6âCªGy™ıUì•­½>Ë²º!×çòÀº¸¸âİ­">0Ò¾N³_˜œÙØ4‰ö]5î¹z2QFXK‰=ìÒóæ¹¼Ê-íî‰S€ú ™úY·âøÀÍğşÀ‚BXœâû¦²–Ÿ:40j°@‚ş1}-Y¼ÍÉÇÜ¶T=Ã˜í4ğyb!$k/Ïå÷Ûğøº	9ûÚ2nøóÆ’Æ.â£â¬ZÍFxæÖÌ(!³ò3Ñ¦´Ğ†ç^–b÷Ó8İ+ëÈˆM˜Ïü€›‡falæâ¶HY	oî”mÚ_O»¯@ªåÕOÊ•¬=2 AÕÓ	¢ÓuY‰|``ŞZ±b|×^%•ÚÅ¿NÜˆ÷/2#ù¦ĞüÌkÈ—Ê£è˜0ßó*âY•)3×¢ä±§éşa‹×µ˜m­^yõt„‡SÓ_{—FU*|{„Ajoê+ö	FÜ|n©"lL}²hÌ‚9v\CÑè¤{ˆk+¯üºÂ^)TwÖƒŸ¾Ö6şÿè÷Ì¿DŞÕ³İ,¢ŸÕ\·y¹˜Q%3²€²Rú©`3ùöƒ³t Ì÷=ÜànSëSşìQ¤Ö4ŠE¾tGË3CyäxöØK<¤Šİëäb¾dwUWÛd+U‰yŠ¦ŞÈÊ{õêe§él™12¿·, ¸%g †~#­ÙM?"MÁ._µŠ³µÊâ+Ç1Æ™ªÃa.¿ø'”@<îÖ%¸o¢}ß}«¤¼ér(:{¤afaãfDşÄ5+ãlÇÖñ²ßQV–Wµ“óÜ¬WjÁß1µ|¾oÉÛ­­÷.²²`Ú·X×)ßÂ¦ìÕæù!'…•:~w|:ªÜÿPĞ>î¢Oå?ÍÌº,#<'Ó¶¹V(ë şôó5óKõ7_Eˆƒ’È
+}.ã.¸ÖPr²ÌHå~¤f‡¤Óˆ@ÚªqyeÑ!œ[eî„E§Õ‘¦F„£ÅĞ.2¿*Éa•¯Ü	ßòL"j«c‡ì£ñ*KuØ¿éªĞ´dW"Wp˜úÎÃŸÖd$šøTpw¨ûL10È#¼q¡¨Ñï+@ šÆ‘4ù{‘Àìµ™øEÙ€h” üƒè'òœÇâ&ê
+i_Ö–¹éÍ0•yámÌÉeõ;Å£Å#ìŒ@4WŸŒêòAãAÕİöLÑ/‰ÎÏb÷¤88ª}ãÏË¬CZK´ç‰5k&èğÌãx˜pCöŸîÏ+ıŠÎNä³§J<_Ç°‘®–€Æn# jØğç
+Mõòğløt|ŸË‹,3q¸ û\³ï‹Ì”–¹?]±#Lg1Cr“™h$í¦éù4r{­û`üãY¥' ?>Ÿ£S7ì±ªXğPó;^ärÃOõd}ÕåZ?áû¬ˆ®3¬¶ŸÆÀ‹ú×ß!Nmƒ4¨µ½”S#²gä—IÑS¾pgKh@ÀFu!‹Ûæ®›Y·àê‰ÃŠ6¹Ù%s¸qn¿.%§êV×É{H^oÙrÉ:ÛİŠö„5‹ì2áÍó»+õà!\ `pç†Ñ®ÔüKÙ6\©F(fp9ÁçÊEÍ¹‘Ş£uñü9$º
+7Ê8ŒªzºÚ0ß$™ìïù³¿Ã·
+.ï%Hk¹Ï6İ±%¾äpÍò‚ãe_¡üÊ[pMTïkÌam¬¢†ÂbS¦Í„VWO¶Å]–¡ISögÍNjĞ­ª•Şî¤•6Úé=£COîøÆÊ«@£Š…¯½aYÔW¸³ïëî1ª¬2ÅXí•Õ¸¬ø+ÄÏ+¬–ú?×áêEÙÁÖg?òv–¤<0Há–%µ«Í“±N€…`÷9‰<ÕR^úzÖwÖù_Ù‚­å¤š<º‘©¼>²]ÿJ´UVû ÷¶6­|BÍ.f|GKgİ.—õ8fm—Jö^T5Š1Œ……Š9N¤â»?±"2İ»N»‡`ÔúSÚg¦óDˆA½ğ«\ïoC oµ&DnŞÊÂS‘¥
+ ÜF 
+K>ød9$°·O@ÛB‹MıÎş+ã:8,ñ‡ÚQ©ïÒ{s?#14õ–uŒ1‚°'"<:å	;_Ç½…\w~f3.b'FÛâ«N0Õ‚âhM"ÖlDÇri¸ËâÎŠ>P„¤êıØİl!AM/@õÕ@G8µÕss7ÒÑï’0Öªª±„®"Ÿr0Š‡ò“+÷ÆÍ$¥æ<HİHløqôŸ³ü™»uª:œYÊu0'3ğ1ÙÙ.ÀC è-ß·–Ìuø	õ¶oõ?_¾±©'t&”"K{Âyù‚k-3Ê­î³N¡7Ò«ˆ9È¦Ûßğza|,!(Šµg}7›ÑJˆÉ˜æSLÉßâ@U¸Œ
+Á¥¤0îBª;Z*GCÄUò~¼³ğ¥‘Wúì€5#•Ã\Ï&ëF%¸!„¿U$2*ÎnØ‘ó1«&ÏQĞ-‰ˆBî<É8aLp¢ìÌrNFìEPä»ı†E,, ägiE­$×AÇ10~Êó…|Ì-JEgz?™a~¿ÄüC]º}ÚÊÔI	ÆïŠPÒN¶³µŒjd½â"ãDf½Jâ´7ôOş·Ã¾û8¨N5…„OI×VÄ&( Ö:xşÛt4Ñ¦K¥½'Â¶~èn«É4xr’jÛéx‰^âr0´èqŒ¸Ÿ·ê¶Å-r" jÔ²µ'è½fç¨1±íşÂxä×¼ni1q¸ÀKyÑßèƒ‹ZÈ¡&b½Õ‚9=—¡&_àäy½¬2#<¬Äy7_m':ñ<¶<Nİ]§µwÂñÏh
+XJÓdßl;K‰]tmãÜ&(¦b—øŒzÏ
+k8şkˆD…ÖÇk½_ëAÆ+QÒÒü”*ÿî1¢.°ë»¾|İÙ„eõÄ}„@¤ÒÀQ}ù›oDrsÅ×][èemZ[±`g÷õ&LPÀ>Íİ¦âx¯û’>şê£I¹òk‘-®±u-eÏï´/'G÷óæÛƒG"¸²ÿIš)1o_ÆU¶íŒ¿Üÿîö?%ßéÙî2 täWÜSCb¡Âô:e(…¾ë[ïúIÎ½eÂSL<Ö~~œŸÆú•–•—ÁîÚ%)êk:¨şZEbqò¨Q™1ÑÙP{Ó—Ó
+ÏÜŞ¨d÷u,Å«xëÏ^´y3QT9R€´óZÌpCzlù'€Â‹·eœ9ÿAAÿÊø2tÓ‰âSH9â}ôÂÌtH™è8 },°_•ˆå­
+¼Yn3C¥"i“+yåÑêc«°ñ‘sÂÊë3¯~ähV±ßv;R¬ÔÎ>{ ğ©‘×>Ü„dÖ/©I73¡û®oÂBŞ8á´·×Vy÷’ºıÉÙ|Û¦€Ùıß; ¹Ûd—s¯7WpW(§ÎfYI-¼•Æšà†‰F>–
++»â¢Ua~˜ğP³¢¾H½Å{PM‰4¨Ó0ÊTÄÅ†ÎibÀÏğ8(ía¨‘´·Æì,Óq¨?M@U£BtğÅ çàÛ6¦Qò¡²Ì,Vú÷ÍHüªÜP:ê0cvûS4m^ïqB|ô¢Zg“ÒÔ[}ou6…ó±ª¾\ 8ó‹"ú–³®¹Õµ÷²Œòzì›aekìˆşf1Æòm;df…cG™¢øDˆMo–é·,Ğ®Š7	¡h†ï1ıãÆû.A
+2İËÏ ¯şÀ€*œĞmú@£•&GÒ˜‘ö”–ƒ/3kNöA5şÂ´:NáŠ¤­Ïw!€ıæEšy®¢xÙW!u Ü&CF½ÊÚÈ-Ñ³è£×ÙE¿dq½¾sÁª5Ü`aN®¬rœ¨}UO1IÔùÆÙä”Œîëç¬ºk/ò"ıE4R@ø‚‡{”z×ODü‹z§õRQ¢¤…yTÏ½ö3õ€0¿ƒÚIšÆ_r*-Ós×ÿ·Ù„¸âV?{7ÎÀ<.ÅñdlË“VË®˜ÃåK€„ãp}MåÛ
+Ü»¦•’³³Ë5ğJàpÛÊl*2yŠù á<Òß¬R=Ì’€¬êŞ¸b¬êkËÿy˜`à@JoNŸƒgø•òo¿•‘`ñøK•¾Cë±(¿ß@c´qÌcLĞË3Æ_`³Ørû=¥7S“ğ‡_äÌ:Ä5+H·–ñ6O1+a»¯U±XMâ¿Y‡/ULï¤CqYjnÍùòÈi‘¯YñOvÙ*fz{ıÜdëq­ h^Óˆôbv—ƒ„¤ìÄ5ÖcZdz”@ŒñûÊLQ¯:Gqƒ’ïãİî‹ÆøA.4çØ
+¦‚‘ŠH¡Ùñ°%@ßëo±—~‡‰ôÄ}is¥Êôqîã£vÎ…}z—©Nï¤ş˜õ$tŞ“³&ë¥;4ÃoS~rcW\Eu!”:‚7Šr'ÙÛp'ë,2m¡&=¥¡Ã…ÏèÂHÇdéb§øAr2´.²ƒ®ÅÛİˆ Í¡zà èü	[–bEîº?Œ¯ö´Kà2Åx«S]YE7‘Â^-M?~B-š¶Ş¡e;9 ¿¡êÍö½'Ä­Åz».{}ÄÏ0…‚i+$|tNïÒú¾êü±¡¯¤Bƒãñ¥{ÕWv­ìDIM4}—Rè(?îŠ`vƒg‘]óÒ§Ãî°bõÑßücÛ#hUØ³qúà¨.†i®˜ió÷\}Ã9&yŞ6IIj–1Cğñ§ AUšî‡™ªI¤,8
+WI1ï¼ÂşOÊ?3kTv ÆlÜQ•Q>ÇÙÂpnî¤ÔHC-ğ7p¶&ò?¨!
+·D±«š£õêĞ¼@èØé³¸a0Ó…Å¯oº°¯ñ£ï¾ßè\”û¯mX¦É›ïUZ—ï$@DÊÔßT½üös¿exÍÂ¯UÓ~™OÒN£Óù<@j¸ƒWûŒ$àLªSbá¿j¶ªÂ"ª|Q¼‘ööıªèaŠiµ"šF¥÷üí«ı/ÍÂÅ³eÖ^ßàíÉƒ»ûÈI¦äœŸ+;LØ09Ğ„ÍáCN!'í*œšÄ~~í‹ø:!2…§¬ÆĞT÷Gt"æ×ÆP….ğ{"2áB0H¬‹¤‡ x‡Ü^Œæ¨s¥÷e ¨E·>úm5® 1÷g6tzâO¢¨ææ~#¦AÏ	ÚoÙÔ¿ºLêÒæ{ÏP@¯kÛv§æ‰pB¤øvUJ×{ÕZˆEö§c(b!¼ÙE¡¥ÙøˆDh£1Q^¹ùñ}ç)­utĞ¤¦„‰=šÍ˜BóÇ£®;Øo»Øfjßı"jmO²­Æ‰u'Î1¤ã`Uó¢Hfjå\?Ã¶ËF…ÂŸ7 â&øEF²ì´‹@rMZFs¾ÏHâ„aIKŒ(/wV{¯5‘0¥QBë¾‰¿]“C­)IÃÄ"Ğ
+l«e€æÔv´y¶m«HK¼…$u&Íê°àâI±-¿i±CĞNà|23Å|cÌßS/Å®41³œÛœÀçÿ”©üÌ~umsš(5b6Ìs¹µ¨c¢±÷ø´r‹hŞ›ÚÜŸ± ¯¹£gË¸ÿ§—ürÙÊZƒ}ŒØ½™Ú¢6&•äQåkV-u›h£ª‡‘R¥MìPüInÆdÙÊqñ  £rõ´ˆt^·ˆTß‘™$Ó,±iìÙ|JF–
+?¹âuïÂy;×ö\V“wÄ¨ÔùrtÂYD¼MUQp€]‰e[o€g´˜ñ¯®ê¦HîqÉ®’5Äˆ	 çQƒÍP³Šš-iy™˜"7}; àÈ’¿îëİ¹3¦†Õ KÑC~±ÁìõO§ZÔÏÉI…U%ÄÑÇ=8 u¨¼×ÚşÙÓ³ôo>–ïl&|>të§îñä$ÓËåØbè43{Sí™¡äY¢bø9.åŒŒM öÉzx¥¤ªÅL½€Ì9¯îò[¢TÆÆDxÈCaªƒIPšŠj¼ù¾˜“¯C¹‹Ãèzø‡%íÓƒ±SEUlE×^?–¢«4#3t÷’ÿ06€ÑzxVğ¦İí+Ã Rg9h”Be~ÀŸš(@ÿ“aŞËÒÚ†oñMÚŒù2F
+³¥l®9t>!’Õ:$6øü¥Hó¯ª^æòmÖ!t®Ë§v%3$z‚Aœe}íõkŞSÍk¤ÎE£÷İé¾9½ØÏv„—Ú²	Ptö(%HmP+
+‡ÏÅÒâ%®cİŞqğáÓÖÆn îÆ~·7Åo	á>Õ·Ì©»Ï¯Ğa» Z”*)ûãvC8“^
+ìèÊñÔï0R¤lSåM‹Q”ÅC,ÛŞÎÀÈÛ5Š¿ãGÌr"6Æ§Ó‘j·_8¢W ÍÃ°3‘ÜÛT:æµ/£ó£tF™nÈÏ¬ ë-³‡S Ä+ããµÅY\ù¥“ô 3ÎjSçp4O*£Äb…‡·T4¾BÏ;Nñs1Ï«ZY%‹’¹æ:U¢¡ı]¼$&-mÜTg!7¨‡2¹x\A­ëMNx³ «¯Édˆ3PÛC‡û?ƒä†e¬¤eÃUİÅåÅÊ;¼PÎaWweá]e@è3ñE]Ã´¾Z*¿‘<Æt¸*ox³¹ŠÎßOÄX±ô:â¸¤4ÉËÄä—‰?‰0Èü¥yã–dÜC‹¿ë?³bke¿u#Ş³Ñ×t8lÛ€ö•úÎåYÓuÂÎ¡K®õ”íA®‹è³7•¿Ô…,¶G™Ş‘ÕŞ‡XßledH6't§0ôf'ğ[Æê ‡‡P¢&üĞàŠNÈ1ñPŞR7Ë`gÅM:F-¢ª»Á¯Ø¹'ùC@4bñ 6®Ï‡¾6³£×X¦ó35›)½Ãàj¦¿*ã1§İ­:tŸAD³YÑ_ã.”­‡Q/r~àg±°)Tİ®ŠÈò=
+³Ô¯s0œ·_;øsë»8ç˜‚[s˜àôk•bó¤Çkæ¯´A'c|tŒg/Ì§©©Æ]Ê"cî;•Ï]y*©â‚õŞöí‹>ôSdT—¢öÜd5ß¡…ş@àÊI#.ßÒ¼	ò¬2†!ÿÎ°Î(İ2æH]‘Œ™ø:Å÷+Î€æˆU,Jc•˜¹™…ïi5Úş8 ¸°	e›úF2­â“TŞò‰ªc”·öá˜‹S§¥4ßÇg¸ñØë(¿º$+„™€oÁ£?$¤îÅõiÆÕ1„ğæ>À äè¶•ñ‹Îäi…å©¢£RÑù¥4
+’FMmİØ‘I5Î·ø,ÓÁ³V|m§é¦íÙÜY"Ìß;pÙb#ÂÃ|•Öõ¾ÍÏòÿSlöwkÀÁÖ4rpÊ Åˆ2q* v=óDŞh–
+‰l÷Cğâ4ìbjßQ‹è7ãeÃ®8«¿Ëø¡q¸Q»ˆÂölØĞ<ƒo„yC4HëXúvìùRª*XåonëlªœÓ&\ğÕÒ©Qi¡tái%ñ·6XO=ø`.ØWaÊ"€*D¨¤—>KïÈ¬P6Rº.¯6ÁMæbª›\`ŒÚŸeœÔO~:bÆA>’Èª	¹Õ(>bş§B!äH­˜j°•·wrçÛ¼Auß%ÕÄåğ‹J?ÂÒºîÕ@Ú³®a”ûM…~ü©Æ¶dL“VÛÅÊb²5a€T9³®²üfa¸Hš2ª+¨+»
+C	4?ºc&)Ö;ˆÅ6‘¿x›“÷`vJæ®şU=!¸´ó¶µ%=ö4xÇj$	ûŞØ+PÒ[ş)öì”é*#õ‚­çÿÜÕóYvQô•ì”¡÷‡«ñµ,t‡Æı•bj"—ği%ğùßœ„˜B°
+|`(%r1$
+Ïü¢('záu.¶Çøşb;ş;Ø™„4]8^kª±×›”›	¾?.jı G<·1ÎÕá+ìu¦¡F«åqÊ5ÂF{•ªş'µílOr+Ñ&Õ‚(:{,”ŠÓˆ1ÅÃLiWB¸´ébsá¾LM=lpuleáÜõ‹fjAÜA	}ìÍ¬èèpùz$eµw‰C¦à¦Í •±Íƒ~Æ8ødÌİÆ
+®è9·yïDÙ¼;9, º$I¥ŞrÂ¶›h(¯èWpqÖÆ6Rñ—Â1›åZ,ÔOK€ mHåmè¾9øKYV_$Áòy‰}#XT{%lÑ˜Œ2™”ƒrĞ¯ß’£ŠÀéÔ‡ßÕÍŸî¡"Y@m•?ºpË{¬Pºâ†½{;,G·x†a‰M
+b¹xg*1Û:-q¾›YõZèÆ„°‹UR	û€MA x+'äì-’„\`-*½5J{Ä›´•BÚ¿¨_üü*ŞƒtÇ‹ ØöJU4(şÓŒöëTğdœÜ:‰ÅÅ&É<H‡¸¥éßWŠZÄ‹´BÛ\ûn÷M:·«ÚW+ùÊ]ÆBÎi[¿*!%(ä
+Q¯¸.@].FÅW93S†üÕè{ÅLJ2Lt<Ò¶Ş:Rê>Ë«§Tœøƒèn5ÕÆÌÆåQJ,ÖÛ‰È­F	†´/ªndŠ¾7^`-o] Ó ±`p†û>€QJÉoVô3™)å2LcÍk!¨‡AÍfiæ–?‡¹‹]šÎ[§¬æ­]÷ÇÀ¤-b|¿ÂDÍøgfQY§?-:™;*”%ØˆPŒºîï¹sK‹Ïªüí1™MwRïèRodÑ3¥øxÏL õg¤§ŸÜQEØ´€@÷1‰ÉÂé·×WùëÏß€nÈ­ü3¯‹½®bdÃKpù~ûÚ˜áY>±²¤%$á¯67 ÌGTl±Q‹ÉÜ¹Ê„Ei-‡üwxlvä6 ¿ÊËÓÏ¾ÙG$ÔäÁR¥Èá?úv~`16z¡œåz‡¨9ëQìüG¿¾=/ÌÏø8uÛ{Ãöön`cÍVÒuvä—-¤PíêdP… íŠOMq–~ì–ìßúÿ™¡“˜Î F ‡U^Yöƒ²(»”îà‡½.)@Ebƒªî‘ÖÜ§1ä¼/=ìÖXŠõ‡°jÍH±›q3éØp"$eBùØO¾¬ÎŠ{S8}s´½®b÷ğpbP+4²ç±WtwivÄKÑBVÑù±Öh§V‰C`Gù[±¸‹¤ìÃèiA~Dç@j=ÉO¢öÑ?ö€øÓ¸«şÂƒ{ÒÊÔÂ4Z÷À„qz:¦×RÆK4K×ÈGÍÚ(Ø¾^èº[:ëÅCY”ˆf/)ÿÀÅÀáI^&a-I¿ˆ	;NÓn_f gÊÒ¡Ó|„ÖæjğÃQAánI…zFbeµ‘Áõ¬êˆÇa4cr…İæjúH“gqß°ò"¤ç/¿á3Àû½–±Ü²«mL@ñ6/ğ{óôu³ËİŒòéŒ?X¥Ì¹=· büÎà¼¢:ŞgC7¢üB`¤À‹Éë?šY«>-£Ù›ïçôşÙNßÃ —lGï³ ÉFÇÌMò)@a|»b©+SOğÉVØŞÏš–hv¹g€4½œQfá&ì°ª?jAŒò€›#@ÒÍ ÔVúZèv‚g`N”8Xè9ÄYšÇÆ@zéôEõ7™T8aO­ğ‘{ôKÉ¾’$M•~ÆL/kîK¬
+˜½%Z+êèÄÖ€|:nØåÓwïŞµÿôÆvşú nhÜñ`È«ê‡•è ğŸ¦æÂ»‚â:^ç?Æ¤rÜ˜iÔ¥RJY“…<ª£åî~ÒwÉÂ¾¨ƒ3¥! â³*QÂ;, #u‰Š˜}²m8iü¡Ê¥ŞØ ¶µÌçIÍ+·]/ğÚ€„V"Åí`¯ë\€¨ZÈJ-Ö_³Ä¼ÜFöt§`}=kP¢äµGÜ²gÂ«%è\é0ô•^]í:2Œµ
+Tø¿òUñ¥ç¼»y#ÚéDÕ­qÆšı2/ÈïI<† e&>ËfS#, 5Äj<".ñm·fü¢™_M8Ô6Ô[ˆëÒŸ+Ö±|İ-Zó	%¢ÕCøm¤Y¤_o:}J¹€í’æ¾çJ€ï«âSnû¿<ƒıõèókU=Još7°­ª¡Ë8gphnXé¦÷]#å2AÂbi>“fâ|‚4•êÄÚ¸|’`½}:‹'©§¬3„¶´Ÿ±'á©HiˆºÉváWòùTg‚ˆa.´àê ‡ü~Ğ„²Ñi×Bñ|4qÉÚuÏ\P?L-µ a×	uÃ:¼ˆVÉUB ³`ÅLÇÍè¢®È@m-C1' jænœ÷Ú¶ŒãGDz_’hÑ®ÔÆy’¨ùC±,‰Şÿ˜[¦†BüàCÍõSm0k~jË›İ'ğ+½¡]‰’Ù®ó3©(x`]ş®îÍÒ±¬4Èp{Ò1µ¥“{±›ºğsµ;Ÿµ°tÖZì5²G ájFØ:Mí¢†ÄÚr0^æü-•—?˜yFÊˆóz‘†¯cWğ×^u8œĞì~²íVN¨$xßÎöNxzÿ†/ˆÌ®L€
+kƒ½S£³°ç&ÁçQ¦X;tƒ7û/7“t š'%ÈˆóyÄ´Î
+.Â< @¸r&İƒ¹h^tü»*óº<¤µ<Bó~¯t_«¿{ƒÄ¶{kåp_KıßñĞÁ-Ì(¸0E=èwˆèXª·A¿±<N7Ã’xŒş«Ögv›ÑàÂŸ(Ë°(ıNPíK[ô²nÑÕ¹Œg*,J„Ì†'Á°qÉÓiÒ°µw©ô.—ÔDÈ&s†8l-èJúPD÷o^C m%c«ä$;¹DY;M;]’êàƒ„ã(şØU]î”tQïG7wqdhÆWåûœ¬–*ÂØÂÉä~ov€ö!šŒ-6`|(Ğ‚ÚòM,RuI{„3`ÍY È¡wxãZÕÁ¸àt*ÖÄèø93Kğ»kçbÚ£óÜi…S5<Öú<iô¼vÃúŞ4ÚJXšx	¡•À¬¾äx(­.Õ’"Ñ£©Uaâ«¨ÿ¯yÏ|š1`cëGÃq%¤ÈÑ¶]d]òÉXßgk˜¦.@2„ç^ô_\q2}UÏ5¢VÓøZ3{C¶ùOşÁåy¨ö&¾½÷Üß´½÷ë#èâ~Yp!A;ş»J(¢ßÓV.ÅÃ+@-Ìèp—o¿@ŸÈĞ¶ï8”ì÷z0«fWÿô~x¿}IÜT˜‡BßŞQ‚NDLÜÍ|ñqíp“ “ºÊ<VM§Ì®Bz²îìÉ1Ï°QüÀv¹ç×«%/ ËÄc1~•.B¶îè‚§gJ‰F‡‘¤	½r¬r€ˆ…ëæÊŒoê9œìûà[XéáßÜ¼O.\j{’.IìÃíPDå(~ã#’*^OjE5ûÈù™œoV$ &ŒŒ:øzŒ-~]%ÆˆÛŒK1^,ju‰çSÑ™øe:¿+bU<Íç=Iëª]Í°ˆë™ªÓ-å»
+ğúp"mSáßªè1ˆu)&L;?Y”“ÖU5ésJĞ¿œœäš¿è@¨iHŒJ¸'è~C{l½İÄMì‘°bÀ@¥2€r¯ù¹ÿ´lÆ€ÛKÊ#ïš£ä’HœI(Œ£*‘«!a9…ÉÌ÷‹ ˜­ÏğGÒ”¸vŒ!¥#ò÷6má/<6::€j+?ê˜$‹ö”®İE¸ D¹s5K6ÌÇ°ÎzÛÒ_úÇjØÁaFs"Ğ¹û‰±`vÖß®ØG}X×K¬$nEîm`9Ù…‰Ò·"#áV7l sWDÌG2`§ÆÍûãéNp`›ãÀåO¦‹QU^\J )¡ıÁ¯X(ç4`1e6;úƒÓ|û
+èCê¼#3°‚× ê‚q%â’°iÕíÚÇ¢h8`–¿§2Ï1v«íø,ÖÃß'¦Àö¼Ûš¼†ÏS‰g:¯™[††¾
