@@ -47,7 +47,8 @@ def generate():
         target = args.get('target')
         try:
             ok, prooffile = notarize.generate(target, header)
-        except e:
+        except Exception as e:
+            print(e)
             return "The cipher suites of this server are not supported", 500
         if ok:
             return prooffile, 200

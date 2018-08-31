@@ -8,3 +8,220 @@ Traceback (most recent call last):
   File "oracle.py", line 1, in <module>
     from flask import request, Flask, abort, jsonify, send_from_directory
 ImportError: No module named 'flask'
+ * Serving Flask app "oracle" (lazy loading)
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[2018-08-31 12:59:44,923] ERROR in app: Exception on /generate [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "oracle.py", line 50, in generate
+    except e:
+NameError: global name 'e' is not defined
+61.50.105.122 - - [31/Aug/2018 12:59:44] "POST /generate HTTP/1.1" 500 -
+61.50.105.122 - - [31/Aug/2018 12:59:45] "GET /download/%3C!DOCTYPE HTTP/1.1" 404 -
+ * Serving Flask app "oracle" (lazy loading)
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+61.50.105.122 - - [31/Aug/2018 13:32:22] "POST /generate HTTP/1.1" 200 -
+61.50.105.122 - - [31/Aug/2018 13:32:22] "GET /download/31-Aug-2018-05-32-22-oapsb3d3vy.pgsg HTTP/1.1" 200 -
+[2018-08-31 13:32:23,202] ERROR in app: Exception on /ipfs/31-Aug-2018-05-32-22-oapsb3d3vy.pgsg [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "oracle.py", line 73, in ipfs
+    full_location = response.headers["Location"]
+  File "/usr/local/lib/python2.7/dist-packages/requests/structures.py", line 54, in __getitem__
+    return self._store[key.lower()][1]
+KeyError: 'location'
+61.50.105.122 - - [31/Aug/2018 13:32:23] "POST /ipfs/31-Aug-2018-05-32-22-oapsb3d3vy.pgsg HTTP/1.1" 500 -
+args:{"target": "apifootball.com/api/?action=get_events&APIkey=c28349114bd830cda823625906827385b204ea83e731b00499f89ebf2a6bf66d&country_id=169&league_id=62&from=2018-8-19&to=2018-8-21&match_id=306321"}
+query host: apifootball.com
+ssl port is:  443
+2
+handshake type:
+2
+11
+handshake type:
+11
+14
+handshake type:
+14
+is rsapublickey: True
+old server_mod:
+26064084246702462130248314121449792592536114652252577702127239796001770583501505568197263720097998766923143469958634300194224941418177916183801752386739675013791277055183979886663169192479853381382644127841563406770216414470003924203315160827252300202427656775437594701528878498619319146468987113790079818627147050394895319342853934152626606929908117624251099714782474718664713002753673263260673098214005605028442593828437712914872394620980153000372502175611609156810819279315901444037100435057433946599004014340657697682837344137767243139618429167235769225415848648629662730620082021078881483640969623096420524552923
+server_name: apifootball.com
+Preparing encrypted pre-master secret
+ramdom choice: mail.ru
+2
+handshake type:
+2
+11
+handshake type:
+11
+14
+handshake type:
+14
+send data:
+is rsapublickey: True
+old server_mod:
+20864293372012881631069946212399626703752773318784506958188863113329552463762168571053330351528316364559799725562808325535353217408274414915037294905530951352762062863698338803532097848352015727599261291803210797200464914005737177955769222245734426739120223670065677040466004171901873993322676409851582119164412020255050846767655096912446708731924191562080527197333208342210369013317885522320344972656988716733053800741538927132093822662396324081793488506060914231249503662045034223436588861747526198885227752460995679740150253490425571391805524167901213532052980473337944295314359917349384214564404617835976209884521
+Performing handshake with server
+2
+handshake type:
+2
+11
+handshake type:
+11
+14
+handshake type:
+14
+send data:
+send_and_recv
+1
+IV inside rc4dm:  ([72, 177, 220, 208, 157, 164, 213, 233, 118, 150, 125, 189, 63, 91, 224, 70, 225, 203, 102, 121, 182, 120, 188, 113, 133, 234, 73, 184, 27, 111, 107, 253, 105, 250, 34, 235, 17, 58, 43, 148, 100, 53, 2, 117, 221, 101, 28, 222, 64, 103, 136, 242, 131, 142, 37, 15, 191, 88, 128, 96, 39, 74, 216, 147, 89, 171, 106, 123, 18, 97, 195, 40, 38, 119, 129, 115, 49, 92, 59, 169, 174, 29, 236, 145, 217, 124, 226, 223, 194, 130, 52, 149, 245, 187, 254, 10, 108, 132, 246, 56, 140, 4, 12, 122, 62, 71, 31, 79, 166, 151, 85, 57, 135, 42, 237, 68, 168, 25, 214, 201, 137, 65, 44, 175, 204, 192, 13, 36, 60, 215, 138, 143, 75, 183, 232, 152, 239, 167, 32, 228, 86, 247, 78, 0, 162, 205, 141, 90, 172, 67, 3, 95, 144, 87, 154, 51, 14, 155, 178, 156, 207, 163, 16, 240, 170, 55, 159, 173, 186, 46, 179, 114, 190, 211, 5, 218, 176, 48, 206, 153, 33, 219, 193, 255, 19, 26, 110, 199, 161, 243, 180, 83, 198, 209, 200, 24, 248, 98, 210, 84, 126, 202, 146, 104, 9, 241, 160, 231, 196, 82, 93, 134, 244, 22, 238, 227, 127, 21, 50, 212, 8, 11, 252, 109, 77, 229, 61, 20, 80, 112, 249, 230, 99, 35, 45, 116, 139, 94, 158, 181, 69, 1, 30, 41, 81, 197, 23, 54, 251, 47, 185, 66, 76, 165, 7, 6], 32, 45)
+20
+handshake type:
+20
+send data:
+Getting data from server
+6
+48
+190
+alert
+send data:
+
+Starting decryption of content, may take a few seconds...
+Verified OK
+tls session successfully finished!
+time used: 2.3  s
+host: apifootball.com
+
+HTTP/1.1 200 OK
+Date: Fri, 31 Aug 2018 03:32:22 GMT
+Server: Apache/2.2.15 (CentOS)
+X-Powered-By: PHP/5.3.3
+Access-Control-Allow-Origin: *
+Cache-Control: max-age=2592000
+Expires: Sun, 30 Sep 2018 03:32:22 GMT
+Vary: Accept-Encoding,User-Agent
+Content-Length: 5311
+Connection: close
+Content-Type: application/json
+
+[{"match_id":"306321","country_id":"169","country_name":"England","league_id":"62","league_name":"Premier League","match_date":"2018-08-19","match_status":"FT","match_time":"17:00","match_hometeam_name":"Brighton &amp; Hove Albion","match_hometeam_score":"3","match_awayteam_name":"Manchester United","match_awayteam_score":"2","match_hometeam_halftime_score":"3","match_awayteam_halftime_score":"1","match_hometeam_extra_score":"","match_awayteam_extra_score":"","match_hometeam_penalty_score":"","match_awayteam_penalty_score":"","match_hometeam_system":"4-4-1-1","match_awayteam_system":"4-3-3","match_live":"0","goalscorer":[{"time":"25'","home_scorer":"G.  Glenn Murray","score":"1 - 0","away_scorer":""},{"time":"27'","home_scorer":"S.  Shane Duffy","score":"2 - 0","away_scorer":""},{"time":"34'","home_scorer":"","score":"2 - 1","away_scorer":"R.  Romelu Lukaku"},{"time":"44'","home_scorer":"P.  Pascal Gross","score":"3 - 1","away_scorer":""},{"time":"90'","home_scorer":"","score":"3 - 2","away_scorer":"P.  Paul Pogba"}],"cards":[{"time":"45'","home_fault":"","card":"yellowcard","away_fault":"A.  Anthony Martial"},{"time":"67'","home_fault":"G.  Glenn Murray","card":"yellowcard","away_fault":""}],"lineup":{"home":{"starting_lineups":[{"lineup_player":"Mathew Ryan","lineup_number":"1","lineup_position":"1"},{"lineup_player":"Martin Montoya","lineup_number":"22","lineup_position":"2"},{"lineup_player":"Shane Duffy","lineup_number":"4","lineup_position":"3"},{"lineup_player":"Lewis Dunk","lineup_number":"5","lineup_position":"4"},{"lineup_player":"Gaetan Bong","lineup_number":"3","lineup_position":"5"},{"lineup_player":"Anthony Knockaert","lineup_number":"11","lineup_position":"6"},{"lineup_player":"Dale Stephens","lineup_number":"6","lineup_position":"7"},{"lineup_player":"Davy Proepper","lineup_number":"24","lineup_position":"8"},{"lineup_player":"Solly March","lineup_number":"20","lineup_position":"9"},{"lineup_player":"Pascal Gross","lineup_number":"13","lineup_position":"10"},{"lineup_player":"Glenn Murray","lineup_number":"17","lineup_position":"11"}],"substitutes":[{"lineup_player":"Beram Kayal","lineup_number":"","lineup_position":""},{"lineup_player":"Yves Bissouma","lineup_number":"","lineup_position":""},{"lineup_player":"Jurgen Locadia","lineup_number":"","lineup_position":""},{"lineup_player":"Leon Balogun","lineup_number":"","lineup_position":""},{"lineup_player":"Alireza Jahanbakhsh","lineup_number":"","lineup_position":""},{"lineup_player":"David Button","lineup_number":"","lineup_position":""},{"lineup_player":"Bernardo","lineup_number":"","lineup_position":""}],"coach":[{"lineup_player":"Chris Hughton","lineup_number":"","lineup_position":""}],"substitutions":[{"lineup_player":"Lewis Dunk | Leon Balogun","lineup_number":"","lineup_position":"","lineup_time":"20'"},{"lineup_player":"Pascal Gross | Beram Kayal","lineup_number":"","lineup_position":"","lineup_time":"90'"},{"lineup_player":"Glenn Murray | Jurgen Locadia","lineup_number":"","lineup_position":"","lineup_time":"90'"}]},"away":{"starting_lineups":[{"lineup_player":"Anthony Martial","lineup_number":"11","lineup_position":"11"},{"lineup_player":"Romelu Lukaku","lineup_number":"9","lineup_position":"10"},{"lineup_player":"Juan Mata","lineup_number":"8","lineup_position":"9"},{"lineup_player":"Paul Pogba","lineup_number":"6","lineup_position":"8"},{"lineup_player":"Andreas Pereira","lineup_number":"15","lineup_position":"7"},{"lineup_player":"Fred","lineup_number":"17","lineup_position":"6"},{"lineup_player":"Luke Shaw","lineup_number":"23","lineup_position":"5"},{"lineup_player":"Victor Nilsson Lindeloef","lineup_number":"2","lineup_position":"4"},{"lineup_player":"Eric Bailly","lineup_number":"3","lineup_position":"3"},{"lineup_player":"Ashley Young","lineup_number":"18","lineup_position":"2"},{"lineup_player":"David De Gea","lineup_number":"1","lineup_position":"1"}],"substitutes":[{"lineup_player":"Marcus Rashford","lineup_number":"","lineup_position":""},{"lineup_player":"Chris Smalling","lineup_number":"","lineup_position":""},{"lineup_player":"Lee Grant","lineup_number":"","lineup_position":""},{"lineup_player":"Jesse Lingard","lineup_number":"","lineup_position":""},{"lineup_player":"Ander Herrera","lineup_number":"","lineup_position":""},{"lineup_player":"Marouane Fellaini","lineup_number":"","lineup_position":""},{"lineup_player":"Scott McTominay","lineup_number":"","lineup_position":""}],"coach":[{"lineup_player":"Jose Mourinho","lineup_number":"","lineup_position"depth=2 O = Digital Signature Trust Co., CN = DST Root CA X3
+verify return:1
+depth=1 C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+verify return:1
+depth=0 CN = apifootball.com
+verify return:1
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=apifootball.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGHTCCBQWgAwIBAgISA7pkjUFcNPdzLQg4naPacDoSMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xODA3MTYyMDI2MjJaFw0x
+ODEwMTQyMDI2MjJaMBoxGDAWBgNVBAMTD2FwaWZvb3RiYWxsLmNvbTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAM53oiXlcZ/AIR7WhzozC1ScuL90mTFu
+mtvOEAOUcvP2+NtjDQndbeyP7gtAzMeQwOSqSZzr6HZ1gKgcSh6aSF5KOUKdfRYP
+7FbXuUIgciPDZf5UEEAKJ+DoZGptLguiXlgWFaaO6TYgHIGdQkhsruFD4FXQD0pl
+BDFF/m1gargPNZx+FqNL1RB8UPlIgD0IcxMZiKaSUmoOKY+VJxSrX9av9ZglGirx
+ccPZx4TxlJKvEatqPHT9N46NkVn0z+WQY6AxdRBnCt9q095VE/wxQkRmpV1t2q4g
+Z0nUcbujsn4kREgAnW0M1GgKnw2aNV8Xe9FUe53qVoNlMhfv2Hqy8tsCAwEAAaOC
+AyswggMnMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU2yFR6+mmALlstXVCwj0ig1Vc
+UwAwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEE
+YzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnLzAvBgNVHREEKDAmgg9hcGlmb290YmFsbC5jb22CE3d3dy5hcGlmb290YmFs
+bC5jb20wgf4GA1UdIASB9jCB8zAIBgZngQwBAgEwgeYGCysGAQQBgt8TAQEBMIHW
+MCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCBqwYIKwYB
+BQUHAgIwgZ4MgZtUaGlzIENlcnRpZmljYXRlIG1heSBvbmx5IGJlIHJlbGllZCB1
+cG9uIGJ5IFJlbHlpbmcgUGFydGllcyBhbmQgb25seSBpbiBhY2NvcmRhbmNlIHdp
+dGggdGhlIENlcnRpZmljYXRlIFBvbGljeSBmb3VuZCBhdCBodHRwczovL2xldHNl
+bmNyeXB0Lm9yZy9yZXBvc2l0b3J5LzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1
+ACk8UZZUyDlluqpQ/FgH1Ldvv1h6KXLcpMMM9OVFR/R4AAABZKT8t3UAAAQDAEYw
+RAIgQfXQn9lKsnVLQPUd2XubValsb6ScEcwTeuqETTneGZwCIB9CYZ8sEJSLkYyV
+4/v97Yuy/rSRIYHs+J6HvwL6z7aKAHYAVYHUwhaQNgFK6gubVzxT8MDkOHhwJQgX
+L6OqHQcT0wwAAAFkpPy6xgAABAMARzBFAiEAhMRw6RqBMLGKdRygMWHbt/E80lAs
+D1OpyJRHSopm1HkCIFh1PT13jpta57kRcUv1eecDpHdF1AOUufpudCVlqEdWMA0G
+CSqGSIb3DQEBCwUAA4IBAQBlmQqKg7lEyURtoXeGZNCHaaAYVAl/jl4TzVniSNZW
+cLbrvHeN0SYX/MMmf8KSRCeKL6x6130rv06bOyq8NBmIYxT9Y2/IK9bZOA20a4kO
+l2CCz3pPDatveZreJBE9b1omhiBVfpdVU8Z1S17tlz3YihP2P5aa8mxzimvwsHpx
+13AnhIoNHGng+v/65NaNukyr8O/VVsaVv8b5kVQ97Oidm7GoF9WMOo9Fck38EhNf
+IcMGR11l9OR2r3LRcNZqrDavUoxQ/RwSJcUdkv8/x+554BDskUyw5vnuFLxySVoH
+/oD/HnjgmOG9JQ7pt2HlllsA3Y9KDXsw9ec8qdhOVoHO
+-----END CERTIFICATE-----
+subject=/CN=apifootball.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+---
+SSL handshake has read 3083 bytes and written 373 bytes
+---
+New, TLSv1/SSLv3, Cipher is RC4-MD5
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.1
+    Cipher    : RC4-MD5
+    Session-ID: 4E1273931C312F64FFD7014F011DA1C217A089ED2A4A65B206D4474502415BFB
+    Session-ID-ctx: 
+    Master-Key: E7BF5F6DC26BFBF866F218A942B8AE4F7737BCA899A003509978B133ECA61EEA4CAEB3FA451DCCB0B965C31B452EB411
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 1f 0a 48 0c 75 c4 91 da-40 32 d9 eb 21 6b b1 aa   ..H.u...@2..!k..
+    0010 - 2b ff fe 9a 69 06 fd 8e-8e e2 44 d0 c9 cf 2f fb   +...i.....D.../.
+    0020 - 15 6b 3d 2c e6 9c 47 20-30 bb 0a 03 b7 d1 82 9d   .k=,..G 0.......
+    0030 - a8 8a 8a e0 6d 9d 40 da-50 47 2e 7c 58 a1 5f 43   ....m.@.PG.|X._C
+    0040 - 97 e2 6f 53 d6 ab e0 e3-3d ff 65 dd d8 83 bf 99   ..oS....=.e.....
+    0050 - b6 b9 9d cb 27 cf 3b e7-9b 6a 07 a3 65 e0 d0 47   ....'.;..j..e..G
+    0060 - 3e 14 b9 60 6b 49 bb cc-cb ae 83 df 71 b9 67 35   >..`kI......q.g5
+    0070 - db 14 b2 57 ec 72 eb 26-f4 6f 92 89 e9 57 30 dd   ...W.r.&.o...W0.
+    0080 - 49 02 e1 2d 1a 29 68 58-4a 84 a1 ee 20 b4 b8 b2   I..-.)hXJ... ...
+    0090 - 8a 37 3f 78 32 2f f0 f1-ff 48 d9 82 38 8c 2e c6   .7?x2/...H..8...
+    00a0 - bd 6c 1a 8e a5 c5 02 6a-82 5c 60 35 c4 62 b9 09   .l.....j.\`5.b..
+    00b0 - 1b 9c 06 dc 69 7c 18 43-00 fe 5c 44 2c a5 8c f3   ....i|.C..\D,...
+
+    Start Time: 1535693544
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---
+DONE
+61.50.105.122 - - [31/Aug/2018 13:32:24] "POST /review/31-Aug-2018-05-32-22-oapsb3d3vy.pgsg HTTP/1.1" 200 -
