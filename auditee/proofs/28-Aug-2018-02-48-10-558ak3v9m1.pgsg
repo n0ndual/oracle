@@ -1,0 +1,292 @@
+host: dict.cn
+response:
+HTTP/1.1 200 OK
+Date: Tue, 28 Aug 2018 02:48:05 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Served: 28002.
+
+<!DOCTYPE HTML>
+<HTML>
+<head>
+<meta name="renderer" content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>æµ·è¯è¯å…¸_åœ¨çº¿è¯å…¸_åœ¨çº¿ç¿»è¯‘_æµ·é‡æ­£ç‰ˆæƒå¨è¯å…¸å®˜æ–¹ç½‘ç«™</title>
+	
+		<meta name="keywords" content="è¯å…¸ï¼Œåœ¨çº¿è¯å…¸ï¼Œç¿»è¯‘ï¼Œåœ¨çº¿ç¿»è¯‘ï¼Œè‹±è¯­åœ¨çº¿ç¿»è¯‘ï¼Œæµ·è¯è¯å…¸" />
+		<meta name="description" content="æµ·è¯è¯å…¸æ˜¯ä¸­å›½ç¬¬ä¸€ä¸ªåœ¨çº¿è¯å…¸ï¼Œæµ·é‡æƒå¨è¯å…¸å®˜æ–¹ç½‘ç«™ã€‚ç‹¬æœ‰2000ä¸‡è¯æ±‡ï¼Œé…é‡Šä¹‰é¥¼å›¾ã€ç²¾ç»†è®²è§£ã€ä¼˜è´¨ä¾‹å¥ï¼Œä¸“ä¸šæä¾›60ä¸ªè¡Œä¸š11ä¸ªè¯­ç§çš„åœ¨çº¿è¯å…¸å’Œåœ¨çº¿ç¿»è¯‘æœåŠ¡ã€‚" />
+		<meta name="author" content="æµ·è¯è¯å…¸" />
+		<link rel="canonical" href="http://dict.cn/" />
+		<link rel="icon" href="https://i1.haidii.com/favicon.ico" type="/image/x-icon" />
+		<link rel="shortcut icon" href="https://i1.haidii.com/favicon.ico" type="/image/x-icon" />
+		<link href="https://i1.haidii.com/v/1493966113/i1/css/base.min.css" rel="stylesheet" type="text/css" />
+		<link href="https://i1.haidii.com/v/1493966113/i1/css/obase.min.css" rel="stylesheet" type="text/css" />
+		<script>var cur_dict = 'dict';var i1_home='https://i1.haidii.com';var xuehai_home='http://xuehai.cn';var passport_home='https://passport.dict.cn';</script>
+		<script type="text/javascript" src="https://i1.haidii.com/v/1493890502/i1/js/jquery-1.8.0.min.js"></script>
+		
+		<script type="text/javascript" src="https://i1.haidii.com/v/1512114221/i1/js/hc3/hc.min.js"></script>
+		        <script>var crumb='index', dict_homepath = 'http://dict.cn', hc_jspath = 'https://i1.haidii.com/v/1512114221/i1/js/hc3/hc.min.js',use_bingTrans='', multi_langs = '';
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?c02099862d294e963ee04d8f8a6f204f";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();</script></head>
+
+<body>
+
+<div id="header" class="clearfix" style="height:40px;"> <div class="nav">
+	<div class="links">
+		<a class=cur href="http://dict.cn">æµ·è¯</a>
+		<a  href="http://cidian.dict.cn/center.html?iref=dict-header-center">æƒå¨è¯å…¸</a>
+		<a  href="http://fanyi.dict.cn">ç¿»è¯‘</a>
+		<style type="text/css">
+		#header .links .top-download a{width:140px;height:40px;line-height:normal;background:url(https://i1.haidii.com/v/1493890436/i1/images/top-download-icon2.png) 0 0 no-repeat}
+		#header .links .top-download a:hover{background:url(https://i1.haidii.com/v/1493890436/i1/images/top-download-icon2.png) 0 -40px no-repeat}
+		</style>
+		<div class="top-download"><a href="http://cidian.dict.cn/home.html?iref=dict-header-button"></a></div>
+	</div>
+	<div class="login">
+		<em action="feedback" onclick="feedBackForm(this);" title="æ„è§åé¦ˆ">æ„è§åé¦ˆ</em>
+		<i>|</i>
+					<a title="æ³¨å†Œ" href="https://passport.dict.cn/register.html">æ³¨å†Œ</a><i>|</i><a title="ç™»å½•" href="https://passport.dict.cn">ç™»å½•</a>
+			</div>
+</div>
+<script>var pagetype = '';</script>
+</div>
+
+<div id="main" style="overflow: hidden;margin-top:0">
+			<div class="idxRightBan" id="idxRightBan">
+			<div class="idxRightBanc">
+				<a href="http://cidian.dict.cn/home.html?iref=cdcenter-index-topright" target="_blank"><img src="https://i1.haidii.com/v/1493890295/i1/cidian/images/idx_dict_r_code_down.png" /></a>
+			</div>
+			<div class="idxRightBanClose">
+				<a href="###" onclick="dlclose(this);">X</a>
+			</div>
+		</div>
+		<script>
+		function dlclose(obj){var Days = 3600;var exp  = new Date();exp.setTime(exp.getTime() + Days*24*60*60*1000);document.cookie = 'dliclose' + "="+ escape(1) +";expires="+ exp.toGMTString();$(obj).parent().parent().hide();}
+		</script>
+		<div class="logo">
+		<h1>
+		<div slot="2">
+			<a href="http://about.dict.cn" ref="nofollow">
+			<img alt="å…³äºæµ·è¯" src="https://i1.haidii.com/v/1517537102/i1/images/dict_logo.png" />
+			</a>
+		</div>
+		</h1>
+	</div>
+
+	<div class="search">
+		<div class="search_nav">
+        	<a class="cur" href="http://dict.cn" data-param="zh,en,other"><b>è‹±ã€€æ±‰</b></a>
+        <a  href="http://dict.cn/kr/" data-param="zh,en,other"><b>éŸ©ã€€æ±‰</b></a>
+        
+    	    	    	    	    	    	    	
+    	<a href="http://dict.cn/jp/" data-param="zh,en,other"><b>æ—¥ã€€æ±‰</b></a>        <a class="sbox_morebtn searchnav-morea" href="javascript:;">æ›´å¤š</a>
+        
+    	<em>|</em>
+        <a  href="http://juhai.dict.cn" data-param="zh,en">å¥æµ·</a>
+        <a  href="http://hanyu.dict.cn" data-param="zh">æ±‰è¯­</a>
+        <em>|</em>
+    	<a  href="http://shh.dict.cn" data-param="zh">ä¸Šæµ·è¯</a>
+    	<a  href="http://gdh.dict.cn" data-param="zh">å¹¿ä¸œè¯</a>
+        <a href="http://abbr.dict.cn" data-param="zh,en">ç¼©ç•¥è¯­</a>
+        <a href="http://ename.dict.cn" data-param="zh,en">äººå</a>
+    </div>
+<div class="sbox_more_wrap">
+    <div class="sbox_more">
+        <div class="sbox_marrow"></div>
+        <div class="sbox_mlangs">
+            <a style="display:none" href="http://dict.cn/jp/" data-param="zh,en,other"><b>æ—¥ã€€æ±‰</b></a>
+            <a  href="http://dict.cn/fr/" data-param="zh,en,other"><b>æ³•ã€€æ±‰</b></a>
+            <a  href="http://dict.cn/de/" data-param="zh,en,other"><b>å¾·ã€€æ±‰</b></a>
+            <a  href="http://dict.cn/es/" data-param="zh,en,other"><b>è¥¿ã€€æ±‰</b></a>
+            <a  href="http://dict.cn/it/" data-param="zh,en,other"><b>æ„ã€€æ±‰</b></a>
+            <a  href="http://dict.cn/ru/" data-param="zh,en,other"><b>ä¿„ã€€æ±‰</b></a>
+        </div>
+    </div>
+</div>
+    
+<div class="search_box">
+	<form action="http://dict.cn/search" method="get">
+	<input type="text" id="q" class="search_input" name="q" value="" autocomplete="off" placeholder="è¯·è¾“å…¥è‹±/æ±‰å­—è¯å¥" x-webkit-speech >
+    <input type="submit" class="search_submit" id="search" title="æŸ¥è¯" value="">
+	</form>
+</div>	</div>
+				<div id="tjcd">
+			<dl>
+				<dt><a href="http://cidian.dict.cn/center.html?iref=cdcenter-index-tjmore" class="tjmore">æ›´å¤š</a>æµ·é‡æƒå¨è¯å…¸ - APPç‹¬å®¶å®˜æ–¹å‘è¡Œ</dt>
+				<dd>
+					<ul>
+												<li>
+							<a target="_blank" href="http://cidian.dict.cn/swg/xhzd.html?iref=cdcenter-index-tj"  title="æ–°åå­—å…¸"><img src="https://i1.haidii.com/v/1497246327/i1/capi/user/cidian_tese/images/swg_xhzd_cover.png" width="90px" alt="æ–°åå­—å…¸"></a>
+							<span><img src="https://i1.haidii.com/v/1493890290/i1/cidian/images/center/center_angle_app.png" width="30px" /></span>
+						</li>
+												<li>
+							<a target="_blank" href="http://cidian.dict.cn/oxford/necdict.html?iref=cdcenter-index-tj"  title="æ–°ç‰›æ´¥è‹±æ±‰åŒè§£å¤§è¯å…¸"><img src="https://i1.haidii.com/v/1493890499/i1/capi/user/cidian_tese/images/oxford_necdict_cover.png" width="90px" alt="æ–°ç‰›æ´¥è‹±æ±‰åŒè§£å¤§è¯å…¸"></a>
+							<span><img src="https://i1.haidii.com/v/1493890290/i1/cidian/images/center/center_angle_app.png" width="30px" /></span>
+						</li>
+												<li>
+							<a target="_blank" href="http://cidian.dict.cn/wys/lwddgjyycd.html?iref=cdcenter-index-tj"  title="æœ—æ–‡å½“ä»£é«˜çº§è‹±è¯­è¾å…¸"><img src="https://i1.haidii.com/v/1493890499/i1/capi/user/cidian_tese/images/wys_lwddgjyycd_cover.png" width="90px" alt="æœ—æ–‡å½“ä»£é«˜çº§è‹±è¯­è¾å…¸"></a>
+							<span><img src="https://i1.haidii.com/v/1493890290/i1/cidian/images/center/center_angle_app.png" width="30px" /></span>
+						</li>
+												<li>
+							<a target="_blank" href="http://cidian.dict.cn/wys/fycd.html?iref=cdcenter-index-tj"  title="å¤–ç ”ç¤¾æ³•è¯­å¤§è¯å…¸"><img src="https://i1.haidii.com/v/1493890499/i1/capi/user/cidian_tese/images/wys_fycd_cover.png" width="90px" alt="å¤–ç ”ç¤¾æ³•è¯­å¤§è¯å…¸"></a>
+							<span><img src="https://i1.haidii.com/v/1493890290/i1/cidian/images/center/center_angle_app.png" width="30px" /></span>
+						</li>
+												<li>
+							<a target="_blank" href="http://cidian.dict.cn/hdlg/ryhbsn1.html?iref=cdcenter-index-tj"  title="æ—¥è¯­èƒ½åŠ›è€ƒN1çº¢å®ä¹¦"><img src="https://i1.haidii.com/v/1493890499/i1/capi/user/cidian_tese/images/hdlg_ryhbsn1_cover.png" width="90px" alt="æ—¥è¯­èƒ½åŠ›è€ƒN1çº¢å®ä¹¦"></a>
+							<span><img src="https://i1.haidii.com/v/1493890290/i1/cidian/images/center/center_angle_app.png" width="30px" /></span>
+						</li>
+												<div class="cl"></div>
+					</ul>
+				</dd>
+			</dl>
+		</div>
+				<div id="daily_sentence_v" class="daily_sentence">
+			æ¯æ—¥ä¸€å¥:&nbsp;
+			<img class="speaker" title="æ’­æ”¾è¯»éŸ³" audio="http://dc.dict.cn/v/90552580/e5709891f65c169e0b95aa902a920764/ddsen/7/ddsenmryj20130605.mp3" src="https://i1.haidii.com/v/1493890441/i1/images/cleardot.gif"> 
+			The roughest road often leads to the top.&nbsp;&nbsp;æœ€è‰°éš¾çš„é“è·¯ç»å¸¸é€šå¾€æœ€é«˜å¤„ã€‚		</div>
+				<div class="ad_banner">
+	    <!-- home_banner -->
+					<div style='width:728px; height:90px;'>
+	            <script type='text/javascript'>
+	            document.write("<iframe align='center,center' width='728px' height='90px' scrolling='no' frameborder='0' allowtransparency='true' marginheight='0' marginwidth='0' src='http://cdn.d-adasia.com/ad/dictcn_hp_bottom_728x90.html'></iframe>");
+	            </script>
+			</div>
+			</div>
+	
+</div>
+<script>var idx_ched = '1';</script>
+<div id="footer">
+    <p><a href="http://about.dict.cn/introduce" ref="nofollow">å…³äºæµ·è¯</a> - <a href="http://about.dict.cn/copyrightstatement?cur=1" ref="nofollow">ç‰ˆæƒå£°æ˜</a> - <a href="http://about.dict.cn/contact" ref="nofollow">è”ç³»æµ·è¯</a> - <a target="_blank" href="http://dict.cn/dir/">æ˜Ÿçº§è¯æ±‡</a> - <a target="_blank" href="http://dict.cn/dir/ceindex.html">æ±‰å­—åˆ—è¡¨</a> - <a target="_blank" href="http://hr.dict.cn" ref="nofollow">æ‹›è´¤çº³å£«</a></p>
+	<p>&copy;2003 - 2018		<a href="http://dict.cn/">æµ·è¯è¯å…¸</a>(Dict.CN) - è‡ª 2003 å¹´ 11 æœˆ 27 æ—¥å¼€å§‹æœåŠ¡ &nbsp;<a target="_blank" href="http://www.miitbeian.gov.cn" style="text-decoration:none;background-color:white;color:#999;" ref="nofollow">æ²ªICPå¤‡08018881å·</a>&nbsp;&nbsp;<a target="_blank" href="http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&amp;entyId=20120601170952752" style="text-decoration:none;background-color:white;" ref="nofollow"><img border="0" src="https://i1.haidii.com/i1/images/gs_icon.gif"></a>
+		<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011502000490" style="text-decoration:none;background-color:white;"  ref="nofollow"><img src="https://i1.haidii.com/i1/images/beian.png" /><span style="display:none; color:#939393;">æ²ªå…¬ç½‘å®‰å¤‡ 31011502000490å·</span></a>
+	</p>
+	<p style="text-align: center;margin-top:10px;"><a href="http://m.dict.cn" target="_blank">æµ·è¯è¯å…¸æ‰‹æœºç§»åŠ¨ç«™</a></p>
+	
+</div>
+
+<object style="position:absolute;top:-1000%;width:1px;height:1px;opacity:0;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" width="1" height="1" id="daudio" type="application/x-shockwave-flash" data="http://dict.cn/player/player.swf">
+	<param name="movie" value="http://dict.cn/player/player.swf">
+	<param name="quality" value="high" />
+	<param name="bgcolor" value="#ffffff" />
+	<param name="allowScriptAccess" value="always" />
+	<param name="allowFullScreen" value="true" />
+	<param name="hasPriority" value="true" />
+	<param name="FlashVars" value="volume=100" />
+	<embed style="position:absolute;top:-1000%;width:1px;height:1px;-khtml-opacity:0;-moz-opacity:0;opacity:0;" src="http://dict.cn/player/player.swf" allowscriptaccess="always" allowfullscreen="true" quality="high" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
+</object>
+
+<script type="text/javascript">
+	var langt='zh-cn';
+	var cur_dict = 'dict', i1_home='https://i1.haidii.com', xuehai_home='http://xuehai.cn', passport_home='https://passport.dict.cn';
+	var $dict_id = '';
+	var $dict_query = '';
+	var $dict_dict  = '';
+	var scb_home = 'http://scb.dict.cn';
+	var $dict_ver = '1535424485';
+	var sugg_home = "http://dict.cn/apis";
+</script>
+			<script type="text/javascript" src="https://i1.haidii.com/v/1493890502/i1/js/jquery-1.8.0.min.js"></script>
+	
+
+	<script type="text/javascript">
+	var cur_dict = 'dict', i1_home='https://i1.haidii.com', xuehai_home='http://xuehai.cn', passport_home='https://passport.dict.cn', $dict_id = '', $dict_query = '', $dict_dict  = '', $user_id = '', $dict_ver=1511254195;
+	</script>
+	<script type="text/javascript" src="https://i1.haidii.com/i1/js/ddialog/ddialog.1.0.0.min.js" ></script>
+	<script type="text/javascript" src="https://i1.haidii.com/v/1512114223/i1/js/inputPrompt.min.js" ></script>
+	<script type="text/javascript" src="https://i1.haidii.com/v/1512114214/i1/js/base.min.js" ></script>
+	<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-138041-2']);
+	_gaq.push(['_setDomainName', 'dict.cn']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s  = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	</script>
+
+</body>
+</HTML>
+
+----------------------------------
+notarization binary data
+ /[„·äªØğYË”K(KÅ"—©s§ïÀsIûXøïV‹|ƒg0€kÖÓ|ş€*Z*­¸‹-Xœámåàï#-ÿşğáÎ¨{İ          >–
+£E”m·               	_ ¤0‚ 0‚ˆ ıÊ€¦
+UœAİÄ¨ìò“0	*†H†÷ 0^10	UUS10U
+DigiCert Inc10Uwww.digicert.com10URapidSSL RSA CA 20180171215000000Z181215120000Z010U	*.dict.cn0‚"0	*†H†÷ ‚ 0‚
+‚ ï¾T$OÜ&thve3ÅÑŸàvØòĞŠq×?¿	b&Ë˜Ÿ?¡Ò
+"Ä	‚KÅ›0$K‚p}V,Ë!kd@”%¡¾ÅôÒcBOW·Ñ£ ã=uò%*„”fÂ6å³Z!ÜÔéT••|sqrÆÊÛ®GAƒ\è—?Ş ´¸ÜD‰‡@eÎşx¯´U[Íà#Z–}	Ò³üX¯YÔ!)Ú}~svü\ckÃøcUó¯X…mu¾¾—IõQÙ©g»—‚×.*\²T¥ˆN#£”ğW‘»fZïkk»ĞÎÒl‡‡q2÷“üî„å»ı@Ÿj~éyÃ'“Õ‡ìza; £‚¢0‚0U#0€SÊYükÀ!/®äª¨‚VÚu0U…3äoä½Rö²­1{ş–¬§Õ0U0‚	*.dict.cn‚dict.cn0Uÿ 0U%0++0>U70503 1 /†-http://cdp.rapidssl.com/RapidSSLRSACA2018.crl0LU E0C07	`†H†ıl0*0(+https://www.digicert.com/CPS0g0u+i0g0&+0†http://status.rapidssl.com0=+0†1http://cacerts.rapidssl.com/RapidSSLRSACA2018.crt0	U0 0	*†H†÷ ‚ Q\ÿ_»®-®4µ‚™m2ëäÀn¡pTû)ùˆ€u‹FÕ|#¤Ó\D¡ÃÈ«øş½lNN¤3æ˜şÙôq§ Aı
+dCòz¾ ÌeïdÚA/mŠ8TßrÆØŠ×?±ôóü]`Ö=Á$Pà çvÙëÏ×y?‘½’HüŸÓ‹ãĞù°Øö0¼†µûO&Ñ°5NwçKŸ¤=(ÛxW—YƒßEş^6®yŞ#—†¡c7Åî·
+876ç«f¦cRíãœ<ÓÖÿ 
+^U§&µÃÖÅ€Ì*¼4Ü–{“µ2¢Çqk3ëCÈ<ªßL±ó† µ0‚±0‚™ ¥¢FÍK\Œƒ×´»«SI0	*†H†÷ 0a10	UUS10U
+DigiCert Inc10Uwww.digicert.com1 0UDigiCert Global Root CA0171106122333Z271106122333Z0^10	UUS10U
+DigiCert Inc10Uwww.digicert.com10URapidSSL RSA CA 20180‚"0	*†H†÷ ‚ 0‚
+‚ å-¨Š(öyé{:3ˆ;qáe‹,)eıí-ÔF˜NgøÈæøš¼¾V‘ÏúwWä=| Ò.¸|ÀZ¶è¡ySE!˜§©‹´…£Qåƒ<¼9ì¡NXıL¹6mì­nÑTë*[¥e%¶kØå_'‚ÊBîqQ4(é~pÄiÈœÎó*
+0\ø'‚DğŞÍ[‰ÁA1KÇ.Í,pºfBœ{›TUØfI‘×û`ßOrI"eà›vøğgÓ7ô©{xk¼âæ½ƒãÌím0ck$éOï×¥kVşŸ½ªÈé¸¤(9ôä†Bì;İuàzápñÓ!¶Lîßñø»pÎy$u £‚f0‚b0USÊYükÀ!/®äª¨‚VÚu0U#0€ŞP5VÑL»fğ£âÃ—²=ÑU0Uÿ†0U%0++0Uÿ0ÿ 04+(0&0$+0†http://ocsp.digicert.com0BU;0907 5 3†1http://crl3.digicert.com/DigiCertGlobalRootCA.crl0cU \0Z07	`†H†ıl0*0(+https://www.digicert.com/CPS0	`†H†ıl0g0g0	*†H†÷ ‚ ~#ÇòÊ5nY’Q\ak<6æÒ|³)æBØ£•aÏò¯++%Zn£€RÌªöß‘l'†…·¬€Šı^cKYı“uñ³†Hd­ G?$N(pŒëğşLƒ]dEÛš'¯TqzH¹™'›ßĞÆÅ:I‰†Îe\Ú(áÊ'R(‰À¦ª»áÙ¶«Éß)0„šƒÍÉR¬•Í­XúNÓ}½ü%ªÚJòªşº9##ÂéTÏGWƒ‡A«ì#_"¿¸)'è eC”CÎá:‘ÜBAb÷ÊÃr«HÄä}­©k–´ÀlápXz7îlˆZQ±/ØSwBjÿ…>^÷—M\Œœj      7-  DÎÙ57fŞiZ½„ôtsÖ¾LîE†‡qj÷``Yûf¥âøFuŒ>nŸíÕ¢O8X€#Ì8Ğ[ãFò#“l¸A^SJ÷m_m~V­Ñëµè¯ßÿOu¢äAÆ' ¸<•´g[3)€eéB
+{yÉ<<€¾=«Kg¯q±nVÚ¡²‡£ÜQ»¸cÛ@=\>>²ù~U'H–äwáéÛ®Û]*Ozï#¸pË'½5šøşñ©(¨‚JEUú§«Ox¤Ù|!'0h†R_ù/Å%ÑÆA®‚;õ‰ñ.µ¢!
+âmŞwşŞ	©úQ}YvíV:³G6Ÿ¶}^)ô6ò´œÜì§À3“‡@14ÚîxP©! ÁÌ'“Ym Ô©˜¦¥à½íJcŞxKézä	6Cë‹÷Ü	ÙAt¼xE—µÁÌy,u®¡gVéXäÀ6i( ¾ú×'ú¢aw2¶@œEá1Ø}\>éÂÓLƒÕ9µkn/S_M§š±{ï¬³ªMrÂH	GNMÀïˆAè×Hãá°œ8ó‡·û^¯C:@_ûp±"—¶…6LˆPGÑçÕ¦àÊg§9 Sñ£@	²–Š:‹ö;2Ÿ[äÙ ©óÂ,’¹É	3ÂBÆÚ'XİZ±w¸ß(xr:€?21¢•÷ |3«âqˆÏ¶”n +˜‰‘÷ƒêèÃéşj™Ö‡ÕŞ54í[w³½"o­ùÄÒBÙ©T¸bQzK= ×ìÁàØ?L’Se¥®8ÚÇIBÏë>ÆûT8ŞŒ¤ğ¡Ft½õ¯2j­´Šaá¨s©b0_šÛA½J3sŞ³&à#2à.3¶ Qhı?ÌûŸª‰Ğ-ĞèöˆQ1'04½jÂix¯-	)âWÿíğÉ™€{¥ûá¼6há ‚O‡6²*xr<÷¯à0‡¾9o“HÉ¹AŸ(^b-š¢œä³=%ßŠÿxIá¾Ú§¿ÇW¢_.`‰ß.ìÌÏ4j"ÕJ•âr…`İÃ9»r”"lr)ßh8&¤újm·êõİJâ6`b@sÄõ›»ÎÓu»t\ß[Fp(…ÏDG` ©·ÿİW5_²ÎÃêÛØêÎÊØmHW¯Ä	ô†C-vÒ
+sH¹tÜ‹©à$">ş–z-½°ãµ•‹:¾6Œoî^gKˆèp”‡	Ê±|ùuä¹Xz¹*^£,²ó
+R÷fEHZºº+UÉşnàZ¡VÛ«áÑİ7G»–öåDœÌbÊU×wü(­¿2½Ï4„`Äïf½ˆÓ—ÍÌDTˆÉW	ÃÊËDşÄ	g‚v`*$*V+£G<“‰ºätiƒ<ÔgŒg	Kÿy‚$¬Ã½š/ušˆV$ØşÒ+jr©äŠ–ƒK'¥ï/\–šÔˆH¯;TŒ4ô Ò(ùF«R§IÆ°|‹".x-ÜPñTVyÙÚù±ØYÚ…Ëãœ˜9êU0oùò?«jZ•éh”Y¦· oĞÎ9¿X„fxˆ@ÌŸ’Ÿˆmi©mÛüú>‰YlÆ=Q$é×·ê=ğ¯o
+ĞrmÅ¤$ƒáH¥Ïs3ÜFOwêàÉ>WüF7’Ëƒ¦)E
+76ø%D_üMsÁ›s\e%‡r!&tRüÏ‰æÉuaLlájf±íáÔ‹4+–¤Cµ?cmU×í<ÊÍú¶‘‰CEß§¹{¿5¤%e©ÉÛ€yë‡‚m¯Ì-û¥kbc—×¢j	æ ü¡ÚCáï¾ÄÀWúâ¥õÅ¿óÙJë¯)”D÷*óÀıå›ZŸhì\Úˆ[.­ìÚÓÒ_e¼D¤¨‘fØ1óù%„(¿tU˜z•lÇªŒ øÀjş!j ÑGo÷¼)„\ş• p×/1tR_d«`ÿûØÓ9"Eb¢/Â<íXX4EèmÀc²![bÔšìš¶HrXlÒ,'£Q"<EƒË
+ãÇ=‰L–†ltaÆBHÍŠ.†”û$€»_ÀáÚ½r%‰.Ã„ÕäÜm¢.%K‡{Ñ´ÍÍ3Ïv¢§`)oÛ/ÎåÀñc?ğ˜b‡øÛ•tmfƒ'?¬pŞ©œeÏ#ÎäÑiÎ
+¿w^™»MĞÎSül¼¸jI-LàK«Ûê6"‹
+){à6 JSë``Òo‹›"ƒ²ÁœÊªCb^>ç¡àRW;ÃkA‘ hhÒŞéRdws,<ªO7µ2dßÎj²‰™âØcÉø÷’Tí/Í´õyÁÌ·Ä4í8ÇsXâ«ı<¸C{1ü¨‘^3JE3ê=İivš	å˜¥ŠÁ ~oa†z•g8›ÿ¢…	gÇ'ë®‡Á;;†Ì<ÊrÉaÁ§¹yíƒW¡Í|€¢&Wè%Ë¥’hì¶âE`YTÉÒk¡ü‡ĞÑ¼¾Ğ¾ú‘GJç…Cbc&'c H«ş§ŸY=ì°Øµ9 læ°‡!fÒ5RÉ<4)Î3AkÈ|ª†¨¹pDîXòDÂ1àü¨ãõZØyL§tà¶òè¾×’—qöÁ<˜#Ò>•ƒïJfh%¬İˆ”>w¾ŒÍö*,ñRİDS5”(CòŠ-ÖšÃ¹&›@€3ä 8X÷#Û9é5È»©²î–M é;Lßª
+íD­Éı(÷®øXÈéî­(VÜjM<Cà³3ŠJÍB¤…Ò¾j”DUôq.0m7ğğ‘œ¼ÇMZnw)ŒÁßÄ`êPï²¹A¥¦P‘pĞ±’\=O‰O?¼ §íbŞf
+®ïvnföx–m±3Â„ŸÍÊrımLık 6ªúØ"-0VÂY¥ÌÜ§ü;
+ @üóëÂû«ú¤)‹Rå€Şi9şO‹33şòÙ±ÉWkXß…V#CUQ(ŠüRS	ª+ÆÌDwHÎŞ”­k¤˜I•÷°Ş¦X^u¼GøLÿÁòÊ¾ºrjÈh¥Ñ+Ì’¦8Ó²?OÅ×Z—¹|
+õ{N¼3Šóÿ Õk>éÍm+d´ØÄ%ˆÎŞ½§?Íİrºjc`ê¹ÎtO‰á%Vj=Èøğw¶]§2ÂBÉÃÓôÁ­²_ì÷ü}å ¹ZÂêîK÷AO[mè-î˜-cht-õ€O˜ÒÅäZï¤wùYÒ†údr©`ÔÅŒ!iYÀN[pH¥X£ĞÓ³®)Ó9Şm'IÃ>· N”eECyA) i«‡%+p„œĞÖKdd²œ^i´CyXDr¹½qœêi÷x$*ÁÒD(nĞY‡ÓSùüÕÇ©×%‚ÄŸAê‚	å6A.9†kDÉû$«zôv[İìÃÅÎV‡í–`ï›ìË¡}«ËÆD×”a¬Ï¢7¾s²5§ÿjŒ…¿8‚ÔöRol—|™İ`ß>ØÜdŒuş§¬ªOå%²È[q—?{GD„·(iÃEn6Øšã°»Ôv4ø•Fßù©"¢“FZÓ¸×]”¹^šp5ë]“Uæ «ÚvI ’ì}Vüå™ Yğƒ$g¿èhQ>Pp0ßg"ÓĞ)_f§ÔFˆDèº{˜ƒÅÜJ}ƒ¦zÉ@`äûİ
+`)eÆB6³“a«ŞÏô”ISŸÉDœaÜØğñ§9şûú8_éĞğ¤Q{Êã¨¿rQ‰„®ØÜŞMÛÁ³Ãø°Ab=ûì.8G (¿­Ø€È°(Àßâ-¨pHcŠçm˜¡xb¼¾Ho–%şI"Ìx •as-˜ì…*şame¹´;/T ùJæ$Ffê¡‚äás_;/H{E¼¿²-şfÈ`bõ4†¨Eİh]Ì{«¶O@ûi°¶ÏR¦%Få¸+EOG®4
+_z°—£g;$’6Ì‚^Ã"ôJ“ªı»ıìî‰GØç#eŞ‹™çøáºÅİ#o#¨/XªÁ	ÑËÊ³–4Q¤úıs¶·…İªÔ”&I"ƒ¡h8"£¡¯<~×Š¿ß±y±¬<³*•\•ÓÙ:(øuƒTÉ›¯pİ?÷ÉGì’{}êI|l–¸“¸]2qÍ2Â‹°áÅCK…Ã n!şm‡oëµ¥¦:q&ÏÉÓŸıü÷¤9ñM¨_¨T<šR¶nu.HË]»¡¸yË™ÎÕK˜H¯ˆ&ZZ8R¹GÈAFg8°ËŸâ¿¦^ô¿ì'XŒ‚ª“Œ³ìTñl†Ñ³iCS”Sª¡CH˜5›¨‰¢O,)­ÃöÊªøù,cÎH1>+ ÖätÏ¾·øhu˜Xzg¡!Hy›=èÁ·´*JêUå#®ÏŒ'ÉTë[jÎT°NÍ3èç­Ë¸¹%Àìc¨. ;j;€ïŠÃü©ƒ÷rZ!§3~àî\Òø5„µ#À^ÒƒB·édªÅS³Óˆ…$ä ÌNc³}ŒÅòEn§îNğÇh¸sƒ_›¡‚ä,™XK½¸ÎMC°A´ƒ«“§ÚqûÊ©NKpÿYÕüèE§b5Ü‚5úHºò}&¡ògÒÖç¬lRAî‡İÖ¡_(4‘ıNÓâìKFßR2Bsò1€më”z~7H×gZÊŞoÇMs¸;¬uSh9ÔÊDŸìí‹¨¹Lè/½ ıT}ƒVèÚjâ±KPí…}ÚÖZ“àsš1³¡’ğˆDxzİRF t.¯‘56Š˜èŞæ=t1Éjw©À1±pJf'{}¬ÆÊ’[Ï¿+;Éô^âl,3º%9¨’Ç£Díº–‚Ÿ˜€Og»Théwğå“ó•}ÏùÁº‰2
+/UZT©Ş³Ã#—M'²Æ¯J1Ş#§(Pü‹UÇoıÁ…§ÅĞ—§¬¬¥ğ¦[e’'VŸö$‚<Zw6ºÁàpÛv<D¡+²’§xí´´wV”#‘¨gÙ¨<PÕM¹YÉduf¹óÙ:]ø°Ã¦—zÆ(½`¹>6d$üZYôºÅB »{'D%È¬©@uôRm'Û{’N,*ÜC"àû›%ú[j8•Û(™pª§9@4å†‡£[P¡îéVÏ©\Îv~ìwCººO1Òj®ı¶íİ|¼H¡ŠDÛØéšÅg·fh&<±.sˆ~0hºõÛdÂ{ı»hãÖè5›Wå ñeNì¥šÆşZÃ¥LêêéèL‹„w<²/kfYët™ˆø!(Òtï%;œ‘(â|™Qƒ"2Aó²ö)‡|ÏY—º:YËsFÌ*F"Gi×4†¶‘İ¦v NK™zï³xNÙ€¿V¢7ÌX³jÊK5Ã?½³}Œ¼^Ò SûÃbÍÈg ì"+J¹‘SÑÂád¾è/qèÄ>»:òd ¦’é_… pH¯c£MÖé±E7ÇbìÌ9Sgæ÷I<ıg£¨XZ>3ü*”Í 6±« ?Aß>H±WæZ÷¾H±İ¶Ã4÷ĞzÊnÈw,@W&îZjNG@sÎci¯^•/`Â›÷ÛÄÜÒ_ˆ1›eL™d‚3Æ«S’jBún¸â 9$Dæ2s¼G&Ğ|Ø!Ğ&^‘Ç½a [0rÃ”6P…pÚÔ~é0Ö«Ö¢ˆĞgSŞû8$›eüJğàİ™ ÀNrJÚS2yÛ°ß$¡,ë„Vh;Pcã@“Î+34ò›–—¹…ÁeO—åè=›‘®(é#SC‹ÌáÒÀ‘ï ·šf=œüÃì¢Ğ®=ôw¦—¿m——åeîM¤?Ëµgo„Oå<5fMA+ß÷]é$*€ŸNÿôV›®TÃÀÌ(à
+H
+(˜àıxö¼°K®óU­Åaøı²šÿûÖ¸¹öªG^LH)àÔ Ärnñ¿®(¾"1SÛì¶Ô `¥Û¿Ä€öy}ErÇ­ŒÕWmT½!ø‘gO¼¹C‘ßÑ$bx$üİ¡ú¾[)ò
+&#ÃRF t¡OG?
+©¨³¥ĞÅùü¦ÜIf4²²Ìau¡Åı´}ÿÖ¢“ÎlŒ1Äù‹)p*Y¡‡¬¼’ëIk¨Tùl=Şï~ÛLd³w3êÿ{Zq;ƒZğ±ğÿÇ_»Ï_¸Ì!èÛ -â­"ìËMrƒr¹jºJ§lÅ²ƒö@¾hDòãî¿|wÙÁ©ª/¤QîCaLÕKdµ¶¢#I)q„•‹ÕÉÕ ¿7ë[Yñ'S6ë)ÓÂ ÚüÅ|íß“X_Œ>g¸3°fĞâØfÉ¢¯gƒ,?ÚIZ½l£édĞAülÕ¼áOÒÉ=”»TŸqŒx’tF&`CŸ„~¤ëÖÌRÔNĞÜŒ÷ËÃøŒØé â«	n)à*2bÁùÊÄ‘+ñv•¶Õgş‘‹DĞIš-Ş6¾ÂFÇ:BÿÔÂx°dfÖ|5Èön‚á T†êò”<Úº¾-93ÈRdúyÏ”qé5£r«&.	ïsëà²ÊÉÜ~‚Dšûw•¦°‘ŠE<2ö£µM©„U3·¹))§¸ŠæpºÚ®Ó;£tğKæ›‰ï¹ÜßL¸CŠÍµGCT
+`–jš¹] ¦BŒDyís‰îVD’°§¥£ó|`h?ğÇ) İ¢AÌã62&B¢^àR¬Îª« áˆHÛV³ôÑÓ˜(Êk!(èw°-š4íÍõæ Uµ²Ço»ÍpÓÖ¦…9º§©yÀb…%T¿ ¯ÿç;‹üöµÛ-fĞ!(rõ;	8ää Ù†w'0^¨e*K¶ì•‚«¢XÀ‹“oÀKôføŒIèğc¸ûÑYUÁş{yJÄ»uR’´Bxi¡u3AµÈ½¬ØÜ]<­ôwñÌë>İª¦dù‰În¹?€Ã‚ğXÃõøc?6°l¹ƒøc6¨e˜õ %éÈR+{|´—’BÍ²mšØr^Æ)|•¸¬âØÂHâ÷n{{!d0cg#%#ç·{Ó¼CkTş·ôF¦şßŸIÔ}ÓK«¡ŒŒmÇœ9(‰?rd”ÔÈîD¢g£%$¬Åù¯øŠ»k¥p÷°òã Ş‘v=Rd¸,Õ„0G£º;ş-öbRğ±æ P¸€âQk‚ŒÚøvÚzt6ß0³2òÁ(*qµCÌGÙf\5¾¸‰~÷9òµOĞŸÂQ¹Î
+Ñ]wÉQ¸¢ŞB@üög]fP£y€RuÄêh4‡w@\¬„g¸–F¨işçtC‚ÌE×qñIÍ¹±*kTæYŠ|³.]³€GòöŸ¢kñfÿP‘
+±ÏKÛv_ÚÎ‚´lĞ*y¢Û!‹•Ñ¥0ÚôŒ@ê wx¯$óÍ¦Ô’u¹Ó^’/pĞº®©n5”ªpBw¾ù2Šêz¦uSpø,<ØíÔHÁâ·îĞùfşsYòI‘mT§ÿ<*TêÙ¯ûa·ÉÛt1?¨")}rbZsóµpµèiÓ®|Š;©GM%ˆ_ØÃ1·Õ¥“ëYGº•·åÃ%E{ê™ûÿR©ûço8¥¨FÜ=ëóBLV‡ÃL	¹Ûí¶³B’Ìüå­ÕÍäŠR¾`P˜X6•÷@yS‚CÜî¾wÑñ»OB³Š­à1·~óãÃiÒ’ë]È³P¬mmø>õŸ¥`¯.]ı81$Ì+vü|È8²)ì/•?)$Ô£Éë,ĞxÉ$p„¿;:‡™•)*ÿ:¢ÂÃ³MKø¾İKº÷•—Ú$ÑjÙEƒšz”×où´¤w"damZHúäâPŞ4ñÊÂ©,MÃk/. Âil/ƒşßvÖÜ} ½í‡ûo€i¦Âûëø›5|	õŸ;&3'À„3D³öÿæÆSÁMXÏ@¬çÌ=Ó÷Ï²öì{Ò©Hô6Dhü»ÏÙA$4ä6îíq8ÆÂÈÑi#TÉ„A—“ï§•HQm*LˆMçL&ã‘õ")Pg2# âœì™aŒÀ9³v¬Œ^Šûò²7,ÛÔ­A³,¤Ôìã[ëÿ‰~µ«Yˆf6	S«ĞÛ€F"ğ^=/aItùºà)3ÃÀçfr†µ(Ù´îbYûÅ}&ĞëÕ/•+„CîŠ›âò6ô¹ö3Jµ4zæ‘DiQòò±2z+RØX^.æ_¨çóÛ+`©’`ÓY2[ëå@ÀuSU‚¿ä8&bÙz«œVj{KÒøsôŞœpMœ&’9Y­?„ÌŞ9ûÜÏCrâÿÜVyºpeUY7àŸw÷üÕæ·ôpd“Œ0}oªÚ‡ze^5.Ò{"é=gGÇÔÇ² \3óŞ{gÖ¾®d1Ş ÇÙ3MnœB‘’õ3&úC›ó$äËÒ¾ØÜ†Äÿï]¡oèëÕ	é_ÚY²M+d³+'\Ê[àÙÍl¾7W81È)õ¥e“¹ù*øvÑgÎ}!Ã²§œw„ûø$_£Â({eW;VÊÿg3“¬-u¯YÄğñš‰ašõ
+şµˆ#ÅcTp˜æ9è½™^Uá=HcŠ¡Çn×>“(ï³ú3G!Tõû'·=›ê”¬Ş46MdL¹!LÆ<U¢‰"v{‰^”gn.é¤h?g¤s—//wœÑ§O4ògr,ÏA'JO?Y_®}zÙí_rÎ½{ˆÙ÷…ŸüòØgBÖíVqÎè9Wª!œÇ¤Å8E&Q
+íøNÎV—Å62I|­”æY^Í»ûHƒ×g%’>ş(pcTSA5zæ}vğqùû1”¥‡µ°!¶Ä ãŒ	Ë4WA	[N<§¼{»·2İÏ¼ÆÄ)~ô2ƒƒâ_‹Ï¾$º=ôÒ&§šTÿõ`ro~K²ØAê´öÉ§‰I©úc’ÿ|ÂÑI½×ó¶Ûä›3[³7¥—­ cá;Åå,õşááD-,‹0³déáuçö…LîÆgÓÔ(Å›>iÙ‡DøX•Å[½j£6¢rAu?U%2!Á+­İ”¿
+Éú*7zDÒjæœnÌ/³…2,Ã$õ[|3ˆ‘O‚¿)ˆˆåÊ®-oø6?Zk^ß±	û9­Œ©—_>ùpwÌÖ$']¹"pm¿	Äµåú­[Ôr5Ìğé&	SO¸3ï°Å°PÎÒ*êT÷/ü>+ß+¼ÅZ%,ø/–ä®ÈÃP[L
+ˆ:ÓÏ+ÆÏ«vÖ}Í€YIÛ)­ÉÁà'“İÁ”ZzÕVŸÃ-I`ÌIO§©w‘Å‡Š	MÏvÅ9î2c4=ğ{ĞÀMN7ù[¶KĞî# H<òsÃÈœyˆ!¤’ë>iq‘FV¡ ¬u5—÷Ï0ODy—‰M™ïş"‹” ½!eÖæõš}@×÷ËÌrÂßîs‹˜ĞÁşŞÖ]Û£`sûÍĞEÚ•î²½N7ë(BuSLÔfWÂt2¨Ä—ÍšÈ_‡Vz[wÁ‰¿øÜ›ˆË}†V†ªLê%±Yã	»²ÂóŒaÎvÿ«İ«'Û‚X;ŠM§šÁ›w£Ä[ß·Y~ù…xåutf“|7ƒH”Í³Åtğ±ì…­#µ¹,C¦æE@æó`ÈñôËÜéwİs)GÌİI|kó•ó9IzA›ç–qÏºşmÄ`\Á5 ÆáÿÿL„àXâO-~ yÈ6L@Ô¹0"K5âã""•.aÕzçNûd‡…fÜ8²«y9¥|âÀ ($XO×ğ'E!¦m·Raç4úbÔõ«0¥ƒñzWƒ–8†2/¸$%nq†ì°W-K` éè8Îø™¼ïè¯2Œ¿Î²ó®Y Ê]ƒ‹TWèë,ŠLÜ’b‚Ãé;ù—;=¸g}t¦µ4ª?HêuîmÛĞi8
+Y”´7–O‹ğy­tjI5 İª·5ÿ+?åÙù¹h˜_á/š õQh‡îÑjGËiM÷´	˜¬Cd~íÒó{®eÚ½‘Pß¦+T¤ú»Ôã€{Òs¡rƒ+£$ç¦ÊŸ¡m©Æ:/ú;ßsÒçÍ¯áÀ.	^›*ÅbbçBV(±“ñG Â§ËË~ µ˜‹/ì5€šşK¾ñP}ÿŠHM‰2ŸU¹ˆÄ]=¦€¤M%÷¥f>¢†Æ·Íaı„ Npñùj¢ÏídoBš:bÜaµ	Şßë1xKC^òNÇ¨=çØS†µF )[Ì¿»Áj!Šp´sâøÃNBEó2†+=¸Şñ!ÂuÀ%‚šJ.¡Á»Äµ-xA ¿şøób.ßÎÙ-™ƒšWıUEèØ–Sî?ßYÊ‘¶¹ncª˜éwˆTôëî$_ßvNƒy¸ØĞÖIsï¬Åªvvi¼|©²‚u]\`.:¦uš…ì§,Dè–¥H—aeDHL©,3c(£œù&ÍäãQ#î;B\Â¢:ğ­Zÿ¦î©ºŞ<‹;FÒq;Ÿ[0R!§Uç©ÖÉ¶Ö„«H°’,½n6=ÇcÓü³¦E‚™NæLùVÀ¶Ù)Ì*˜×şÊsL¿YÕñrÆ^!SD_7)ÄhOÌ¸”WèˆüÎåMÇ65aÈtE–ŠùÄ1ı>$sÙ
+Ş©êÚ¥SZıy6©ÌŞª“³°b–%œĞDñÕcu>OB­ŠKHRBuj‰8_ªÉRë%YÍ²÷„û™1°·…šÂ^9ô@‡ÀŒÈX82;ˆÍag$¥µdTâLlï1ê‹7=öPÇw]®AğÄ[şpóm“™IÑ²Á&T‹•b6âJ£d¶aIÆ/ïvêàå’ú]ëôñÆ7ÏS?3 [Z0GÇäÛyóP¸fÿÕÓlö€†Ò(¨{È¹©Ç§eÌ‘6CX´
+êÑ§©ôyãtè’\¼Ì»r`àÿv¶§ÂÍX)nœ¦š†+^¸uâ>Õ»^F£K8>ú+Ës9qbˆP‚şjúh™¶ªÉ+(çEó³J?¶Š@®ÔĞƒš<Kdÿ‚q¸ª•^,\í÷ó6Fb&|™ò:3‘Û6~œwİ
+JÕ„Y? s˜ÓØÜÂ=Ñ'–şóXŞ*ƒ%İé$²s>ş¬)sÉ8zd
+ïÍî6¿ğ=®ôùÑ1p>ô#ÊpÜßãçW£î½²' (áÆò=Ç«3r¶o¥¦!ùµ†ßA^æq‹ÂR†üak¶&Ÿe†;›V«¢D¾k‰- VË<Ò«(*GîûÚ9û“t€#ù\pbWŒŞ¥À@üÎ½¿¦e_0CMœ1zWøÑfµAäµ8Ù½Æj1‰$€WìÙ^ßÑµ*„H¸E­w»Aß™@'ä—3ë634SbÒäÈ^µå¡óÌs±c®ô«¬ĞØ=M×ß¯A³ğ@Mo»÷ŠD]›{™ôŸsº€•°‚&Ùˆ´BguT:»¢³©¬×#¸áÇ^ß-ÌšÆ†Šx¨pâ,×£_&ÙÆÁ…h¯ƒ<¾´¸e‚˜¶·Dİzv§L˜¬8úwé´ÕïÃsğ®òùÕğ²š™üoƒ¥_H¬=•¨(ÿ£tÅYâö>æ\¥®Z=/${WÎy¢Kf …‰ÌYQ 6•{•¢µø¾…´å^ãÃƒ½“R%%îº¾‘÷òçr`ZaúÍò|H¥Ö'ÊLõ;«~%#I”]#«Â/"°J(P¦±-‘¦Æ„8n7L®jbpÎ¡ˆfƒ©¼x
+åçæÎ6v
+"n™şç( ÿµ ù|ãSÀzF!Š&Úgx½£O9¦QK'ÌøP^(ewØ3í¢ß¡„l
+aÎ«](ò¶¡ü5*ß¶×æšèøİ½&»X6<œ}ŠÈ6óÁ]ŒiH±¢ämè:¥‡G;HRâÈ ¸szr¦XNÔõ—¹7šr^·$UíäËí	©æÔ«~\Šğl­cãšärÔÈjÙ6*Ù[êÿœ\ß´‡Ÿ?Âéà¡3şdrPêäZÏ¬be8$’“znOtë¤’ëß¥*¶v¹†§5šF‘»éL3“¾”pá½{Í“‰ß£Û€*æ OôµD,ËäüPT ÕÒ5¦Xì,ßmxZìÜœ²eø+ÿåØëÓ!$&ÃÎV’İ›u_/æ¼/`Ø
+(%sB†*ˆDíz8„§ßç¥ü´[ pê¿Ü™w‘ı(ø6*7¡´7&(|‡U&F=ş×‘Šøœ³M™ °MPIãÉıŠ‰Y5îuşÂg¹”NÅ`Î{ÅE&AÛ³¡ÍÖ`·şóK$`S¡'j0óe,X¢IÎ,±pİo„+·%]äY!>…9û–0òĞ}ÃµGw«äoñ£¹à«Ä>%Ÿ-ÜÛTÍ³ï^ÿM¾Áóş>óY¡.Õ!óı;Ç'-K*Æ”¤ öå8Nñd1lUc.ò¨(2”Üƒaôv+À'­œíÛ$†Tî‡¡Şşşï#vÇÖ.Š®^¦X-ó 
+Î	Ğ·~=‰Œ(íÌu8HÅá<İ²¿idGì[°œ(Å0­gH&ë¹%ô-ê4\¼Æ‡C«~¢õÑæ¸$Âd‘XAU3ËkK9r3­(|¼/ıŒ§k°¯$GfaĞXˆ‰]&‹ ……§]Œê´µÅ€´¨¤í{AŞ0j,Ôª:9´Ãÿw1G1GãÒWÍ4ôqöh÷G±¦k:fØµ Éµ)nò¬[Û‚Ç(D;yœ?;O1f·KŞ¬]œŸ}yõ‡Él6@­7[D…ZÕ2Íá)7œÎ€ñjÚu4¬á~â'²ß“0H3/òrÂO£çªkæ5Éä`%W%$šë²G-¿ÑßM÷†èó¾1§¯»@hX¸Ê²J`[?w÷Ø
+eg¼õO÷Ü[”2È
+qğ‹ãû1R%5?Ê¢…ûî¾ßÀˆ™å
+\›e£g…±¶9Õ¤¬{aˆÄ»ğ¬‘3nEMäiä_w’¥›{T#„
+ôÓàñÄë¸Ôõµ*İº™µY ©tÒÇ‹ã·S3‚°q}YÚ‚Ø¢Ku#Ñ@ó6ÆÙ	K%ÿ•t{b8¦6ô6#¹E~"‰%sÓÒÉ{=rÇê +t?eWÒŸCê¥Ÿí¨Ñµø@Vú’ Ğu‡¥^u¿¿ArI&%JÃX5²B4*®˜ÿ\ôÌ…µMj@°IÛ56:ÓxL,»˜¿€Ïí6„ìĞM87/ öDÃ)í@²°dóN?‡Î@·+%Õcñ¼Á·•æsNİNq’ıM©"9fà®ê¯XU™˜M%_Ü
+šœ\¨Ö¯væjF“˜:ª‹*İqr]ÿ!=ù'DU(Ş‰¤.ğw {U˜Jï¡rC™-Í[ibh.›ÎÀ^6YR7Â$¹ó'Ò'Iñt4³ğhïeƒ¯Y4ÏóÁ7'¼Ëâ8u{mâ¥Ë1°ş6Ïı¦|y`µñ†iR¸³ë# QS´ûiO{ÌS…©Tpni·ÕFM¿M`‡(jqô$Lz!ÏóşØ‚4¹(‹ÀZÀé·æ0ÎX„Ğ@px®D®ôÔÓP;¬€ù)tbwR¦^– †:çüı‡WÁNÊı¢cË0ò£ÚƒHİËã÷ “Â¨u>C8–§ôFÄiCéÀø¾£Dñ·P…çBRÏÛ€q(—õäf1©PyÎ¥ó¿?äËã2N7GJ¼¼l#víÕe}Ï y:}f[¯U¯p.ÅDäµıÙÅb5ÇIziø"P…¬4ğKš¬?G u0t§RâËc´ıqæÄŠö…İò¨3vÊ,²íwİ8h5İbéÃZ’2T…%Óå<ÊSgäI¾¼xdôø² µ./~új¯Œ¨jv5—{Ù%ü8uå@ŠFf(¤ØŞ¡.¿±v´´ “G2ü PÄx€)ƒ ¨Iåé(¾heÓâ¥Âø’æü°Q´Ætg=Rƒ¾²yIˆ‡rÃ¿§šal…G·` ãºŒœiê¹ gô®9¾O§îD¾¸NıòÀ©}´8ï3{
+ïE¢û/ó.út‚ <ŒpÕó‹ªºâx¸:ØG€-v»SUÍİ‹ñ[-lğR@vsÓ‚€jbì‘y	©æ¢°—1Ç!¢+p–­îù†Öl'İ—Ù‹ÆcîpVbe˜3Øe¸îwÙ°Öì5ÏÙˆÈeÀ¦Ls2yãÜC>š@ro›§çLğS¾ƒÙÙª&~6tÖ®ÙÆ‚#T2+²"¿Ætp‰õ<—f-ˆóÜ:¼d\Ø>lén	ú”Î!/C;ˆüa5¯Uø,ÍUwŠ÷ÑåJÑVş-Ó#0=Ó&ûû$²3P;mU)ïŒ@"YÊ•À["ú6”¢Ôâól‘İ?NAv¨/È¥XÄêçÖïğÖ¢9^Ó0Î‹ÇÌ0hù&ä7áNá…4ÇÈ¨gÚGjíoÀå¡´LšĞ†êÅ*Yz{%zŸ:İ?qÿÖkÁfÏ/­…=Û3Gì¾í>cn:ÈÒq|¤T—¡v¿ ¾yƒË@B½}¥'}¹!¸`Ğ,ÔK€‡IK'»öÄ3' *â8çiW„rpÈÚNbªµaRò[l+¦Q¦í%ªŒÉÌú, ŞO!æÑbS˜mÿÁ·îÒŒ.ÕÇÉx‡›mjEÏZÍ¸*Û49ßÔ·*ºeÜÂ|JÒ¿Jw’=²vŒÊÚ/dzGö+	 Ú/wı®?ÎÀé¾‹Ñ¶3
+0ÒÉ\uËåÇË˜7ÀW›÷õ{WùtL¬’`Js-ç²mé2ü=Ìİé¦ ²FÀZš9úÑ„4ğÓë›(‹Ü{Öy‚bñ££Âa®ñ¬sAl±Ê…ÎôkÍóx_kŠ¨ ÎŸ˜à§)òç‹#Ly5¬”íçbÀ %¿¶§ÙmN sÕOå8itÒDó‚»İñ`	¾èãMÖ•EN‘ŸX«k¿atõ«ÈøX}u-Ì5˜Hc@†°ïØ>%–Í˜ÆŒ>YŒÑşŞò{[g^}‚nuA«]è­‰ 0ZÕ%•Œpè¶}rd½nÒ!6©¼\På€á@I#$éLÚãÿ¼fŠ|°T§k'IĞşVÑøúe¸—+†»N"Ë3Ì!ª%WL«}ÁI¯4“¿ÖpKí°‹z\-W¬C !ÜgÇ ëP8¹nrZU:ÉÏå¸]ÚwÜñÓÇ ÖBs…L)[uî<ºÔËé,3€Ÿ)&e¯\û_™ı>ágÑç+ä1À!85”x,ÀRs.`bÍ’Â¬"½m±±¡ÜE¨..8ÆÕğpI:â¯Jµiµk›‹Ø4ô§g«Qê!`ngŒŸœ½Ï‘Çps6`¨r!äˆ Ò{J*İM –Xww5ˆŒ“h³NŒÅ”ªdÉü¢¹ïGÆGíG‡a!]ìÛ§mÏ€±ÃvgIdjïD¬9r±ï|Ê<1@
+uàÒæÜXKbt¥8Şa^Q§ú¡xª_·İšRÕ‚ê8í†&6fªd÷~€‰‹ˆ1@lÜQ"¤ »	MH(”ŒÈ)xl6c%;_‡ŒãW¥[CŠŞ|k+cŞìPúŠÚ^»ï5vT3Ù™¶$¿qÛ5˜ğÛ$×e~ºüÁ\ y2ë¬¸Q¹.&.ŸÇ¨h‡9
+§_ÈƒãLÈŒÂ
+z’O)ñ»:³K©kº.§Ş^Pù!\ZI¿ñÌ;sÂ¯wûÏÌåı¼)‹äÒ¡.jRRüæ
+ß¬"PS^`qÿ¿ôœÎUÈvŞ'×½‹V4$-Wu1/ß×âè/%ø¤Q)7JÃ ğ®0™H·hlÄmüñÑ©9Ø¢ßùÙ¾ÛJÇ2»yª–²ŞÇ	û¹/—N€³ñĞëÍÃ„*øm"GGrx:®dæL~ä„9˜LE”›øSAW1Ÿ.çÓ‚>İ—ÛğŒ®¹¥dŸhq :²ª“_^]‹{ãVÒ‹Éñåp?»·t?…	Ø¾Ã^?O%”*i½ñİ«brA#èL]OJ%˜$e^YèCû“$~l{êä5JçC!¬m]Ì_¿2 Ù†nçÁr1	BùwŸvĞH¢d oM£Tš¤³2¬Á§RøØ[6i6–É^óƒR•¶Ú‡oşHzÛÌ"šo)nÛúÑ¬CSÆiuCàâãæöÅ½âZGCü‚æóÑìà\zT£¢şäh3÷‘ßnaüÙ'¨|9ƒn§‚Ü˜ÊIÙ“Œà	µÎö¼ıÆJtî^4"¾iƒDBÈkkïØ€D­lË>—İ*Ó_—Ÿ[ÃwjŞŠdÓjŸjºÇ]µè`Tã›²$ssï­¥¤Æ;ò®‘Âÿ°ø”­@†Š6Ss>†}ŒKdÁ‘*TÖ—Íj½õ…ÉÓ„ß‘ÚŸ·hk|Ë$Ï¡)†9é7@Püîªİõ9IÒw3áGÊEC…@|¾]PkÌÍ•ÊèƒVE|U5Œ8Êh‡IãüfÙd³…¬ >Á¶*·2ƒdagWVœZç^•œ0+N+Ù?Ìù‚VâKÊQ6ŒC´§%˜œªëíéÇ.Ù[*ÒîDÒ|›ûö5.¥f¹(‰ ·{q4Ò Ûí«­"Â­éw1˜3¿…‡²Übã*#Xa¶"Õ	¸Èù‹4)ª|]òûÅ¡¯wëáv¶ak|¸¢mÄ4–>NaŠ‹;o] eQ:QbÿšuÑjåcqÆmaX_5çĞ°«¬É:Dï¨É)#KºŒ¢%QÖË
+’Y¬0òu¯Ù¯Š h?ÒB6õ¨Ÿ¦¶y34]"¥ÛÅÉ’mj¶¥ÖŞ¦C*0¹_TA·Å‡I~ôŠ„ÉKb–»ÏgÓ‹(æWï}éÇh³T'“*»«nø–X{Ã"Û´­ñ­¨Ï±ëZw³¡}7‰k'GšèÇÿ€ä”ÌhŒãB¿kç7K^ ^¢:¬tÑS—øÆ_<o&Ò¨ˆ½6˜]ŸÃ$:	¯˜rT$¬[³ü¹²o4>Hôv&®±¦œI=?¬a}Pkşì±µÚ3;$šçŒÇÆŠ¾³yø«gÂbøÈ)-çËœIƒ•ñ'ñ›ŞêhäÑÆN—òó5ÇB²˜n¨.º!¼¨ÍdR§GKÃQEï)ÌéÍïÙò¿•9H_·Üé
+çêvÕôGõUæ¿…W<OáIğÿCp³Sk8‡ã Îcj® Ü|Nêı¡²SÏıFFêóKêM€¦ˆ|ş¥7Ñ¼ÃN`‘*GtÇg5=[$“ofxrCŸB¯ræĞ ‰*Ø.×ĞØCU*Ëı Ûâş†®çI~n(å3Ç	'Ãrn4=Å=n^RQ#½Š¨ú„;?ÎVV,hå×=°6ÓË]©¢ñ»éz1] Skê¥n 9µ[n*‚ÕĞÃø{P²/JÂ;Û!Ğ*œºWò›¯P3öÒ	LN£x;ß½BÊrëae`lˆ3f¤_S’,ïyAœr_¾Sfúö«xˆ˜5Ë´s£l¾»Y7në~Ëã «FjZgy?ÂÊïí”†Ë»åÚj}V!Õ‹¼i£#SFEñõØkvÍ·mÂU%1eA÷ÄHµ¯.©İ¡ò{©Ÿ3L†;˜»ßJÏWÅ…°ÔÊ
+ŸV[·¹ú¼³g…Qœ</fÔŠxhzÔ§A8lŒ‘İsw>¤œ|+çù4$‰ƒ¥E¥uã‰_BÌ_äŠÈÇuG¬JU‹ädÏR!÷„	†Á‡$ÿ«s¸=ƒhwp9Ì¼Y,’ºÙüŒÍN’Mæõ†\»ª‹{ıÑø E]hĞ†¬áı4‚àBÅ˜‰¶"HŞ\ÎÁÁ=º;ï0Y8¾ƒ¬5RŞjC÷ßEß§<§Ö3¸ÿ‹â?/´µ³„µn	Ç.^ÇXJf;¬øíd¬˜ˆô±ÙÑ«Wš…BˆÜ¥1¶½k ‚Î©DRÃo&- ¬«”"9†ûæ&Tnz Ü=%£VÃ‡&'RéÌùñİ‚¿•(h‚¤	Ç@¯Ê†]zÁş)«U³äÜ ¡>/w¡±JÃ€pF}Üz›ŸÔÂ=Ö`•›} Ü‰qË·˜ˆôÔÀÙ»<
+D:>—šãNf…"¸³£Ô5×Ş´¢sİçÊ,Â×\¡«ÙÉ%İÒ|°“¦]U\¥U È…ú–@^¾BhËsV,}¥i R1qÏÌÊÑÿ-Wz’Í°Ü
+İ¡#mªš"JX<G<ÎG&UÔÁn“ÇƒÙ>ÄnZ~£É{İ0YÜ¤“Øü™yÄt¼Á&ípg3Š„½Ÿ?…)±òš½ræ“&	'f²æ¥[ê¹ø¿âòè€äRPiÍ:-ìÎ+Áä”ÎÀÀm8@b}+`¼®[ 0^áq…™=Ç;-Ô3j„ìg	x€ZËQ=ëû.ş£¸ç„J¨‡úøŠB— 8¾sÆõ#ó&Róvœ|ÄX “×õ…Â[0Ş¶?ƒEx[ÆxÏ­f±§õyT6©aéÅqéc¼æ­Áä#Ûú7ïS‚ó"à‚Í†Oya=Ùµùä íæ=JÖK>[.KNÂ‡£j\gSâÁüShõbœ(2Úç 0v­M±„AÏì¹BB4¸ Ÿ–·K+œ1¬ÏIrŞ*”-Õ¿·®1Í[>hK¤F½¨ê5`4N{Øylî«%I<şâ"­t2›'Ä>î\hkIşÛ´›Ø‰#jû³&D=ú;XŒkj©'„‰Kàä$w®WÖE}fµŠ}ñ¿·G-”Œ{­áq}6LtÆo¼ºòË[
+ëv6_nBFâ¿tä†¡#Nn¾¦­Ù†‘T´Ò[­ÔÌYNùHå.'İbˆgöÁgCè¾ÈêçåR#2ßnec6ŸÜeûb
+Rºw8BÇó7
+\>ôé( Œ_:ÑŞÀ|/É–ñ#1ß²½ãUcù‡¸ÉÚÂ‡¿Ri2Kq÷|¢¿Ùh/‘eÕ¶çdÁ$±yS½‚“Â›?Cß^à£'Q\’èÓ³ËÜĞŒd§+ÎwA'CñCÎHİåuUA*öSJ6ªñF°WÅ‰W’o}H÷q;:69âD¯£ÁI.´íËK†Ş«Ásgz²&ÌG$”S1•-
+à(mtÕßÎÒ$Ñ­ë/"§L:ÿßpÅ)'ìŞVö/î<Ş©½k@ßéA }cx$´=êy@{½ÒšâçĞì:¯Ã¡ù®Í§7Şùà/ªIJõZŞÜ}˜-“¶GQ¸ƒÙƒz‘¸FG{OÈ"¢˜òï¾ÑRéOşÇnô¥õÛ ¼í¸² ™K¹ùm¢è±¦_äØ6kôí™DúÃûf“|>üE…WµEºSAá3e``·€TÓCª{À‹”Ğâx.jçNSlÂâ)¬S³æôñ1İÓ¥½-(ufÛÜì¥nˆ0õ7šõ¶ÚÊI+?{§c±ÂË)S?—Í®Ø{öi‰¸›”Wã_Wî1Ú´ò5·i9›qÁşøaW¯5 hpåğWKEG8öN/ålt=+¡s0×ãŞ=¥'¨<ƒèŒf™¬ìŞäG-ã¥YdÜæØ…’ßR;«AiÜ¹ƒ¿9ä£úbˆ;bß1$p-­‹ğÁİŒw2\Ùäa:©è÷2˜PŒ`œ”’#Æñ2›~}¦Òn98ÔÜmt<U"‹—áŞÂO	?£lªµV•¦úp¸.~¸:Äaö–iV~Æ	ä
+ş0éã‰%~U=÷æ0}´×©ëqj/&Ç%ö´ØğP–˜á|÷¢9Ø§Ç ’Uµ‰=] àyHlŸ'ól¦'f"Ô³ë[„·è
