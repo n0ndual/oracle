@@ -121,143 +121,167 @@ def extract_audit_data(audit_filename):
 
 def review(audit_filename):
     review_result = ""
-    ok, result = extract_audit_data(audit_filename)
-    if not ok:
+    try:
+        ok, result = extract_audit_data(audit_filename)
+        if not ok:
 #        print(result)
-        review_result += "Valied proof file format: False\n"
+            review_result += "Valid proof file format: False\n"
+            return False, review_result, None
+        else:
+            review_result += "Valid Proof File Format: True\n"
+            audit_data = result
+    except Exception as e:
+        review_result += "Valid proof file format: False\n"
         return False, review_result, None
-    else:
-        review_result += "Valid Proof File Format: True\n"
-    audit_data = result
+
     #1. Verify TLS Server's pubkey
     # to-do: verify cert signed by trusted root CA
     # to-do: extrct pubkey from ca certificate, compare with pubkey in pgsg
-    audit_session = shared.TLSNClientSession(ccs=audit_data['cipher_suite'],tlsver=audit_data['initial_tlsver'])
-    first_cert_len = shared.ba2int(audit_data['certs'][:3])
-    cert_bi = audit_data['certs'][3:3+first_cert_len]
-    cert = OpenSSL.crypto.load_certificate(OpenSSL.crypto.FILETYPE_ASN1, cert_bi)
-    cert_cn = cert.get_subject().CN
-    print(cert.get_subject().get_components())
-    print("cert CN:",cert.get_subject().commonName)
-#    server_name = cert.get_subject().CN
-    print("audit_data server:", audit_data['host'])
-    server_name = audit_data['host']
-#    print("is rsapublickey:",isinstance(cert.get_pubkey().to_cryptography_key(), cryptography.hazmat.primitives.asymmetric.rsa.RSAPublicKey))
-    server_mod = cert.get_pubkey().to_cryptography_key().public_numbers().n
-#    print("extrct public_key mod:", server_mod)
+    try:
+        audit_session = shared.TLSNClientSession(ccs=audit_data['cipher_suite'],tlsver=audit_data['initial_tlsver'])
+        first_cert_len = shared.ba2int(audit_data['certs'][:3])
+        cert_bi = audit_data['certs'][3:3+first_cert_len]
+        cert = OpenSSL.crypto.load_certificate(OpenSSL.crypto.FILETYPE_ASN1, cert_bi)
+        cert_cn = cert.get_subject().CN
+        print(cert.get_subject().get_components())
+        print("cert CN:",cert.get_subject().commonName)
+    #    server_name = cert.get_subject().CN
+        print("audit_data server:", audit_data['host'])
+        server_name = audit_data['host']
+    #    print("is rsapublickey:",isinstance(cert.get_pubkey().to_cryptography_key(), cryptography.hazmat.primitives.asymmetric.rsa.RSAPublicKey))
+        server_mod = cert.get_pubkey().to_cryptography_key().public_numbers().n
+    #    print("extrct public_key mod:", server_mod)
 
 
-    if cert_cn.startswith("*."):
-        cert_cn = cert_cn[2:]
-    if cert_cn.endswith(".cn"):
-        cert_cn = cert_cn[:-3]
-    if cert_cn.startswith("www."):
-        cert_cn = cert_cn[4:]
+        if cert_cn.startswith("*."):
+            cert_cn = cert_cn[2:]
+        if cert_cn.endswith(".cn"):
+            cert_cn = cert_cn[:-3]
+        if cert_cn.startswith("www."):
+            cert_cn = cert_cn[4:]
 
-    print("cert CN:",cert_cn)
-    if "." in cert_cn:
-        cert_cn_arrays = cert_cn.split(".")
-        cert_cn = cert_cn_arrays[-2]
-    print("cert CN:",cert_cn)
-    
-#    if not server_name.endswith(cert_cn):
-#    if cert_cn not in server_name:
-#        review_result += "Valid Host name: False\n"
-#        return False, review_result, None
-#    else:
-#        review_result += "Valid Host name: True\n"
-    print ('Processing data for server:', server_name)
-#    if server_name.strip() != audit_data['host'].strip():
-#        return False, "host name not match"
-    public_hex = binascii.hexlify(shared.bi2ba(server_mod))
-#    if  server_name.startswith("*."):
-#        short = server_name[2:]
-#        url_openssl = "free-api."+short
-#        print ('Processing data for server:', server_name)
-    cipher_key = audit_data['cipher_suite']
-    cipher_suites = shared.tlsn_cipher_suites
-    chosen_cipher = cipher_suites[cipher_key][0]
-    print("chosen cipher suite:", chosen_cipher)
-    tls_ver = "-tls1_1"
-    if audit_data['tlsver']==bytearray('\x03\x01'):
-        tls_ver = "-tls1"
+        print("cert CN:",cert_cn)
+        if "." in cert_cn:
+            cert_cn_arrays = cert_cn.split(".")
+            cert_cn = cert_cn_arrays[-2]
+        print("cert CN:",cert_cn)
 
-    print("tls ver:", tls_ver)
-    cmd = "echo |openssl s_client " + tls_ver + " -cipher " + chosen_cipher +" -connect "+server_name+":443 2>&1 | openssl x509 -pubkey -modulus -noout 2>&1 | grep 'Modulus' | sed 's/Modulus=//g' "
-    import subprocess
-    public_openssl = subprocess.check_output(cmd, shell=True).strip('\n')
+    #    if not server_name.endswith(cert_cn):
+    #    if cert_cn not in server_name:
+    #        review_result += "Valid Host name: False\n"
+    #        return False, review_result, None
+    #    else:
+    #        review_result += "Valid Host name: True\n"
+        print ('Processing data for server:', server_name)
+    #    if server_name.strip() != audit_data['host'].strip():
+    #        return False, "host name not match"
+        public_hex = binascii.hexlify(shared.bi2ba(server_mod))
+    #    if  server_name.startswith("*."):
+    #        short = server_name[2:]
+    #        url_openssl = "free-api."+short
+    #        print ('Processing data for server:', server_name)
+        cipher_key = audit_data['cipher_suite']
+        cipher_suites = shared.tlsn_cipher_suites
+        chosen_cipher = cipher_suites[cipher_key][0]
+        print("chosen cipher suite:", chosen_cipher)
+        tls_ver = "-tls1_1"
+        if audit_data['tlsver']==bytearray('\x03\x01'):
+            tls_ver = "-tls1"
 
-    print("hex:"+public_hex.upper().lower())
-    print("openssl:"+public_openssl.upper().lower())
-    if public_hex.upper().lower() == public_openssl.upper().lower():
-        review_result += "Valid server pub key: True\n"
+        print("tls ver:", tls_ver)
+        cmd = "echo |openssl s_client " + tls_ver + " -cipher " + chosen_cipher +" -connect "+server_name+":443 2>&1 | openssl x509 -pubkey -modulus -noout 2>&1 | grep 'Modulus' | sed 's/Modulus=//g' "
+        import subprocess
+        public_openssl = subprocess.check_output(cmd, shell=True).strip('\n')
 
-    else:
+        print("hex:"+public_hex.upper().lower())
+        print("openssl:"+public_openssl.upper().lower())
+        if public_hex.upper().lower() == public_openssl.upper().lower():
+            review_result += "Valid server pub key: True\n"
+
+        else:
+            review_result += "Valid server pub key: False\n"
+            return False, review_result, None
+
+    except Exception as e:
         review_result += "Valid server pub key: False\n"
         return False, review_result, None
 
-    check_cert = os.system("echo |openssl s_client " + tls_ver + " -cipher " + chosen_cipher +" -connect "+server_name+":443")
-    print("check_cert result:", check_cert)
-    if check_cert == 0:
-        review_result += "Valid server certificate chain: True\n"
-    else:
+    try:
+        check_cert = os.system("echo |openssl s_client " + tls_ver + " -cipher " + chosen_cipher +" -connect "+server_name+":443")
+        print("check_cert result:", check_cert)
+        if check_cert == 0:
+            review_result += "Valid server certificate chain: True\n"
+        else:
+            review_result += "Valid server certificate chain: False\n"
+            return False, review_result, None
+    except Exception as e:
         review_result += "Valid server certificate chain: False\n"
-
+        return False, review_result, None
+    
     # to-do check if openssl cmd return 0
     #2. Verify Proof from the Auditor Side
     # the partial proof from auditor is signed by auditor
     #First, extract the cert in DER form from the notarization file
     #Then, extract from the cert the modulus and server name (common name field)
     #To do this, we need to initialise the TLSNClientSession
-    audit_session = shared.TLSNClientSession(ccs=audit_data['cipher_suite'],tlsver=audit_data['initial_tlsver'])
-    first_cert_len = shared.ba2int(audit_data['certs'][:3])
-#    server_mod, server_exp = audit_session.extract_mod_and_exp(certDER=audit_data['certs'][3:3+first_cert_len], sn=True)
-    data_to_be_verified = audit_data['commit_hash'] + audit_data['pms2'] + shared.bi2ba(server_mod) + audit_data['audit_time']
-    data_to_be_verified = sha256(data_to_be_verified).digest()
-    if not shared.verify_signature(data_to_be_verified, audit_data['signature'],oracle_int_modulus):
-        review_result += "Valid Auditor Signature: False\n"
-        return False, review_result, None
-    else:
-        review_result += "Valid Auditor Signature: True\n"
-    #3. Verify commitment hash.
-    if not sha256(audit_data['response']).digest() == audit_data['commit_hash']:
+    try:
+        audit_session = shared.TLSNClientSession(ccs=audit_data['cipher_suite'],tlsver=audit_data['initial_tlsver'])
+        first_cert_len = shared.ba2int(audit_data['certs'][:3])
+    #    server_mod, server_exp = audit_session.extract_mod_and_exp(certDER=audit_data['certs'][3:3+first_cert_len], sn=True)
+        data_to_be_verified = audit_data['commit_hash'] + audit_data['pms2'] + shared.bi2ba(server_mod) + audit_data['audit_time']
+        data_to_be_verified = sha256(data_to_be_verified).digest()
+        if not shared.verify_signature(data_to_be_verified, audit_data['signature'],oracle_int_modulus):
+            review_result += "Valid Auditor Signature: False\n"
+            return False, review_result, None
+        else:
+            review_result += "Valid Auditor Signature: True\n"
+        #3. Verify commitment hash.
+        if not sha256(audit_data['response']).digest() == audit_data['commit_hash']:
+            review_result += "Valid server response: False\n"
+            return False, review_result, None
+        else:
+            review_result += "Valid encrypted server response: True\n"
+    except Exception as e:
         review_result += "Valid server response: False\n"
+        print(e)
         return False, review_result, None
-    else:
-        review_result += "Valid encrypted server response: True\n"
 
     #4 Decrypt html and check for mac errors. Response data and MAC code from auditee will be checked by the MAC key from Auditor
-    audit_session.unexpected_server_app_data_count = shared.ba2int(audit_data['response'][0])
-    audit_session.tlsver = audit_data['tlsver']
-    audit_session.client_random = audit_data['client_random']
-    audit_session.server_random = audit_data['server_random']
-    audit_session.pms1 = audit_data['pms1']
-    audit_session.pms2 = audit_data['pms2']
-    audit_session.p_auditee = shared.tls_10_prf('master secret'+audit_session.client_random+audit_session.server_random,
-                                                first_half=audit_session.pms1)[0]
-    audit_session.p_auditor = shared.tls_10_prf('master secret'+audit_session.client_random+audit_session.server_random,
-                                                second_half=audit_session.pms2)[1]
+    try:
+        audit_session.unexpected_server_app_data_count = shared.ba2int(audit_data['response'][0])
+        audit_session.tlsver = audit_data['tlsver']
+        audit_session.client_random = audit_data['client_random']
+        audit_session.server_random = audit_data['server_random']
+        audit_session.pms1 = audit_data['pms1']
+        audit_session.pms2 = audit_data['pms2']
+        audit_session.p_auditee = shared.tls_10_prf('master secret'+audit_session.client_random+audit_session.server_random,
+                                                    first_half=audit_session.pms1)[0]
+        audit_session.p_auditor = shared.tls_10_prf('master secret'+audit_session.client_random+audit_session.server_random,
+                                                    second_half=audit_session.pms2)[1]
 
-    audit_session.set_master_secret_half()
-    audit_session.do_key_expansion()
-    audit_session.store_server_app_data_records(audit_data['response'][1:])   
-    audit_session.IV_after_finished = (map(ord,audit_data['IV'][:256]),ord(audit_data['IV'][256]), \
-            ord(audit_data['IV'][257])) if audit_data['cipher_suite'] in [4,5] else audit_data['IV']
+        audit_session.set_master_secret_half()
+        audit_session.do_key_expansion()
+        audit_session.store_server_app_data_records(audit_data['response'][1:])   
+        audit_session.IV_after_finished = (map(ord,audit_data['IV'][:256]),ord(audit_data['IV'][256]), \
+                ord(audit_data['IV'][257])) if audit_data['cipher_suite'] in [4,5] else audit_data['IV']
 
-    print("start to decrypt")
-    plaintext, bad_mac = audit_session.process_server_app_data_records(is_for_auditor=True)
-    print("decrypt done")
-    if bad_mac:
+        print("start to decrypt")
+        plaintext, bad_mac = audit_session.process_server_app_data_records(is_for_auditor=True)
+        print("decrypt done")
+        if bad_mac:
+            review_result += "Valid decrypted response content: False\n"
+            return False, review_result, None
+
+        plaintext = shared.dechunk_http(plaintext)
+        plaintext = shared.gunzip_http(plaintext)
+        if plaintext == audit_data['html']:
+            review_result += "Valid decrypted response content: True\n"
+        else:
+            review_result += "Valid decrypted response content: False\n"
+            return False, review_result, None
+    except Exception as e:
         review_result += "Valid decrypted response content: False\n"
         return False, review_result, None
-
-    plaintext = shared.dechunk_http(plaintext)
-    plaintext = shared.gunzip_http(plaintext)
-    if plaintext == audit_data['html']:
-        review_result += "Valid decrypted response content: True\n"
-    else:
-        return False, review_result, None
-
     #5 Display html + success.
 #    with open(join(current_session_dir,'audited.html'),'wb') as f:
 #        f.write(plaintext)
