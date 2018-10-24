@@ -65,25 +65,29 @@ def extract_audit_data(audit_filename):
         host_line = f.readline()
         if not host_line.startswith("host: "):
             return False, "Invalid file format host"
-        print(host_line)
-        audit_data['host'] = host_line[6:].strip()
+        print("hostline:",host_line,"end");
+        audit_data['host'] = host_line[6:].strip(r'\r\n')
+        print("host:",audit_data['host'],"end");
         html = ''
         response_prefix = f.readline()
-        if response_prefix != 'response:\n':
+        if response_prefix != 'response:\r\n':
             return False, "Invalid file format response"
-        response_appendix = '----------------------------------\n'
+        response_appendix = '-----PROOF BINARY DATA-----\r\n'
         line = f.readline()
         while line != response_appendix and line != '':
             html += line
             line = f.readline()
+            
         if line != response_appendix:
             return False, "Invalid file format response_adppendix"
-        html = html[:-1]
-        print(html)
+
+        print("html len:",len(html))
+        html = html[:-2]
+        print("html len:",len(html))
         audit_data['html'] = html
-        header = f.readline()
-        if header != 'notarization binary data\n':
-            return False, "Invalid file format binary data header"
+#        header = f.readline()
+#        if header != 'notarization binary data\n':
+#            return False, "Invalid file format binary data header"
 #        version = f.read(2)
 #        if version != '\x00\x02':
 #            raise Exception("Incompatible file version")
@@ -97,7 +101,6 @@ def extract_audit_data(audit_filename):
         audit_data['certs_len'] = shared.ba2int(f.read(3))
         audit_data['certs'] = f.read(audit_data['certs_len'])
         audit_data['tlsver'] = f.read(2)
-        audit_data['initial_tlsver'] = f.read(2)
         response_len = shared.ba2int(f.read(8))
         audit_data['response'] = f.read(response_len)
         IV_len = shared.ba2int(f.read(2))
@@ -116,7 +119,27 @@ def extract_audit_data(audit_filename):
         audit_data['audit_time'] = f.read(4)
     return True, audit_data
 
+def convert(filename):
+    html = "";
+    response_appendix = '-----PROOF BINARY DATA-----\r\n'
+    hex_mode = False;
+    with open(filename,'rb') as f:
+        line = f.readline()
+        while line != '':
+            if not hex_mode:
+                if line == response_appendix:
+                    hex_mode = True
+                newline = line.replace("\r\n", "<br>")
+                newnewline = newline.replace("\n", "<br>")
+#                print("line:", newnewline)
+                html += newnewline
+            else:
+                hex_line = binascii.b2a_hex(line)
+                html += hex_line
+            line = f.readline()
 
+#    print("html:",html)
+    return True, html
 
 
 def review(audit_filename):
@@ -138,7 +161,7 @@ def review(audit_filename):
     # to-do: verify cert signed by trusted root CA
     # to-do: extrct pubkey from ca certificate, compare with pubkey in pgsg
     try:
-        audit_session = shared.TLSNClientSession(ccs=audit_data['cipher_suite'],tlsver=audit_data['initial_tlsver'])
+        audit_session = shared.TLSNClientSession(ccs=audit_data['cipher_suite'],tlsver=audit_data['tlsver'])
         first_cert_len = shared.ba2int(audit_data['certs'][:3])
         cert_bi = audit_data['certs'][3:3+first_cert_len]
         cert = OpenSSL.crypto.load_certificate(OpenSSL.crypto.FILETYPE_ASN1, cert_bi)
@@ -190,6 +213,7 @@ def review(audit_filename):
 
         print("tls ver:", tls_ver)
         cmd = "echo |openssl s_client " + tls_ver + " -cipher " + chosen_cipher +" -connect "+server_name+":443 2>&1 | openssl x509 -pubkey -modulus -noout 2>&1 | grep 'Modulus' | sed 's/Modulus=//g' "
+        print("cmd:", cmd)
         import subprocess
         public_openssl = subprocess.check_output(cmd, shell=True).strip('\n')
 
@@ -217,7 +241,7 @@ def review(audit_filename):
     except Exception as e:
         review_result += "Valid server certificate chain: False\n"
         return False, review_result, None
-    
+
     # to-do check if openssl cmd return 0
     #2. Verify Proof from the Auditor Side
     # the partial proof from auditor is signed by auditor
@@ -225,7 +249,7 @@ def review(audit_filename):
     #Then, extract from the cert the modulus and server name (common name field)
     #To do this, we need to initialise the TLSNClientSession
     try:
-        audit_session = shared.TLSNClientSession(ccs=audit_data['cipher_suite'],tlsver=audit_data['initial_tlsver'])
+        audit_session = shared.TLSNClientSession(ccs=audit_data['cipher_suite'],tlsver=audit_data['tlsver'])
         first_cert_len = shared.ba2int(audit_data['certs'][:3])
     #    server_mod, server_exp = audit_session.extract_mod_and_exp(certDER=audit_data['certs'][3:3+first_cert_len], sn=True)
         data_to_be_verified = audit_data['commit_hash'] + audit_data['pms2'] + shared.bi2ba(server_mod) + audit_data['audit_time']
@@ -236,7 +260,7 @@ def review(audit_filename):
         else:
             review_result += "Valid Auditor Signature: True\n"
         #3. Verify commitment hash.
-        if not sha256(audit_data['response']).digest() == audit_data['commit_hash']:
+        if not sha256(audit_data['response']+audit_data['certs']).digest() == audit_data['commit_hash']:
             review_result += "Valid server response: False\n"
             return False, review_result, None
         else:
@@ -261,7 +285,7 @@ def review(audit_filename):
 
         audit_session.set_master_secret_half()
         audit_session.do_key_expansion()
-        audit_session.store_server_app_data_records(audit_data['response'][1:])   
+        audit_session.store_server_app_data_records(audit_data['response'][1:])
         audit_session.IV_after_finished = (map(ord,audit_data['IV'][:256]),ord(audit_data['IV'][256]), \
                 ord(audit_data['IV'][257])) if audit_data['cipher_suite'] in [4,5] else audit_data['IV']
 
@@ -295,11 +319,16 @@ def review(audit_filename):
     return True, review_result, plaintext
 
 if __name__ == "__main__":
-    audit_filename = sys.argv[1]
+    cmd = sys.argv[1]
+    audit_filename = sys.argv[2]
     #for md5 hash, see https://pypi.python.org/pypi/<module name>/<module version>
 
-    ok, content = review(audit_filename)
-    if ok:
-        print(content)
+    if cmd == "review":
+        ok, result, html = review(audit_filename)
     else:
-        print("Audit failed!", content)
+        ok, html = convert(audit_filename)
+        
+    if ok:
+        print(html)
+    else:
+        print("Audit failed!", html)

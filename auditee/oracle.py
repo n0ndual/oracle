@@ -97,6 +97,13 @@ def review(filename):
         return result, 200
     return result, 200
 
+@app.route('/convert/<filename>', methods=['GET', 'POST'])
+def convert(filename):
+    filepath = os.path.join(PROOF_DIR, filename)
+    ok, result = reviewer.convert(filepath)
+    if ok:
+        return result, 200
+    return result, 200
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000, debug=False)
