@@ -66,7 +66,7 @@ def extract_audit_data(audit_filename):
         if not host_line.startswith("host: "):
             return False, "Invalid file format host"
         print("hostline:",host_line,"end");
-        audit_data['host'] = host_line[6:].strip(r'\r\n').replace("\r\n", "")
+        audit_data['host'] = host_line[6:].strip(r'\r\n').strip('\r\n').strip('\\r\\n')
         print("host:",audit_data['host'],"end");
         html = ''
         response_prefix = f.readline()

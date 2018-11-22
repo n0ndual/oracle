@@ -307,9 +307,13 @@ def send_and_recv (cmd, dat, session_id, timeout=5):
     print("send data:")
     headers = {'Request':cmd,"Data":b64encode(dat),"UID":session_id}
     url = 'http://'+shared.config.get("Notary","server_name")+":"+shared.config.get("Notary","server_port")
+    print("url", url)
     r = requests.head(url,headers=headers)
+    print("r headers:", r.headers);
     r_response_headers = r.headers #case insensitive dict
     received_cmd, received_dat = (r_response_headers['response'],r_response_headers['data'])
+    print("headers:", headers)
+    print("received:", received_cmd, received_dat)
     return ('success', received_cmd, b64decode(received_dat))
     
 #reconstruct correct http headers
