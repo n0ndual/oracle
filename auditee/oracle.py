@@ -3,6 +3,9 @@ import os, json, requests
 import notarize
 import reviewer
 import sys
+import time
+import random
+import string
 reload(sys)
 sys.setdefaultencoding("utf-8")
 
@@ -77,7 +80,7 @@ def ipfs(filename):
     return url, 200
 
 @app.route('/upload', methods=['POST'])
-def upload(filename):
+def upload():
     """Upload a file."""
 
     date = time_str = time.strftime('%d-%b-%Y-%H-%M-%S-', time.gmtime())
